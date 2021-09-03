@@ -89,6 +89,16 @@
 
 \renewcommand\headrulewidth{0.5pt} % Thickness of the header rule
 
+
+\fancypagestyle{plain}{
+	\lhead{} % Left header; output the instructor in brackets if one was set
+	\chead{} % Centre header
+	\rhead{}
+
+  \renewcommand{\headrulewidth}{0pt}%
+  \fancyfoot[C]{\small Page\ \thepage\ sur\ \pageref{LastPage}}%
+}
+
 %----------------------------------------------------------------------------------------
 %	MODIFY SECTION STYLES
 %----------------------------------------------------------------------------------------
@@ -132,7 +142,8 @@
 	\vspace{0.5\baselineskip} % Whitespace before the question
 	\section{} % Blank section title (e.g. just Question 2)
 	\lfoot{La \small\itshape\assignmentQuestionName~\thesection~continue sur la page d'après\ldots} % Set the left footer to state the question continues on the next page, this is reset to nothing if it doesn't (below)
-}{
+}
+{
 	\lfoot{} % Reset the left footer to nothing if the current question does not continue on the next page
 }
 
