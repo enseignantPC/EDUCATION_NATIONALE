@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="fiche_methode_notation_scientifique_et_puissance_de_dix.svg">
+  <defs
+     id="defs2">
+    <radialGradient
+       id="radialGradient5864"
+       gradientUnits="userSpaceOnUse"
+       cy="-199.02"
+       cx="11.438"
+       gradientTransform="matrix(8.3435365,1.5541749,-0.52846349,2.7080227,-3931.4104,-233.29928)"
+       r="357.5">
+      <stop
+         id="stop1127"
+         stop-color="#fff"
+         offset="0" />
+      <stop
+         id="stop1129"
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path932"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <g
+       id="g904">
+      <symbol
+         overflow="visible"
+         id="symbol197">
+        <path
+           style="stroke:none;"
+           d=""
+           id="path1327" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol9839">
+        <path
+           style="stroke:none;"
+           d="M 2.9375 -6.375 C 2.9375 -6.625 2.9375 -6.640625 2.703125 -6.640625 C 2.078125 -6 1.203125 -6 0.890625 -6 L 0.890625 -5.6875 C 1.09375 -5.6875 1.671875 -5.6875 2.1875 -5.953125 L 2.1875 -0.78125 C 2.1875 -0.421875 2.15625 -0.3125 1.265625 -0.3125 L 0.953125 -0.3125 L 0.953125 0 C 1.296875 -0.03125 2.15625 -0.03125 2.5625 -0.03125 C 2.953125 -0.03125 3.828125 -0.03125 4.171875 0 L 4.171875 -0.3125 L 3.859375 -0.3125 C 2.953125 -0.3125 2.9375 -0.421875 2.9375 -0.78125 Z M 2.9375 -6.375 "
+           id="path7729" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol5835">
+        <path
+           style="stroke:none;"
+           d="M 4.578125 -3.1875 C 4.578125 -3.984375 4.53125 -4.78125 4.1875 -5.515625 C 3.734375 -6.484375 2.90625 -6.640625 2.5 -6.640625 C 1.890625 -6.640625 1.171875 -6.375 0.75 -5.453125 C 0.4375 -4.765625 0.390625 -3.984375 0.390625 -3.1875 C 0.390625 -2.4375 0.421875 -1.546875 0.84375 -0.78125 C 1.265625 0.015625 2 0.21875 2.484375 0.21875 C 3.015625 0.21875 3.78125 0.015625 4.21875 -0.9375 C 4.53125 -1.625 4.578125 -2.40625 4.578125 -3.1875 Z M 2.484375 0 C 2.09375 0 1.5 -0.25 1.328125 -1.203125 C 1.21875 -1.796875 1.21875 -2.71875 1.21875 -3.3125 C 1.21875 -3.953125 1.21875 -4.609375 1.296875 -5.140625 C 1.484375 -6.328125 2.234375 -6.421875 2.484375 -6.421875 C 2.8125 -6.421875 3.46875 -6.234375 3.65625 -5.25 C 3.765625 -4.6875 3.765625 -3.9375 3.765625 -3.3125 C 3.765625 -2.5625 3.765625 -1.890625 3.65625 -1.25 C 3.5 -0.296875 2.9375 0 2.484375 0 Z M 2.484375 0 "
+           id="path3177" />
+      </symbol>
+    </g>
+    <g
+       id="g643">
+      <symbol
+         overflow="visible"
+         id="symbol1400">
+        <path
+           style="stroke:none;"
+           d=""
+           id="path5543" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol3398">
+        <path
+           style="stroke:none;"
+           d="M 2.9375 -6.375 C 2.9375 -6.625 2.9375 -6.640625 2.703125 -6.640625 C 2.078125 -6 1.203125 -6 0.890625 -6 L 0.890625 -5.6875 C 1.09375 -5.6875 1.671875 -5.6875 2.1875 -5.953125 L 2.1875 -0.78125 C 2.1875 -0.421875 2.15625 -0.3125 1.265625 -0.3125 L 0.953125 -0.3125 L 0.953125 0 C 1.296875 -0.03125 2.15625 -0.03125 2.5625 -0.03125 C 2.953125 -0.03125 3.828125 -0.03125 4.171875 0 L 4.171875 -0.3125 L 3.859375 -0.3125 C 2.953125 -0.3125 2.9375 -0.421875 2.9375 -0.78125 Z M 2.9375 -6.375 "
+           id="path7673" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol3177">
+        <path
+           style="stroke:none;"
+           d="M 4.578125 -3.1875 C 4.578125 -3.984375 4.53125 -4.78125 4.1875 -5.515625 C 3.734375 -6.484375 2.90625 -6.640625 2.5 -6.640625 C 1.890625 -6.640625 1.171875 -6.375 0.75 -5.453125 C 0.4375 -4.765625 0.390625 -3.984375 0.390625 -3.1875 C 0.390625 -2.4375 0.421875 -1.546875 0.84375 -0.78125 C 1.265625 0.015625 2 0.21875 2.484375 0.21875 C 3.015625 0.21875 3.78125 0.015625 4.21875 -0.9375 C 4.53125 -1.625 4.578125 -2.40625 4.578125 -3.1875 Z M 2.484375 0 C 2.09375 0 1.5 -0.25 1.328125 -1.203125 C 1.21875 -1.796875 1.21875 -2.71875 1.21875 -3.3125 C 1.21875 -3.953125 1.21875 -4.609375 1.296875 -5.140625 C 1.484375 -6.328125 2.234375 -6.421875 2.484375 -6.421875 C 2.8125 -6.421875 3.46875 -6.234375 3.65625 -5.25 C 3.765625 -4.6875 3.765625 -3.9375 3.765625 -3.3125 C 3.765625 -2.5625 3.765625 -1.890625 3.65625 -1.25 C 3.5 -0.296875 2.9375 0 2.484375 0 Z M 2.484375 0 "
+           id="path7013" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol8391">
+        <path
+           style="stroke:none;"
+           d=""
+           id="path5529" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol1699">
+        <path
+           style="stroke:none;"
+           d="M 3.875 -2.765625 L 1.890625 -4.75 C 1.765625 -4.875 1.75 -4.890625 1.671875 -4.890625 C 1.5625 -4.890625 1.46875 -4.8125 1.46875 -4.6875 C 1.46875 -4.625 1.484375 -4.609375 1.59375 -4.5 L 3.59375 -2.5 L 1.59375 -0.484375 C 1.484375 -0.375 1.46875 -0.359375 1.46875 -0.296875 C 1.46875 -0.171875 1.5625 -0.09375 1.671875 -0.09375 C 1.75 -0.09375 1.765625 -0.109375 1.890625 -0.234375 L 3.875 -2.21875 L 5.9375 -0.15625 C 5.953125 -0.140625 6.015625 -0.09375 6.078125 -0.09375 C 6.203125 -0.09375 6.28125 -0.171875 6.28125 -0.296875 C 6.28125 -0.3125 6.28125 -0.34375 6.25 -0.40625 C 6.234375 -0.421875 4.65625 -1.984375 4.15625 -2.5 L 5.984375 -4.3125 C 6.03125 -4.375 6.1875 -4.5 6.234375 -4.5625 C 6.234375 -4.578125 6.28125 -4.625 6.28125 -4.6875 C 6.28125 -4.8125 6.203125 -4.890625 6.078125 -4.890625 C 6 -4.890625 5.96875 -4.859375 5.859375 -4.75 Z M 3.875 -2.765625 "
+           id="path9068" />
+      </symbol>
+    </g>
+    <g
+       id="g6596">
+      <symbol
+         overflow="visible"
+         id="symbol4965">
+        <path
+           style="stroke:none;"
+           d=""
+           id="path1247" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol2667">
+        <path
+           style="stroke:none;"
+           d="M 2.9375 -6.375 C 2.9375 -6.625 2.9375 -6.640625 2.703125 -6.640625 C 2.078125 -6 1.203125 -6 0.890625 -6 L 0.890625 -5.6875 C 1.09375 -5.6875 1.671875 -5.6875 2.1875 -5.953125 L 2.1875 -0.78125 C 2.1875 -0.421875 2.15625 -0.3125 1.265625 -0.3125 L 0.953125 -0.3125 L 0.953125 0 C 1.296875 -0.03125 2.15625 -0.03125 2.5625 -0.03125 C 2.953125 -0.03125 3.828125 -0.03125 4.171875 0 L 4.171875 -0.3125 L 3.859375 -0.3125 C 2.953125 -0.3125 2.9375 -0.421875 2.9375 -0.78125 Z M 2.9375 -6.375 "
+           id="path4307" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol783">
+        <path
+           style="stroke:none;"
+           d="M 4.578125 -3.1875 C 4.578125 -3.984375 4.53125 -4.78125 4.1875 -5.515625 C 3.734375 -6.484375 2.90625 -6.640625 2.5 -6.640625 C 1.890625 -6.640625 1.171875 -6.375 0.75 -5.453125 C 0.4375 -4.765625 0.390625 -3.984375 0.390625 -3.1875 C 0.390625 -2.4375 0.421875 -1.546875 0.84375 -0.78125 C 1.265625 0.015625 2 0.21875 2.484375 0.21875 C 3.015625 0.21875 3.78125 0.015625 4.21875 -0.9375 C 4.53125 -1.625 4.578125 -2.40625 4.578125 -3.1875 Z M 2.484375 0 C 2.09375 0 1.5 -0.25 1.328125 -1.203125 C 1.21875 -1.796875 1.21875 -2.71875 1.21875 -3.3125 C 1.21875 -3.953125 1.21875 -4.609375 1.296875 -5.140625 C 1.484375 -6.328125 2.234375 -6.421875 2.484375 -6.421875 C 2.8125 -6.421875 3.46875 -6.234375 3.65625 -5.25 C 3.765625 -4.6875 3.765625 -3.9375 3.765625 -3.3125 C 3.765625 -2.5625 3.765625 -1.890625 3.65625 -1.25 C 3.5 -0.296875 2.9375 0 2.484375 0 Z M 2.484375 0 "
+           id="path7346" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol7732">
+        <path
+           style="stroke:none;"
+           d=""
+           id="path6161" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol4831">
+        <path
+           style="stroke:none;"
+           d="M 3.875 -2.765625 L 1.890625 -4.75 C 1.765625 -4.875 1.75 -4.890625 1.671875 -4.890625 C 1.5625 -4.890625 1.46875 -4.8125 1.46875 -4.6875 C 1.46875 -4.625 1.484375 -4.609375 1.59375 -4.5 L 3.59375 -2.5 L 1.59375 -0.484375 C 1.484375 -0.375 1.46875 -0.359375 1.46875 -0.296875 C 1.46875 -0.171875 1.5625 -0.09375 1.671875 -0.09375 C 1.75 -0.09375 1.765625 -0.109375 1.890625 -0.234375 L 3.875 -2.21875 L 5.9375 -0.15625 C 5.953125 -0.140625 6.015625 -0.09375 6.078125 -0.09375 C 6.203125 -0.09375 6.28125 -0.171875 6.28125 -0.296875 C 6.28125 -0.3125 6.28125 -0.34375 6.25 -0.40625 C 6.234375 -0.421875 4.65625 -1.984375 4.15625 -2.5 L 5.984375 -4.3125 C 6.03125 -4.375 6.1875 -4.5 6.234375 -4.5625 C 6.234375 -4.578125 6.28125 -4.625 6.28125 -4.6875 C 6.28125 -4.8125 6.203125 -4.890625 6.078125 -4.890625 C 6 -4.890625 5.96875 -4.859375 5.859375 -4.75 Z M 3.875 -2.765625 "
+           id="path3281" />
+      </symbol>
+    </g>
+    <g
+       id="g9644">
+      <symbol
+         overflow="visible"
+         id="symbol7935">
+        <path
+           style="stroke:none;"
+           d=""
+           id="path6912" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol1882">
+        <path
+           style="stroke:none;"
+           d="M 2.9375 -6.375 C 2.9375 -6.625 2.9375 -6.640625 2.703125 -6.640625 C 2.078125 -6 1.203125 -6 0.890625 -6 L 0.890625 -5.6875 C 1.09375 -5.6875 1.671875 -5.6875 2.1875 -5.953125 L 2.1875 -0.78125 C 2.1875 -0.421875 2.15625 -0.3125 1.265625 -0.3125 L 0.953125 -0.3125 L 0.953125 0 C 1.296875 -0.03125 2.15625 -0.03125 2.5625 -0.03125 C 2.953125 -0.03125 3.828125 -0.03125 4.171875 0 L 4.171875 -0.3125 L 3.859375 -0.3125 C 2.953125 -0.3125 2.9375 -0.421875 2.9375 -0.78125 Z M 2.9375 -6.375 "
+           id="path2775" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol5585">
+        <path
+           style="stroke:none;"
+           d="M 4.578125 -3.1875 C 4.578125 -3.984375 4.53125 -4.78125 4.1875 -5.515625 C 3.734375 -6.484375 2.90625 -6.640625 2.5 -6.640625 C 1.890625 -6.640625 1.171875 -6.375 0.75 -5.453125 C 0.4375 -4.765625 0.390625 -3.984375 0.390625 -3.1875 C 0.390625 -2.4375 0.421875 -1.546875 0.84375 -0.78125 C 1.265625 0.015625 2 0.21875 2.484375 0.21875 C 3.015625 0.21875 3.78125 0.015625 4.21875 -0.9375 C 4.53125 -1.625 4.578125 -2.40625 4.578125 -3.1875 Z M 2.484375 0 C 2.09375 0 1.5 -0.25 1.328125 -1.203125 C 1.21875 -1.796875 1.21875 -2.71875 1.21875 -3.3125 C 1.21875 -3.953125 1.21875 -4.609375 1.296875 -5.140625 C 1.484375 -6.328125 2.234375 -6.421875 2.484375 -6.421875 C 2.8125 -6.421875 3.46875 -6.234375 3.65625 -5.25 C 3.765625 -4.6875 3.765625 -3.9375 3.765625 -3.3125 C 3.765625 -2.5625 3.765625 -1.890625 3.65625 -1.25 C 3.5 -0.296875 2.9375 0 2.484375 0 Z M 2.484375 0 "
+           id="path8473" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol7947">
+        <path
+           style="stroke:none;"
+           d=""
+           id="path1648" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol8638">
+        <path
+           style="stroke:none;"
+           d="M 3.875 -2.765625 L 1.890625 -4.75 C 1.765625 -4.875 1.75 -4.890625 1.671875 -4.890625 C 1.5625 -4.890625 1.46875 -4.8125 1.46875 -4.6875 C 1.46875 -4.625 1.484375 -4.609375 1.59375 -4.5 L 3.59375 -2.5 L 1.59375 -0.484375 C 1.484375 -0.375 1.46875 -0.359375 1.46875 -0.296875 C 1.46875 -0.171875 1.5625 -0.09375 1.671875 -0.09375 C 1.75 -0.09375 1.765625 -0.109375 1.890625 -0.234375 L 3.875 -2.21875 L 5.9375 -0.15625 C 5.953125 -0.140625 6.015625 -0.09375 6.078125 -0.09375 C 6.203125 -0.09375 6.28125 -0.171875 6.28125 -0.296875 C 6.28125 -0.3125 6.28125 -0.34375 6.25 -0.40625 C 6.234375 -0.421875 4.65625 -1.984375 4.15625 -2.5 L 5.984375 -4.3125 C 6.03125 -4.375 6.1875 -4.5 6.234375 -4.5625 C 6.234375 -4.578125 6.28125 -4.625 6.28125 -4.6875 C 6.28125 -4.8125 6.203125 -4.890625 6.078125 -4.890625 C 6 -4.890625 5.96875 -4.859375 5.859375 -4.75 Z M 3.875 -2.765625 "
+           id="path1712" />
+      </symbol>
+    </g>
+    <linearGradient
+       id="linearGradient3434">
+      <stop
+         id="stop3436"
+         offset="0" />
+      <stop
+         id="stop3438"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <filter
+       id="filter3367"
+       y="-1.506"
+       width="1.012"
+       height="4.012"
+       x="-.006024">
+      <feGaussianBlur
+         id="feGaussianBlur3369"
+         stdDeviation="1.7928571" />
+    </filter>
+    <filter
+       id="filter3412"
+       y="-.2773"
+       width="1.0123"
+       height="1.5546"
+       x="-.0061327">
+      <feGaussianBlur
+         id="feGaussianBlur3414"
+         stdDeviation="1.815625" />
+    </filter>
+    <filter
+       id="filter4310"
+       y="-.90152"
+       width="1.0072"
+       height="2.803"
+       x="-.0036061">
+      <feGaussianBlur
+         id="feGaussianBlur4312"
+         stdDeviation="1.0732369" />
+    </filter>
+    <linearGradient
+       id="linearGradient5846"
+       y2="281.54"
+       gradientUnits="userSpaceOnUse"
+       x2="441.75"
+       y1="230.21"
+       x1="441.75"
+       gradientTransform="matrix(5.6447714,0,0,5.6447714,-3795.3656,-2097.0335)">
+      <stop
+         id="stop3389"
+         stop-color="#dcdcde"
+         offset="0" />
+      <stop
+         id="stop3391"
+         stop-color="#b7b7bb"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5848"
+       y2="330.2"
+       gradientUnits="userSpaceOnUse"
+       x2="288.21"
+       y1="322.29"
+       x1="288.21"
+       gradientTransform="matrix(5.6447714,0,0,5.6447714,-3795.3656,-2097.0335)">
+      <stop
+         id="stop3373"
+         stop-color="#b7b7bb"
+         offset="0" />
+      <stop
+         id="stop3375"
+         stop-color="#cccccf"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5850"
+       y2="314.94"
+       gradientUnits="userSpaceOnUse"
+       x2="706.52"
+       gradientTransform="matrix(5.6447714,0,0,5.6447714,-3791.3336,-2097.0335)"
+       y1="263.08"
+       x1="11.429">
+      <stop
+         id="stop3381"
+         stop-color="#d9d9dc"
+         offset="0" />
+      <stop
+         id="stop3383"
+         stop-color="#c0c0c4"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5852"
+       y2="266.16"
+       xlink:href="#linearGradient3434"
+       gradientUnits="userSpaceOnUse"
+       x2="107.15"
+       gradientTransform="matrix(5.6447714,0,0,-11.289543,-3795.3656,2427.8151)"
+       y1="267.91"
+       x1="107.15" />
+    <linearGradient
+       id="linearGradient5854"
+       y2="266.16"
+       xlink:href="#linearGradient3434"
+       gradientUnits="userSpaceOnUse"
+       x2="107.15"
+       gradientTransform="matrix(5.6447714,0,0,-11.289543,-3795.3656,2450.3942)"
+       y1="267.91"
+       x1="107.15" />
+    <linearGradient
+       id="linearGradient5856"
+       y2="266.16"
+       xlink:href="#linearGradient3434"
+       gradientUnits="userSpaceOnUse"
+       x2="107.15"
+       gradientTransform="matrix(5.6447714,0,0,-11.289543,-3795.3656,2472.9732)"
+       y1="267.91"
+       x1="107.15" />
+    <linearGradient
+       id="linearGradient5858"
+       y2="266.16"
+       xlink:href="#linearGradient3434"
+       gradientUnits="userSpaceOnUse"
+       x2="107.15"
+       gradientTransform="matrix(5.6447714,0,0,-11.289543,-3795.3656,2664.8954)"
+       y1="267.91"
+       x1="107.15" />
+    <linearGradient
+       id="linearGradient5860"
+       y2="266.16"
+       xlink:href="#linearGradient3434"
+       gradientUnits="userSpaceOnUse"
+       x2="107.15"
+       gradientTransform="matrix(5.6447714,0,0,-11.289543,-3795.3656,2687.4745)"
+       y1="267.91"
+       x1="107.15" />
+    <linearGradient
+       id="linearGradient5862"
+       y2="266.16"
+       xlink:href="#linearGradient3434"
+       gradientUnits="userSpaceOnUse"
+       x2="107.15"
+       gradientTransform="matrix(5.6447714,0,0,-11.289543,-3795.3656,2710.0536)"
+       y1="267.91"
+       x1="107.15" />
+    <radialGradient
+       id="radialGradient5864-3"
+       gradientUnits="userSpaceOnUse"
+       cy="-199.02"
+       cx="11.438"
+       gradientTransform="matrix(8.3435365,1.5541749,-0.52846349,2.7080227,-3931.4104,-233.29928)"
+       r="357.5">
+      <stop
+         id="stop5538"
+         stop-color="#fff"
+         offset="0" />
+      <stop
+         id="stop5540"
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3633">
+      <rect
+         style="opacity:1;fill:#1e91c8;fill-opacity:1;stroke:none;stroke-width:1.1263;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect3635"
+         width="234"
+         height="320"
+         x="70.994987"
+         y="18.219999" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5846"
+       id="radialGradient1142"
+       cx="104.775"
+       cy="31.093748"
+       fx="104.775"
+       fy="31.093748"
+       r="104.775"
+       gradientTransform="matrix(1,0,0,0.29040403,0,22.063999)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5846"
+       id="linearGradient1150"
+       x1="2.3812499"
+       y1="84.564491"
+       x2="204.78751"
+       y2="84.564491"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5850"
+       id="linearGradient1158"
+       x1="2.3812499"
+       y1="146.64792"
+       x2="204.78751"
+       y2="146.64792"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5850"
+       id="linearGradient1166"
+       x1="2.3812499"
+       y1="151.47758"
+       x2="204.78751"
+       y2="151.47758"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5850"
+       id="linearGradient1166-3"
+       x1="2.3812499"
+       y1="151.47758"
+       x2="204.78751"
+       y2="151.47758"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.84414685"
+     inkscape:cx="515.72719"
+     inkscape:cy="388.94418"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1718"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid817" />
+    <sodipodi:guide
+       position="0,230.1875"
+       orientation="870,0"
+       id="guide835"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,800.99998"
+       id="guide837"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="211.93124,0"
+       orientation="-870,0"
+       id="guide839"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="211.93124,230.1875"
+       orientation="0,-800.99998"
+       id="guide841"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot871"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1000;font-family:Carlito;-inkscape-font-specification:'Carlito, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion873"><rect
+           id="rect875"
+           width="693"
+           height="300"
+           x="45"
+           y="282.51968" /></flowRegion><flowPara
+         id="flowPara877">zzzzzz</flowPara></flowRoot>
+    <g
+       id="g1210">
+      <rect
+         ry="5.331584"
+         rx="15.874997"
+         y="69.458336"
+         x="2.3812499"
+         height="30.212317"
+         width="202.40625"
+         id="rect869"
+         style="opacity:1;fill:url(#linearGradient1150);fill-opacity:1.0;stroke:none;stroke-width:0.17385715;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <flowRoot
+         transform="scale(0.26458333)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Carlito;-inkscape-font-specification:'Carlito, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#050505;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         id="flowRoot879"
+         xml:space="preserve"><flowRegion
+           style="fill:#050505;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+           id="flowRegion881"><rect
+             style="fill:#050505;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+             y="282.51968"
+             x="36"
+             height="90.000008"
+             width="702"
+             id="rect883" /></flowRegion><flowPara
+           id="flowPara918"
+           style="fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowSpan
+   style="-inkscape-font-specification:'Carlito Bold';font-family:Carlito;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+   id="flowSpan1196">Introduction</flowSpan> :  certains nombres sont plus facile à lire et à dire que d'autres. Pour comprendre même les nombres les plus grands, les scientifiques utilisent <flowSpan
+   id="flowSpan926"
+   style="font-style:italic;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none">les puissances de dix.</flowSpan></flowPara><flowPara
+           id="flowPara928"
+           style="fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><flowPara
+           id="flowPara930"
+           style="fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">En physique, il est facile de comprendre à quoi correspond une distance de 1mètre, 5 mètre, 1000 mètres... Mais une distance telle que la taille de l'univers observable est proche de 100000000000000000000000000 mètre! Dans ces conditions les physiciens vont aussi utiliser les puissances de 10.</flowPara></flowRoot>
+    </g>
+    <g
+       id="g887"
+       transform="translate(-703.83986,-684.59746)" />
+    <g
+       id="g1558">
+      <rect
+         ry="15.477204"
+         rx="15.874997"
+         y="102.79583"
+         x="2.3812499"
+         height="87.704178"
+         width="202.40625"
+         id="rect1234"
+         style="opacity:1;fill:url(#linearGradient1158);fill-opacity:1.0;stroke:none;stroke-width:0.296217;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <g
+         id="g1445">
+        <g
+           id="g1211">
+          <g
+             id="g1157">
+            <flowRoot
+               transform="matrix(0.26458333,0,0,0.26458333,0,33.337495)"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Carlito;-inkscape-font-specification:'Carlito, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#050505;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+               id="flowRoot1248"
+               xml:space="preserve"><flowRegion
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="flowRegion1238"><rect
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+                   y="282.51968"
+                   x="36"
+                   height="331.48035"
+                   width="711"
+                   id="rect1236" /></flowRegion><flowPara
+                 id="flowPara1246"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:'Carlito Bold';text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Le principe :</flowPara><flowPara
+                 id="flowPara1267"
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">&gt; La puissance d'un nombre consiste à multiplier plusieurs fois ce nombre avec lui-même. La puissance s'exprime par l’exposant en haut à droite du nombre.</flowPara><flowPara
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="flowPara1298">Cas particulier : un nombre à la puissance 0 est toujours égal à 1.</flowPara><flowPara
+                 id="flowPara1269"
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><flowPara
+                 id="flowPara1271"
+                 style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:'Carlito Italic';text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">exemples:</flowPara><flowPara
+                 id="flowPara1273"
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">2<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan1300">0</flowSpan> = 1              2<flowSpan
+   style="font-size:65%;text-align:justify;baseline-shift:super;text-anchor:start;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan1284">1 </flowSpan>= 2              2<flowSpan
+   style="font-size:65%;text-align:justify;baseline-shift:super;text-anchor:start;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan1286">2 </flowSpan>= 2 x 2 = 4                                            2<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan1288">3 </flowSpan>= 2 x 2 x 2 = 8          2<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan1290">4</flowSpan> = 2 x 2 x 2 x 2 = 16 ...</flowPara><flowPara
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="flowPara1292">10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan1302">0</flowSpan> = 1           10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan1294">1</flowSpan> = 10          10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan1296">4</flowSpan>= 10 x 10 x 10 x 10 = 10000 ...</flowPara><flowPara
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="flowPara1304" /><flowPara
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="flowPara886">&gt; Quand la puissance est négative, on divise au lieu de multiplier.</flowPara><flowPara
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="flowPara890" /><flowPara
+                 style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:'Carlito Italic';text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="flowPara892">exemples:</flowPara><flowPara
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="flowPara1106" /><flowPara
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="flowPara894">10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan1122">-1</flowSpan> =       = 0.1         10<flowSpan
+   style="font-size:65%;baseline-shift:super"
+   id="flowSpan1132">-2</flowSpan>=                = 0.01               10<flowSpan
+   style="font-size:65%;baseline-shift:super"
+   id="flowSpan1134">-3</flowSpan>=                        = 0.001</flowPara><flowPara
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="flowPara1449" /><flowPara
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="flowPara1451" /><flowPara
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="flowPara1453">&gt; Écrire des nombre en puissance de dix permet de faciliter la compréhension, la taille de l'Univers est de 100000000000000000000000000 mètre mais on peut aussi l'écrire 10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan1455">26</flowSpan>mètre</flowPara><flowPara
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="flowPara1457" /><flowPara
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="flowPara1459"><flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:'Carlito Italic'"
+   id="flowSpan1198">astuce</flowSpan> : Pour <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:'Carlito Bold'"
+   id="flowSpan1138">les puissance de dix <flowSpan
+   style="font-weight:normal"
+   id="flowSpan1140">(ça ne marche pas pour la notation scientifique)</flowSpan></flowSpan>, il suffit de compter le nombre de zéro :</flowPara><flowPara
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="flowPara1463">Dans le nombre 10000 il y à 4 zéro, c'est donc égal à 10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan1471">4</flowSpan>. </flowPara><flowPara
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="flowPara1473">Dans le nombre 0.001 il y a 3 zéro c'est donc égal à 10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan1477">-3</flowSpan>.</flowPara><flowPara
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="flowPara1136" /><flowPara
+                 style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="flowPara1475" /></flowRoot>
+            <g
+               inkscape:label=""
+               transform="matrix(0.28310468,0,0,0.28310468,-7.3130174,132.32201)"
+               id="g1082">
+              <g
+                 id="g1437"
+                 style="stroke-width:0.99963024;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   style="fill:#000000;fill-opacity:1;stroke-width:0.99963024;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
+                   id="g5085">
+                  <use
+                     xlink:href="#symbol9839"
+                     x="95.611"
+                     y="78.420998"
+                     id="use5536"
+                     width="100%"
+                     height="100%"
+                     style="stroke-width:0.99963024;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+                <path
+                   style="fill:none;stroke:#000000;stroke-width:0.99963024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                   d="M 9.375e-5,-0.001875 H 9.964938"
+                   transform="matrix(1,0,0,-1,93.121,82.67)"
+                   id="path292" />
+                <g
+                   style="fill:#000000;fill-opacity:1;stroke-width:0.99963024;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
+                   id="g7185">
+                  <use
+                     xlink:href="#symbol9839"
+                     x="93.121002"
+                     y="91.994003"
+                     id="use1589"
+                     width="100%"
+                     height="100%"
+                     style="stroke-width:0.99963024;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <use
+                     xlink:href="#symbol5835"
+                     x="98.102303"
+                     y="91.994003"
+                     id="use2261"
+                     width="100%"
+                     height="100%"
+                     style="stroke-width:0.99963024;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             inkscape:label=""
+             transform="matrix(0.3323923,0,0,0.3323923,15.896041,127.88802)"
+             id="g1269"
+             style="stroke-width:0.99881977;stroke-miterlimit:4;stroke-dasharray:none">
+            <g
+               id="g160"
+               style="stroke-width:0.99881977;stroke-miterlimit:4;stroke-dasharray:none">
+              <g
+                 style="fill:#000000;fill-opacity:1;stroke-width:0.99881977;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="g6507">
+                <use
+                   xlink:href="#symbol3398"
+                   x="106.681"
+                   y="78.420998"
+                   id="use482"
+                   width="100%"
+                   height="100%"
+                   style="stroke-width:0.99881977;stroke-miterlimit:4;stroke-dasharray:none" />
+              </g>
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:0.99881977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                 d="M 9.375e-5,-0.001875 H 32.101656"
+                 transform="matrix(1,0,0,-1,93.121,82.67)"
+                 id="path5740" />
+              <g
+                 style="fill:#000000;fill-opacity:1;stroke-width:0.99881977;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="g5312">
+                <use
+                   xlink:href="#symbol3398"
+                   x="93.121002"
+                   y="91.994003"
+                   id="use2692"
+                   width="100%"
+                   height="100%"
+                   style="stroke-width:0.99881977;stroke-miterlimit:4;stroke-dasharray:none" />
+                <use
+                   xlink:href="#symbol3177"
+                   x="98.102303"
+                   y="91.994003"
+                   id="use7453"
+                   width="100%"
+                   height="100%"
+                   style="stroke-width:0.99881977;stroke-miterlimit:4;stroke-dasharray:none" />
+              </g>
+              <g
+                 style="fill:#000000;fill-opacity:1;stroke-width:0.99881977;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="g524">
+                <use
+                   xlink:href="#symbol1699"
+                   x="105.297"
+                   y="91.994003"
+                   id="use9993"
+                   width="100%"
+                   height="100%"
+                   style="stroke-width:0.99881977;stroke-miterlimit:4;stroke-dasharray:none" />
+              </g>
+              <g
+                 style="fill:#000000;fill-opacity:1;stroke-width:0.99881977;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="g1776">
+                <use
+                   xlink:href="#symbol3398"
+                   x="115.26"
+                   y="91.994003"
+                   id="use3446"
+                   width="100%"
+                   height="100%"
+                   style="stroke-width:0.99881977;stroke-miterlimit:4;stroke-dasharray:none" />
+                <use
+                   xlink:href="#symbol3177"
+                   x="120.2413"
+                   y="91.994003"
+                   id="use220"
+                   width="100%"
+                   height="100%"
+                   style="stroke-width:0.99881977;stroke-miterlimit:4;stroke-dasharray:none" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           inkscape:label=""
+           transform="matrix(0.29759469,0,0,0.29759469,61.582493,130.99607)"
+           id="g1341">
+          <g
+             id="g7563"
+             transform="translate(-4.8799429,-0.50311613)"
+             style="stroke-width:1.00136195;stroke-miterlimit:4;stroke-dasharray:none">
+            <g
+               style="fill:#000000;fill-opacity:1;stroke-width:1.00136195;stroke-miterlimit:4;stroke-dasharray:none"
+               id="g2266">
+              <use
+                 xlink:href="#symbol2667"
+                 x="117.751"
+                 y="78.420998"
+                 id="use3645"
+                 width="100%"
+                 height="100%"
+                 style="stroke-width:1.00136195;stroke-miterlimit:4;stroke-dasharray:none" />
+            </g>
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1.00136195;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="M 9.375e-5,-0.001875 H 54.242281"
+               transform="matrix(1,0,0,-1,93.121,82.67)"
+               id="path2639" />
+            <g
+               style="fill:#000000;fill-opacity:1;stroke-width:1.00136195;stroke-miterlimit:4;stroke-dasharray:none"
+               id="g8611">
+              <use
+                 xlink:href="#symbol2667"
+                 x="93.121002"
+                 y="91.994003"
+                 id="use7784"
+                 width="100%"
+                 height="100%"
+                 style="stroke-width:1.00136195;stroke-miterlimit:4;stroke-dasharray:none" />
+              <use
+                 xlink:href="#symbol783"
+                 x="98.102303"
+                 y="91.994003"
+                 id="use8996"
+                 width="100%"
+                 height="100%"
+                 style="stroke-width:1.00136195;stroke-miterlimit:4;stroke-dasharray:none" />
+            </g>
+            <g
+               style="fill:#000000;fill-opacity:1;stroke-width:1.00136195;stroke-miterlimit:4;stroke-dasharray:none"
+               id="g8885">
+              <use
+                 xlink:href="#symbol4831"
+                 x="105.297"
+                 y="91.994003"
+                 id="use1491"
+                 width="100%"
+                 height="100%"
+                 style="stroke-width:1.00136195;stroke-miterlimit:4;stroke-dasharray:none" />
+            </g>
+            <g
+               style="fill:#000000;fill-opacity:1;stroke-width:1.00136195;stroke-miterlimit:4;stroke-dasharray:none"
+               id="g1543">
+              <use
+                 xlink:href="#symbol2667"
+                 x="115.26"
+                 y="91.994003"
+                 id="use5911"
+                 width="100%"
+                 height="100%"
+                 style="stroke-width:1.00136195;stroke-miterlimit:4;stroke-dasharray:none" />
+              <use
+                 xlink:href="#symbol783"
+                 x="120.2413"
+                 y="91.994003"
+                 id="use8601"
+                 width="100%"
+                 height="100%"
+                 style="stroke-width:1.00136195;stroke-miterlimit:4;stroke-dasharray:none" />
+            </g>
+            <g
+               style="fill:#000000;fill-opacity:1;stroke-width:1.00136195;stroke-miterlimit:4;stroke-dasharray:none"
+               id="g4161">
+              <use
+                 xlink:href="#symbol4831"
+                 x="127.436"
+                 y="91.994003"
+                 id="use3033"
+                 width="100%"
+                 height="100%"
+                 style="stroke-width:1.00136195;stroke-miterlimit:4;stroke-dasharray:none" />
+            </g>
+            <g
+               style="fill:#000000;fill-opacity:1;stroke-width:1.00136195;stroke-miterlimit:4;stroke-dasharray:none"
+               id="g9606">
+              <use
+                 xlink:href="#symbol2667"
+                 x="137.399"
+                 y="91.994003"
+                 id="use17"
+                 width="100%"
+                 height="100%"
+                 style="stroke-width:1.00136195;stroke-miterlimit:4;stroke-dasharray:none" />
+              <use
+                 xlink:href="#symbol783"
+                 x="142.38029"
+                 y="91.994003"
+                 id="use6335"
+                 width="100%"
+                 height="100%"
+                 style="stroke-width:1.00136195;stroke-miterlimit:4;stroke-dasharray:none" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1215">
+      <rect
+         y="0.66666669"
+         x="7.9936058e-15"
+         height="60.854164"
+         width="209.55"
+         id="rect815"
+         style="opacity:1;fill:url(#radialGradient1142);fill-opacity:1.0;stroke:#1e91c8;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <text
+         id="text816"
+         y="25.906706"
+         x="104.52954"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1;font-family:Carlito;-inkscape-font-specification:'Carlito, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#020202;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="25.906706"
+           x="104.52954"
+           sodipodi:role="line"
+           id="tspan1259">Fiche méthode :</tspan><tspan
+           style="text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="36.490005"
+           x="104.52954"
+           sodipodi:role="line"
+           id="tspan1265">Notation scientifique et Puissance de 10</tspan></text>
+    </g>
+    <g
+       id="g1718"
+       transform="translate(0,90.882316)">
+      <rect
+         ry="5.8363967"
+         rx="15.874997"
+         y="103.58643"
+         x="2.6362555"
+         height="33.072926"
+         width="202.40625"
+         id="rect1560-5"
+         style="fill:url(#linearGradient1166-3);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.181902;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         ry="10.505516"
+         rx="15.874997"
+         y="140.6281"
+         x="2.3812499"
+         height="59.531273"
+         width="202.40625"
+         id="rect1560"
+         style="opacity:1;fill:url(#linearGradient1166);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.244046;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <g
+         id="g1716">
+        <g
+           id="g1678">
+          <g
+             id="g1650">
+            <g
+               id="g2449">
+              <flowRoot
+                 transform="matrix(0.26458333,0,0,0.26458333,0,33.337495)"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:Carlito;-inkscape-font-specification:'Carlito, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#050505;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="flowRoot1632"
+                 xml:space="preserve"><flowRegion
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="flowRegion1564"><rect
+                     style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+                     y="282.51968"
+                     x="36"
+                     height="331.48035"
+                     width="711"
+                     id="rect1562" /></flowRegion><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-weight:bold"
+                   id="flowPara1630">&gt; Multiplier par une puissance de 10</flowPara><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2083" /><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2099">Si on multiplie deux puissances de dix, par exemple 10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan2095">4</flowSpan> et 10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan2097">3</flowSpan> : 10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan2101">4</flowSpan> x 10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan2105">3</flowSpan> = (10 x 10 x 10 x 10) x  (10 x 10 x 10) = 10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan2115">7</flowSpan> </flowPara><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2113">Il suffit de compter le nombre de 10!</flowPara><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2093" /><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2085">&gt; Diviser par une puissance de 10</flowPara><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2117">Si on divise deux puissances de dix, par exemple 10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan2451">4</flowSpan> et 10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan2453">3</flowSpan> : 10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan2455">4</flowSpan> / 10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan2457">3</flowSpan> =                                  = 10 = 10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan2459">1</flowSpan></flowPara><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2087" /><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2089" /><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara1166" /><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-weight:bold"
+                   id="flowPara1168">&gt; La notation scientifique</flowPara><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2465">Les scientifiques utilisent souvent la notation scientifique pour écrire de très petits nombres ou de très grands nombres.</flowPara><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2461">Tout nombre décimal peut se mettre sous forme de notation scientifique.</flowPara><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2463">Il s’agit d’écrire ce nombre comme produit de deux facteurs : a × 10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan2467">n</flowSpan></flowPara><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2471">-&gt; a est un nombre décimal entre 1 et 10</flowPara><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2473">-&gt; n est un nombre entier</flowPara><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2485">Comme on est en physique, il ne faut pas oublier l'unité. Il faut convertir si besoin pour toujours utiliser la même unité:</flowPara><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2479" /><flowPara
+                   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:'Carlito Italic';text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2477">exemples</flowPara><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2469" /><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2494">La distance Bourg en bresse Paris en voiture, noté d est de 431km. </flowPara><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2504">On va convertir en mètre : d = 431000 mètre</flowPara><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2506">On utilise la notation scientifique : d = 4.31 x 10<flowSpan
+   style="font-size:65%;baseline-shift:super;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan2508">5</flowSpan> m</flowPara><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2496" /><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2498" /><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2500" /><flowPara
+                   style="text-align:justify;text-anchor:start;fill:#050505;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="flowPara2502"> </flowPara></flowRoot>
+              <g
+                 inkscape:label=""
+                 transform="matrix(0.31411036,0,0,0.31411036,82.913655,104.82406)"
+                 id="g2335">
+                <g
+                   id="g9931">
+                  <g
+                     style="fill:#000000;fill-opacity:1"
+                     id="g5">
+                    <use
+                       xlink:href="#symbol1882"
+                       x="93.121002"
+                       y="78.420998"
+                       id="use9063"
+                       width="100%"
+                       height="100%" />
+                    <use
+                       xlink:href="#symbol5585"
+                       x="98.102303"
+                       y="78.420998"
+                       id="use5244"
+                       width="100%"
+                       height="100%" />
+                  </g>
+                  <g
+                     style="fill:#000000;fill-opacity:1"
+                     id="g4270">
+                    <use
+                       xlink:href="#symbol8638"
+                       x="105.297"
+                       y="78.420998"
+                       id="use1524"
+                       width="100%"
+                       height="100%" />
+                  </g>
+                  <g
+                     style="fill:#000000;fill-opacity:1"
+                     id="g5039">
+                    <use
+                       xlink:href="#symbol1882"
+                       x="115.26"
+                       y="78.420998"
+                       id="use98"
+                       width="100%"
+                       height="100%" />
+                    <use
+                       xlink:href="#symbol5585"
+                       x="120.2413"
+                       y="78.420998"
+                       id="use2337"
+                       width="100%"
+                       height="100%" />
+                  </g>
+                  <g
+                     style="fill:#000000;fill-opacity:1"
+                     id="g7851">
+                    <use
+                       xlink:href="#symbol8638"
+                       x="127.436"
+                       y="78.420998"
+                       id="use5331"
+                       width="100%"
+                       height="100%" />
+                  </g>
+                  <g
+                     style="fill:#000000;fill-opacity:1"
+                     id="g4859">
+                    <use
+                       xlink:href="#symbol1882"
+                       x="137.399"
+                       y="78.420998"
+                       id="use8289"
+                       width="100%"
+                       height="100%" />
+                    <use
+                       xlink:href="#symbol5585"
+                       x="142.38029"
+                       y="78.420998"
+                       id="use1958"
+                       width="100%"
+                       height="100%" />
+                  </g>
+                  <g
+                     style="fill:#000000;fill-opacity:1"
+                     id="g2555">
+                    <use
+                       xlink:href="#symbol8638"
+                       x="149.576"
+                       y="78.420998"
+                       id="use4144"
+                       width="100%"
+                       height="100%" />
+                  </g>
+                  <g
+                     style="fill:#000000;fill-opacity:1"
+                     id="g1405">
+                    <use
+                       xlink:href="#symbol1882"
+                       x="159.53799"
+                       y="78.420998"
+                       id="use8113"
+                       width="100%"
+                       height="100%" />
+                    <use
+                       xlink:href="#symbol5585"
+                       x="164.5193"
+                       y="78.420998"
+                       id="use4835"
+                       width="100%"
+                       height="100%" />
+                  </g>
+                  <path
+                     style="fill:none;stroke:#000000;stroke-width:0.398;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+                     d="M 9.375e-5,-0.001875 H 76.379"
+                     transform="matrix(1,0,0,-1,93.121,82.67)"
+                     id="path9804" />
+                  <g
+                     style="fill:#000000;fill-opacity:1"
+                     id="g2927">
+                    <use
+                       xlink:href="#symbol1882"
+                       x="104.19"
+                       y="91.994003"
+                       id="use6312"
+                       width="100%"
+                       height="100%" />
+                    <use
+                       xlink:href="#symbol5585"
+                       x="109.1713"
+                       y="91.994003"
+                       id="use6249"
+                       width="100%"
+                       height="100%" />
+                  </g>
+                  <g
+                     style="fill:#000000;fill-opacity:1"
+                     id="g6829">
+                    <use
+                       xlink:href="#symbol8638"
+                       x="116.367"
+                       y="91.994003"
+                       id="use756"
+                       width="100%"
+                       height="100%" />
+                  </g>
+                  <g
+                     style="fill:#000000;fill-opacity:1"
+                     id="g8054">
+                    <use
+                       xlink:href="#symbol1882"
+                       x="126.33"
+                       y="91.994003"
+                       id="use693"
+                       width="100%"
+                       height="100%" />
+                    <use
+                       xlink:href="#symbol5585"
+                       x="131.31129"
+                       y="91.994003"
+                       id="use7299"
+                       width="100%"
+                       height="100%" />
+                  </g>
+                  <g
+                     style="fill:#000000;fill-opacity:1"
+                     id="g8643">
+                    <use
+                       xlink:href="#symbol8638"
+                       x="138.506"
+                       y="91.994003"
+                       id="use5927"
+                       width="100%"
+                       height="100%" />
+                  </g>
+                  <g
+                     style="fill:#000000;fill-opacity:1"
+                     id="g8877">
+                    <use
+                       xlink:href="#symbol1882"
+                       x="148.46899"
+                       y="91.994003"
+                       id="use9315"
+                       width="100%"
+                       height="100%" />
+                    <use
+                       xlink:href="#symbol5585"
+                       x="153.4503"
+                       y="91.994003"
+                       id="use6084"
+                       width="100%"
+                       height="100%" />
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             inkscape:label=""
+             transform="matrix(0.3323923,0,0,0.3323923,15.896041,127.88802)"
+             id="g1676"
+             style="stroke-width:0.99882;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+      </g>
+      <g
+         id="g3953"
+         stroke="#000000"
+         transform="matrix(-0.22893567,-0.24897654,0.16598435,-0.15262378,165.15253,126.36047)">
+        <rect
+           id="rect2953"
+           height="26.205999"
+           width="88.001999"
+           y="291.39001"
+           x="79.462997"
+           stroke-width="1.5"
+           fill="#ffffff" />
+        <g
+           id="g3915"
+           transform="matrix(1,0,0,0.76435,0.78697,68.514)">
+          <rect
+             id="rect3725"
+             height="19.539"
+             width="1.8688999"
+             y="291.14001"
+             x="81.922997"
+             stroke-width="0.26172" />
+          <rect
+             id="rect3727"
+             height="9.7123003"
+             width="1.9425"
+             y="291.10001"
+             x="92.504997"
+             stroke-width="0.18812" />
+          <rect
+             id="rect3729"
+             height="9.7123003"
+             width="1.9425"
+             y="291.10001"
+             x="87.195999"
+             stroke-width="0.18812" />
+          <rect
+             id="rect3731"
+             height="9.7123003"
+             width="1.9425"
+             y="291.10001"
+             x="97.814003"
+             stroke-width="0.18812" />
+          <rect
+             id="rect3733"
+             height="9.7123003"
+             width="1.9425"
+             y="291.10001"
+             x="103.12"
+             stroke-width="0.18812" />
+          <rect
+             id="rect3765"
+             height="19.539"
+             width="1.8688999"
+             y="291.14001"
+             x="108.47"
+             stroke-width="0.26172" />
+          <rect
+             id="rect3767"
+             height="9.7123003"
+             width="1.9425"
+             y="291.10001"
+             x="119.05"
+             stroke-width="0.18812" />
+          <rect
+             id="rect3769"
+             height="9.7123003"
+             width="1.9425"
+             y="291.10001"
+             x="113.74"
+             stroke-width="0.18812" />
+          <rect
+             id="rect3771"
+             height="9.7123003"
+             width="1.9425"
+             y="291.10001"
+             x="124.36"
+             stroke-width="0.18812" />
+          <rect
+             id="rect3773"
+             height="9.7123003"
+             width="1.9425"
+             y="291.10001"
+             x="129.67"
+             stroke-width="0.18812" />
+          <rect
+             id="rect3779"
+             height="19.539"
+             width="1.8688999"
+             y="291.14001"
+             x="135.00999"
+             stroke-width="0.26172" />
+          <rect
+             id="rect3781"
+             height="9.7123003"
+             width="1.9425"
+             y="291.10001"
+             x="145.60001"
+             stroke-width="0.18812" />
+          <rect
+             id="rect3783"
+             height="9.7123003"
+             width="1.9425"
+             y="291.10001"
+             x="140.28999"
+             stroke-width="0.18812" />
+          <rect
+             id="rect3785"
+             height="9.7123003"
+             width="1.9425"
+             y="291.10001"
+             x="150.91"
+             stroke-width="0.18812" />
+          <rect
+             id="rect3787"
+             height="9.7123003"
+             width="1.9425"
+             y="291.10001"
+             x="156.21001"
+             stroke-width="0.18812" />
+          <rect
+             id="rect3907"
+             height="19.539"
+             width="1.8688999"
+             y="291.14001"
+             x="161.56"
+             stroke-width="0.26172" />
+        </g>
+      </g>
+      <g
+         id="g3719"
+         transform="matrix(0.74608636,0,0,0.74608636,-0.92020904,-85.791037)">
+        <g
+           id="background">
+          <rect
+             fill="none"
+             width="32"
+             height="32"
+             id="rect3704"
+             x="0"
+             y="0" />
+        </g>
+        <g
+           id="calculator">
+          <path
+             d="M 6,0 V 32 H 26 V 0 Z m 5.999,30 H 8 v -2.001 h 3.999 z m 0,-4 H 8 v -2 h 3.999 z M 12,22 H 7.999 V 20 H 12 Z m 0,-4 H 8 v -2 h 4 z m 0,-4 H 7.999 V 12 H 12 Z m 5.999,16 H 14 v -2.001 h 3.999 z M 18,26 h -4 v -2 h 4 z m -4,-4 v -2 h 3.999 v 2 z m 4,-4 h -4 v -2 h 4 z m 0,-4 h -4 v -2 h 4 z m 6,16 H 19.999 V 24 H 24 Z m 0,-8 h -4 v -2 h 4 z m 0,-4 h -4 v -2 h 4 z m 0,-4 h -4 v -2 h 4 z M 24,8 H 8 V 4 h 16 z"
+             id="path3707" />
+        </g>
+      </g>
+      <g
+         id="g3729"
+         transform="matrix(0.74608636,0,0,0.74608636,184.81729,107.94967)">
+        <g
+           id="g3723">
+          <rect
+             fill="none"
+             width="32"
+             height="32"
+             id="rect3721"
+             x="0"
+             y="0" />
+        </g>
+        <g
+           id="g3727">
+          <path
+             d="M 6,0 V 32 H 26 V 0 Z m 5.999,30 H 8 v -2.001 h 3.999 z m 0,-4 H 8 v -2 h 3.999 z M 12,22 H 7.999 V 20 H 12 Z m 0,-4 H 8 v -2 h 4 z m 0,-4 H 7.999 V 12 H 12 Z m 5.999,16 H 14 v -2.001 h 3.999 z M 18,26 h -4 v -2 h 4 z m -4,-4 v -2 h 3.999 v 2 z m 4,-4 h -4 v -2 h 4 z m 0,-4 h -4 v -2 h 4 z m 6,16 H 19.999 V 24 H 24 Z m 0,-8 h -4 v -2 h 4 z m 0,-4 h -4 v -2 h 4 z m 0,-4 h -4 v -2 h 4 z M 24,8 H 8 V 4 h 16 z"
+             id="path3725" />
+        </g>
+      </g>
+    </g>
+    <path
+       style="opacity:1;fill:#1e91c8;fill-opacity:0.00080958;stroke:none;stroke-width:1.88691;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -426.79535,695.58542 c -7.79054,-4.12913 -12.72558,-9.18584 -16.09972,-16.49663 -2.93353,-6.35608 -3.09473,-14.47569 -3.12963,-157.63513 l -0.0368,-150.93386 3.89809,-7.38359 c 2.14394,-4.06098 7.10892,-9.64528 11.03329,-12.40955 l 7.13521,-5.02595 151.05362,-0.49951 c 104.1619,-0.34445 152.98047,0.0595 157.26057,1.30111 8.07468,2.34245 15.730324,8.88945 19.859712,16.98374 3.226041,6.32354 3.292584,10.06065 2.858342,160.49735 -0.440692,152.67208 -0.474936,154.0637 -3.903623,158.65554 -1.902473,2.54787 -6.307111,6.93781 -9.788121,9.75542 l -6.32908,5.12292 -154.39295,0.36599 c -138.35598,0.32799 -154.91501,0.0893 -159.41891,-2.29785 z m 229.71292,-32.26659 c 8.05132,-3.65624 14.60572,-11.63739 17.3174,-21.08701 1.38746,-4.83497 1.78287,-39.39836 1.41982,-124.10593 l -0.50322,-117.40467 -5.02595,-8.09242 c -3.127,-5.03486 -7.55789,-9.41571 -11.72722,-11.59475 -6.47262,-3.38282 -8.98769,-3.50232 -73.71395,-3.50232 -75.42708,0 -72.60965,-0.44285 -83.58823,13.13847 l -5.20357,6.43721 -0.4886,120.04923 c -0.26873,66.02707 -0.0334,122.56706 0.52296,125.6444 1.27714,7.06421 12.9096,19.8868 19.87293,21.90618 2.87235,0.83298 34.24733,1.56595 69.72217,1.62881 59.56273,0.10554 65.02753,-0.12532 71.39546,-3.0172 z"
+       id="path3627"
+       transform="scale(0.26458333)" />
+    <path
+       style="opacity:1;fill:#1e91c8;fill-opacity:0.000809554;stroke:none;stroke-width:1.88691;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -337.04429,464.42228 c -3.17853,-4.04084 -3.47223,-6.64336 -3.47223,-30.76743 0,-24.12408 0.2937,-26.7266 3.47223,-30.76743 l 3.47222,-4.41423 h 64.37812 c 62.14435,0 64.49436,0.11626 67.72874,3.35064 3.08435,3.08435 3.35063,5.58439 3.35063,31.45825 0,22.72815 -0.49913,28.82024 -2.60797,31.83102 l -2.60797,3.72341 h -65.12077 -65.12078 z"
+       id="path3629"
+       transform="scale(0.26458333)" />
+  </g>
+</svg>

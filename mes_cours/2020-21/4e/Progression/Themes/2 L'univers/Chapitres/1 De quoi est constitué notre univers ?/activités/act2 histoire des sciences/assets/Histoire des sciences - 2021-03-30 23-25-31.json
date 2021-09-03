@@ -1,0 +1,888 @@
+[
+    {
+        "windows": {
+            "81": {
+                "19": {
+                    "id": 19,
+                    "index": 3,
+                    "windowId": 81,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617136987512,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": false,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://www.youtube.com/watch?v=ctgmOcy5IZ4",
+                    "title": "L'histoire de la vulgarisation scientifique - YouTube",
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABWElEQVRYhe2WMW6DMBSG35opQ9dIMGXIDTLlBJVyjQxWh0hVxxwAFXf09PwGpnKBTkS9QBHn8JAbvA7FFbVoA9hAh/zSP5r/e37PxgA33fQfxQALBlgzwJYB7msfe9qu29bfWnQJXtWL1Ug+MsDqr3A5Yri1bIVggMME4daHNoCpwhUDKDf8bmoAbg4lf01p98X7fQiA9XAAZsXns+I4nhGAWfHlovh0mhHAuiwV73YzAlinqeLlcl4As9lkhRBVniSGNDFp4jxJTCFEZaIoG7UFhXiobOhvLoSoRhnCPHk218KbO+IP0DiGXSp3/Zq+6CAXkYmirG+4NSLG3lfxkOq/jSS9f0Z9eu9aa/3h/TseXH3tJsCgB0kwgAZEryeZTwsIqYQ2cY9H6dvj03uQIRwqRIy9j6GvCEnOUr0DUXr3PgDE9Z0IXbkrRIwJSf7YEaSSkGRbzz8B3yuPCh4d3a4AAAAASUVORK5CYII="
+                },
+                "20": {
+                    "id": 20,
+                    "index": 4,
+                    "windowId": 81,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617136985627,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": false,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://www.youtube.com/results?search_query=histoire+de+l%27univers",
+                    "title": "histoire de l'univers - YouTube",
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABWElEQVRYhe2WMW6DMBSG35opQ9dIMGXIDTLlBJVyjQxWh0hVxxwAFXf09PwGpnKBTkS9QBHn8JAbvA7FFbVoA9hAh/zSP5r/e37PxgA33fQfxQALBlgzwJYB7msfe9qu29bfWnQJXtWL1Ug+MsDqr3A5Yri1bIVggMME4daHNoCpwhUDKDf8bmoAbg4lf01p98X7fQiA9XAAZsXns+I4nhGAWfHlovh0mhHAuiwV73YzAlinqeLlcl4As9lkhRBVniSGNDFp4jxJTCFEZaIoG7UFhXiobOhvLoSoRhnCPHk218KbO+IP0DiGXSp3/Zq+6CAXkYmirG+4NSLG3lfxkOq/jSS9f0Z9eu9aa/3h/TseXH3tJsCgB0kwgAZEryeZTwsIqYQ2cY9H6dvj03uQIRwqRIy9j6GvCEnOUr0DUXr3PgDE9Z0IXbkrRIwJSf7YEaSSkGRbzz8B3yuPCh4d3a4AAAAASUVORK5CYII="
+                },
+                "21": {
+                    "id": 21,
+                    "index": 5,
+                    "windowId": 81,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617136980020,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": false,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://www.youtube.com/results?search_query=history+of+astronomy",
+                    "title": "history of astronomy - YouTube",
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABWElEQVRYhe2WMW6DMBSG35opQ9dIMGXIDTLlBJVyjQxWh0hVxxwAFXf09PwGpnKBTkS9QBHn8JAbvA7FFbVoA9hAh/zSP5r/e37PxgA33fQfxQALBlgzwJYB7msfe9qu29bfWnQJXtWL1Ug+MsDqr3A5Yri1bIVggMME4daHNoCpwhUDKDf8bmoAbg4lf01p98X7fQiA9XAAZsXns+I4nhGAWfHlovh0mhHAuiwV73YzAlinqeLlcl4As9lkhRBVniSGNDFp4jxJTCFEZaIoG7UFhXiobOhvLoSoRhnCPHk218KbO+IP0DiGXSp3/Zq+6CAXkYmirG+4NSLG3lfxkOq/jSS9f0Z9eu9aa/3h/TseXH3tJsCgB0kwgAZEryeZTwsIqYQ2cY9H6dvj03uQIRwqRIy9j6GvCEnOUr0DUXr3PgDE9Z0IXbkrRIwJSf7YEaSSkGRbzz8B3yuPCh4d3a4AAAAASUVORK5CYII="
+                },
+                "78": {
+                    "id": 78,
+                    "index": 0,
+                    "windowId": 81,
+                    "highlighted": true,
+                    "active": true,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 960,
+                    "height": 882,
+                    "lastAccessed": 1617139531749,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": false,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://www.youtube.com/watch?v=ctgmOcy5IZ4",
+                    "title": "L'histoire de la vulgarisation scientifique - YouTube",
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsSAAALEgHS3X78AAABDklEQVRYw+2X4Y2CQBSEv3e5ArgOKIEO3BK0A0uhBDsRO8AOtgMpYTuY+yErRL3cobLrJUwyISGEmWTfm/fWJJETH2TGYiC7gc+7b80KoALKngBu4r/b/tn19Ejh5itJA6EStALNxFZQjTWvxcOM4pFhbGJsoEkgHtlEXbsEkVnaRJJs6AKzMnn5nwv90obTDKzXr7BQPZ4D+z20LZRlxiBarcB7qOtna0EI3KQqvob3knNTO8ENbfisgYjdTiqKSQayz4J/fgQhSHX9aBo6ST9Mw7/geITtFrpuhnH8GzYbaJrXBKKkGMWnxOX3hRTeZBidcUgof7jdiLIvJJlWMrt7M0q4lNpyNVsM5DbwDTlqsJtbbh7VAAAAAElFTkSuQmCC"
+                },
+                "79": {
+                    "id": 79,
+                    "index": 1,
+                    "windowId": 81,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617136989701,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": false,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://www.youtube.com/results?search_query=histoire+de+l%27univers",
+                    "title": "histoire de l'univers - YouTube",
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABWElEQVRYhe2WMW6DMBSG35opQ9dIMGXIDTLlBJVyjQxWh0hVxxwAFXf09PwGpnKBTkS9QBHn8JAbvA7FFbVoA9hAh/zSP5r/e37PxgA33fQfxQALBlgzwJYB7msfe9qu29bfWnQJXtWL1Ug+MsDqr3A5Yri1bIVggMME4daHNoCpwhUDKDf8bmoAbg4lf01p98X7fQiA9XAAZsXns+I4nhGAWfHlovh0mhHAuiwV73YzAlinqeLlcl4As9lkhRBVniSGNDFp4jxJTCFEZaIoG7UFhXiobOhvLoSoRhnCPHk218KbO+IP0DiGXSp3/Zq+6CAXkYmirG+4NSLG3lfxkOq/jSS9f0Z9eu9aa/3h/TseXH3tJsCgB0kwgAZEryeZTwsIqYQ2cY9H6dvj03uQIRwqRIy9j6GvCEnOUr0DUXr3PgDE9Z0IXbkrRIwJSf7YEaSSkGRbzz8B3yuPCh4d3a4AAAAASUVORK5CYII="
+                },
+                "80": {
+                    "id": 80,
+                    "index": 2,
+                    "windowId": 81,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617136988719,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": false,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://www.youtube.com/results?search_query=history+of+astronomy",
+                    "title": "history of astronomy - YouTube",
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABWElEQVRYhe2WMW6DMBSG35opQ9dIMGXIDTLlBJVyjQxWh0hVxxwAFXf09PwGpnKBTkS9QBHn8JAbvA7FFbVoA9hAh/zSP5r/e37PxgA33fQfxQALBlgzwJYB7msfe9qu29bfWnQJXtWL1Ug+MsDqr3A5Yri1bIVggMME4daHNoCpwhUDKDf8bmoAbg4lf01p98X7fQiA9XAAZsXns+I4nhGAWfHlovh0mhHAuiwV73YzAlinqeLlcl4As9lkhRBVniSGNDFp4jxJTCFEZaIoG7UFhXiobOhvLoSoRhnCPHk218KbO+IP0DiGXSp3/Zq+6CAXkYmirG+4NSLG3lfxkOq/jSS9f0Z9eu9aa/3h/TseXH3tJsCgB0kwgAZEryeZTwsIqYQ2cY9H6dvj03uQIRwqRIy9j6GvCEnOUr0DUXr3PgDE9Z0IXbkrRIwJSf7YEaSSkGRbzz8B3yuPCh4d3a4AAAAASUVORK5CYII="
+                }
+            },
+            "83": {
+                "24": {
+                    "id": 24,
+                    "index": 0,
+                    "windowId": 83,
+                    "highlighted": true,
+                    "active": true,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 959,
+                    "height": 882,
+                    "lastAccessed": 1617139531751,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://etienneklein.fr/livres/origine/evolution_univers/",
+                    "title": "Evolution De L’univers | Etienne Klein",
+                    "favIconUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/4QCARXhpZgAATU0AKgAAAAgABQESAAMAAAABAAEAAAEaAAUAAAABAAAASgEbAAUAAAABAAAAUgEoAAMAAAABAAIAAIdpAAQAAAABAAAAWgAAAAAAACwnAAABkAAALCcAAAGQAAKgAgAEAAAAAQAAABCgAwAEAAAAAQAAABAAAAAA/+EJIWh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8APD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS40LjAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIi8+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD94cGFja2V0IGVuZD0idyI/PgD/7QA4UGhvdG9zaG9wIDMuMAA4QklNBAQAAAAAAAA4QklNBCUAAAAAABDUHYzZjwCyBOmACZjs+EJ+/+IPRElDQ19QUk9GSUxFAAEBAAAPNGFwcGwCEAAAbW50clJHQiBYWVogB+AAAQABABUAGQArYWNzcEFQUEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPbWAAEAAAAA0y1hcHBsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARZGVzYwAAAVAAAABiZHNjbQAAAbQAAAQaY3BydAAABdAAAAAjd3RwdAAABfQAAAAUclhZWgAABggAAAAUZ1hZWgAABhwAAAAUYlhZWgAABjAAAAAUclRSQwAABkQAAAgMYWFyZwAADlAAAAAgdmNndAAADnAAAAAwbmRpbgAADqAAAAA+Y2hhZAAADuAAAAAsbW1vZAAADwwAAAAoYlRSQwAABkQAAAgMZ1RSQwAABkQAAAgMYWFiZwAADlAAAAAgYWFnZwAADlAAAAAgZGVzYwAAAAAAAAAIRGlzcGxheQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG1sdWMAAAAAAAAAIgAAAAxockhSAAAAFAAAAahrb0tSAAAADAAAAbxuYk5PAAAAEgAAAchpZAAAAAAAEgAAAdpodUhVAAAAFAAAAexjc0NaAAAAFgAAAgBkYURLAAAAHAAAAhZ1a1VBAAAAHAAAAjJhcgAAAAAAFAAAAk5pdElUAAAAFAAAAmJyb1JPAAAAEgAAAnZlc0VTAAAAEgAAAnZoZUlMAAAAFgAAAohubE5MAAAAFgAAAp5maUZJAAAAEAAAArR6aFRXAAAADAAAAsR2aVZOAAAADgAAAtBza1NLAAAAFgAAAt56aENOAAAADAAAAsRydVJVAAAAJAAAAvRmckZSAAAAFgAAAxhtcwAAAAAAEgAAAy5jYUVTAAAAGAAAA0B0aFRIAAAADAAAA1hlc1hMAAAAEgAAAnZkZURFAAAAEAAAA2RlblVTAAAAEgAAA3RwdEJSAAAAGAAAA4ZwbFBMAAAAEgAAA55lbEdSAAAAIgAAA7BzdlNFAAAAEAAAA9J0clRSAAAAFAAAA+JqYUpQAAAADgAAA/ZwdFBUAAAAFgAABAQATABDAEQAIAB1ACAAYgBvAGoAac7st+wAIABMAEMARABGAGEAcgBnAGUALQBMAEMARABMAEMARAAgAFcAYQByAG4AYQBTAHoA7QBuAGUAcwAgAEwAQwBEAEIAYQByAGUAdgBuAP0AIABMAEMARABMAEMARAAtAGYAYQByAHYAZQBzAGsA5gByAG0EGgQ+BDsETAQ+BEAEPgQyBDgEOQAgAEwAQwBEIA8ATABDAEQAIAZFBkQGSAZGBikATABDAEQAIABjAG8AbABvAHIAaQBMAEMARAAgAGMAbwBsAG8AciAPAEwAQwBEACAF5gXRBeIF1QXgBdkASwBsAGUAdQByAGUAbgAtAEwAQwBEAFYA5AByAGkALQBMAEMARF9pgnIAIABMAEMARABMAEMARAAgAE0A4AB1AEYAYQByAGUAYgBuAOkAIABMAEMARAQmBDIENQRCBD0EPgQ5ACAEFgQaAC0ENAQ4BEEEPwQ7BDUEOQBMAEMARAAgAGMAbwB1AGwAZQB1AHIAVwBhAHIAbgBhACAATABDAEQATABDAEQAIABlAG4AIABjAG8AbABvAHIATABDAEQAIA4qDjUARgBhAHIAYgAtAEwAQwBEAEMAbwBsAG8AcgAgAEwAQwBEAEwAQwBEACAAQwBvAGwAbwByAGkAZABvAEsAbwBsAG8AcgAgAEwAQwBEA4gDswPHA8EDyQO8A7cAIAO/A7gDzAO9A7cAIABMAEMARABGAOQAcgBnAC0ATABDAEQAUgBlAG4AawBsAGkAIABMAEMARDCrMOkw/AAgAEwAQwBEAEwAQwBEACAAYQAgAEMAbwByAGUAcwAAdGV4dAAAAABDb3B5cmlnaHQgQXBwbGUgSW5jLiwgMjAxNgAAWFlaIAAAAAAAAPMWAAEAAAABFspYWVogAAAAAAAAccAAADmKAAABZ1hZWiAAAAAAAABhIwAAueYAABP2WFlaIAAAAAAAACPyAAAMkAAAvdBjdXJ2AAAAAAAABAAAAAAFAAoADwAUABkAHgAjACgALQAyADYAOwBAAEUASgBPAFQAWQBeAGMAaABtAHIAdwB8AIEAhgCLAJAAlQCaAJ8AowCoAK0AsgC3ALwAwQDGAMsA0ADVANsA4ADlAOsA8AD2APsBAQEHAQ0BEwEZAR8BJQErATIBOAE+AUUBTAFSAVkBYAFnAW4BdQF8AYMBiwGSAZoBoQGpAbEBuQHBAckB0QHZAeEB6QHyAfoCAwIMAhQCHQImAi8COAJBAksCVAJdAmcCcQJ6AoQCjgKYAqICrAK2AsECywLVAuAC6wL1AwADCwMWAyEDLQM4A0MDTwNaA2YDcgN+A4oDlgOiA64DugPHA9MD4APsA/kEBgQTBCAELQQ7BEgEVQRjBHEEfgSMBJoEqAS2BMQE0wThBPAE/gUNBRwFKwU6BUkFWAVnBXcFhgWWBaYFtQXFBdUF5QX2BgYGFgYnBjcGSAZZBmoGewaMBp0GrwbABtEG4wb1BwcHGQcrBz0HTwdhB3QHhgeZB6wHvwfSB+UH+AgLCB8IMghGCFoIbgiCCJYIqgi+CNII5wj7CRAJJQk6CU8JZAl5CY8JpAm6Cc8J5Qn7ChEKJwo9ClQKagqBCpgKrgrFCtwK8wsLCyILOQtRC2kLgAuYC7ALyAvhC/kMEgwqDEMMXAx1DI4MpwzADNkM8w0NDSYNQA1aDXQNjg2pDcMN3g34DhMOLg5JDmQOfw6bDrYO0g7uDwkPJQ9BD14Peg+WD7MPzw/sEAkQJhBDEGEQfhCbELkQ1xD1ERMRMRFPEW0RjBGqEckR6BIHEiYSRRJkEoQSoxLDEuMTAxMjE0MTYxODE6QTxRPlFAYUJxRJFGoUixStFM4U8BUSFTQVVhV4FZsVvRXgFgMWJhZJFmwWjxayFtYW+hcdF0EXZReJF64X0hf3GBsYQBhlGIoYrxjVGPoZIBlFGWsZkRm3Gd0aBBoqGlEadxqeGsUa7BsUGzsbYxuKG7Ib2hwCHCocUhx7HKMczBz1HR4dRx1wHZkdwx3sHhYeQB5qHpQevh7pHxMfPh9pH5Qfvx/qIBUgQSBsIJggxCDwIRwhSCF1IaEhziH7IiciVSKCIq8i3SMKIzgjZiOUI8Ij8CQfJE0kfCSrJNolCSU4JWgllyXHJfcmJyZXJocmtyboJxgnSSd6J6sn3CgNKD8ocSiiKNQpBik4KWspnSnQKgIqNSpoKpsqzysCKzYraSudK9EsBSw5LG4soizXLQwtQS12Last4S4WLkwugi63Lu4vJC9aL5Evxy/+MDUwbDCkMNsxEjFKMYIxujHyMioyYzKbMtQzDTNGM38zuDPxNCs0ZTSeNNg1EzVNNYc1wjX9Njc2cjauNuk3JDdgN5w31zgUOFA4jDjIOQU5Qjl/Obw5+To2OnQ6sjrvOy07azuqO+g8JzxlPKQ84z0iPWE9oT3gPiA+YD6gPuA/IT9hP6I/4kAjQGRApkDnQSlBakGsQe5CMEJyQrVC90M6Q31DwEQDREdEikTORRJFVUWaRd5GIkZnRqtG8Ec1R3tHwEgFSEtIkUjXSR1JY0mpSfBKN0p9SsRLDEtTS5pL4kwqTHJMuk0CTUpNk03cTiVObk63TwBPSU+TT91QJ1BxULtRBlFQUZtR5lIxUnxSx1MTU19TqlP2VEJUj1TbVShVdVXCVg9WXFapVvdXRFeSV+BYL1h9WMtZGllpWbhaB1pWWqZa9VtFW5Vb5Vw1XIZc1l0nXXhdyV4aXmxevV8PX2Ffs2AFYFdgqmD8YU9homH1YklinGLwY0Njl2PrZEBklGTpZT1lkmXnZj1mkmboZz1nk2fpaD9olmjsaUNpmmnxakhqn2r3a09rp2v/bFdsr20IbWBtuW4SbmtuxG8eb3hv0XArcIZw4HE6cZVx8HJLcqZzAXNdc7h0FHRwdMx1KHWFdeF2Pnabdvh3VnezeBF4bnjMeSp5iXnnekZ6pXsEe2N7wnwhfIF84X1BfaF+AX5ifsJ/I3+Ef+WAR4CogQqBa4HNgjCCkoL0g1eDuoQdhICE44VHhauGDoZyhteHO4efiASIaYjOiTOJmYn+imSKyoswi5aL/IxjjMqNMY2Yjf+OZo7OjzaPnpAGkG6Q1pE/kaiSEZJ6kuOTTZO2lCCUipT0lV+VyZY0lp+XCpd1l+CYTJi4mSSZkJn8mmia1ZtCm6+cHJyJnPedZJ3SnkCerp8dn4uf+qBpoNihR6G2oiailqMGo3aj5qRWpMelOKWpphqmi6b9p26n4KhSqMSpN6mpqhyqj6sCq3Wr6axcrNCtRK24ri2uoa8Wr4uwALB1sOqxYLHWskuywrM4s660JbSctRO1irYBtnm28Ldot+C4WbjRuUq5wro7urW7LrunvCG8m70VvY++Cr6Evv+/er/1wHDA7MFnwePCX8Lbw1jD1MRRxM7FS8XIxkbGw8dBx7/IPci8yTrJuco4yrfLNsu2zDXMtc01zbXONs62zzfPuNA50LrRPNG+0j/SwdNE08bUSdTL1U7V0dZV1tjXXNfg2GTY6Nls2fHadtr724DcBdyK3RDdlt4c3qLfKd+v4DbgveFE4cziU+Lb42Pj6+Rz5PzlhOYN5pbnH+ep6DLovOlG6dDqW+rl63Dr++yG7RHtnO4o7rTvQO/M8Fjw5fFy8f/yjPMZ86f0NPTC9VD13vZt9vv3ivgZ+Kj5OPnH+lf65/t3/Af8mP0p/br+S/7c/23//3BhcmEAAAAAAAMAAAACZmYAAPKnAAANWQAAE9AAAAoOdmNndAAAAAAAAAABAAEAAAAAAAAAAQAAAAEAAAAAAAAAAQAAAAEAAAAAAAAAAQAAbmRpbgAAAAAAAAA2AACnQAAAVYAAAEzAAACewAAAJYAAAAzAAABQAAAAVEAAAjMzAAIzMwACMzMAAAAAAAAAAHNmMzIAAAAAAAEMcgAABfj///MdAAAHugAA/XL///ud///9pAAAA9kAAMBxbW1vZAAAAAAAAAYQAACgKgAAAADPPA2hAAAAAAAAAAAAAAAAAAAAAP/AABEIABAAEAMBIgACEQEDEQH/xAAfAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEUMoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+fr/xAAfAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgv/xAC1EQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2wBDAAICAgICAgMCAgMEAwMDBAUEBAQEBQcFBQUFBQcIBwcHBwcHCAgICAgICAgKCgoKCgoLCwsLCw0NDQ0NDQ0NDQ3/2wBDAQICAgMDAwYDAwYNCQcJDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ3/3QAEAAH/2gAMAwEAAhEDEQA/APvi9+Nc9v8AGR/hYreGbVIpNNT/AImWuNa6vdfb4ZZj9jsBbOJ9giIX98u7D9NnzXPht8aG+KN2kXhvTY5LTT3uoNevRc7oLG9hleNLGPC5musKJJl+VYVZckswFWk8GeKbH4i6h4w0nW9Oj0vV5LB72wudLae5/wBCiaIiG7Fwgj3gqeYn2kHrnjF8D/CAfD/WbHWPD+sPEJLee21208gC11XdNJNb3Plhv3N5bmQoZlz50R2yhtsRj/m+WPwbp6fFZd97a30+7dXt0ufq8aFfn12u+23Q/9k="
+                },
+                "25": {
+                    "id": 25,
+                    "index": 1,
+                    "windowId": 83,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617132690118,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://promenade.imcce.fr/fr/pages5/544.html",
+                    "title": "Comprendre - Approfondir - Histoire de la découverte du système solaire"
+                },
+                "26": {
+                    "id": 26,
+                    "index": 2,
+                    "windowId": 83,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617132690147,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://fr.wikipedia.org/wiki/Chronologie_de_l%27astronomie",
+                    "title": "Chronologie de l'astronomie — Wikipédia"
+                },
+                "27": {
+                    "id": 27,
+                    "index": 3,
+                    "windowId": 83,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617132690155,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://fr.wikipedia.org/wiki/Nicolas_Copernic",
+                    "title": "Nicolas Copernic — Wikipédia"
+                },
+                "28": {
+                    "id": 28,
+                    "index": 4,
+                    "windowId": 83,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617132690176,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://fr.wikipedia.org/wiki/Galil%C3%A9e_(savant)",
+                    "title": "Galilée (savant) — Wikipédia"
+                },
+                "29": {
+                    "id": 29,
+                    "index": 5,
+                    "windowId": 83,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617132690184,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://fr.wikipedia.org/wiki/Johannes_Kepler",
+                    "title": "Johannes Kepler — Wikipédia"
+                },
+                "30": {
+                    "id": 30,
+                    "index": 6,
+                    "windowId": 83,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617132690190,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://fr.wikipedia.org/wiki/Tycho_Brahe",
+                    "title": "Tycho Brahe — Wikipédia"
+                }
+            },
+            "111": {
+                "52": {
+                    "id": 52,
+                    "index": 7,
+                    "windowId": 111,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617138134587,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://etienneklein.fr/livres/origine/evolution_univers/",
+                    "title": "Evolution De L’univers | Etienne Klein",
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACz0lEQVQ4jX2R32scZRSGv7/CG0UCQu6kN4I3RQmKKCUgAakEaykIXii1IAaJLBmWrGu2S8KQZd0nm52dzWZwCSkFafA2Ugz9FbosGYb5GHYIDULoUkL2wiZ0eb2YBMSiFy/vzTnPec85RtZDaRvFayj2UArqL6N+FaV1lDRQVEf9NrINlNTRvofiKuqDkT0rsD5KfGRrKCHzmKzJNlBUy2AWRmElA8W1c0ANJWtZksQ/8yCT9VHayJLFFWRBiYesh6yPUVRFqc/hziIHd8scbJc42C7x9PclZAOOHi5zuFNklFTQkwYv9mD/N4cX3QqKwCjOAI38FK8ZwxeTY7z1qoGZCZS06Sx8SmX2Q06f+BxFNWanL+B+/S7Pe8uo72JG4RJK2yzOXKJWuMJxcpujsM1xF5R2IDdFff4yf+13uDE9ztzVtxnueiipM7LuWQLrU/5uEtf5jGfxbQ7uwfOuj6IOvyxcpXD9A6q5y3w7fYHT0MvuFDVQWMeot4SsT23uE14xhmuTbzBmDEFuEsUdfnW/5HVjeGfc8PRx9spR6KK9Goo8jEIXReB+/xHl2UvsP1wi/aPAs50FZH02StN8c+ViUFkspi2vftwJmsdbt1bTwQM3UOhitFdGcZWlmfcJ3Gvo8Baj1MveZT1aP34e+M3GSctv6Z9aX2ueDB4vB0Z2AUXLlG5MMP/Ve/TvVundyfPndhFFHs2fF9N/N5/rzuZqahTmUbzIZnmKiXHD9Y/HmHzT4M1cRHGdVtN7afq5OuvNY6OogLoOp90CRw8chrt5hvfmON0toG6Z9Zb/PwBvaNRzUFRAtojsPLJ5FDkoKqK4xNbm6n+usLW5khqFDooLjHYd1M2j3iwKf0C9HAodBvdLwXqr+fIRW82Twf2fAqMwz6jroF4BhUUU5lA4m/neHNpzGDy6GWxtrKSddW/YaTeGWxsr6eDRzUC9ef4G3bq/ior2RC0AAAAASUVORK5CYII="
+                },
+                "83": {
+                    "id": 83,
+                    "index": 8,
+                    "windowId": 111,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617138139426,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://promenade.imcce.fr/fr/pages5/544.html",
+                    "title": "Comprendre - Approfondir - Histoire de la découverte du système solaire",
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEDklEQVRYhbWXTWjbZhjHn7YrSdz40Ay6b9guW1gvO3SUjbLjbhtjMAa77LgNSkgYaxsHt6FjGw051GRp+bedP0Jd2ixemkSxl9XLYkxDSAgNZkaz8CJEjJBQbEyEsBE17w62lZI4seRkD/wOurzv79HzvF9E1Tj64tXoebc3inYP1xKdXg4nL3PfENFRaiHa3N4oGGMHIi5ocF367WsiOuJUoLPdw4ExhilexjQvY5pXbCBjkpfBGAOdnwBjDFFeheti5CunEu66AJeREcsoiAlqczIKuExNoCcCQdOrY/AqOjyzQ0R0zLHAnKDiUVZF3AaPsirmBLUq0BuBqpexKhe3JQZmrtmVsATiWRXz65pt4tltAbNSgVgwLIkYr+KETQl3W01gXtSQcMD8umaVgDEGs1KBqpetcsQFDV2Dvw83k7AEkqKGpJTHYxskpTwSYlXgy/EnoJ4IqLdGT8RqzE4vByLqsCWwKOWxuFHAkk0WpTykgrHv8mz3cCAity2BpY0ClnMFrNhkOVeTkXbISVUYY2hzIrCSK2JVPjh1QccCa0rxUHEskFK3kFK38LdD0uoW0qoOXqtS/3bcA7ymI61tD2QHIW9ALJaQ2ypD1k0oNWTdrK2CmH0BQdOR0XQINsjmDUhFA6puwpfM4axvFdQ7D+pbAPUlQN8m8Yk/g5NXFuwLZAu6LcSCDlkvIaUU0T2URPfPXgyuncGi+QqWzNOYLBLG8oTexTdx5oYPp64kr736Wd+ee4ElIBaMpkhFA4peQlotwuXhcC6cRdacQIFNIPEvH743G0v5wxOboWCIhYIhFngwvPn93dHUOz8mwi9/NOjaVyBXNLDRBFkvQTdNnB6O470xHssaQ0aX8PCPcKo+6V5cvDmxQg22ZUtA3irtj15CoWTi9rKIrp8WEBYrWCsw3BsPbjabvA78QYF23BcsAc0oQ9XLUI3GaEYZ5acVfHAjgffvi1jSKhiP/tU0850E/UFfQ4Fi2dwX3XxaPf2+m8SncR3Rf7Sw08mt3ggEXt8lEEnnMJmW92Sal7Egajh+YRofz+kYm/nTcfYWgdB1S6B+IZms3Qm5jNKQmKAgKebRdonDF4lV3L77q+3a7ypDMPhkl8AUL4PjG0/O1e6KSTGP4xdiGJI+R8vZ19j7D/BKYzIK5tc1nB1J4tz9uf9BoFbrKb4x07yMmKBiIMaj64cERkIPWi5BKBBaswRaeZh8iMfo/+Xh4TThS4OzPrc3ivaB5s8w1wAHtzeKU1djeHdo5lCWYQcRvUZEbxFRt0NOe0bDqwfJnmp7cwdVj0ynPE9Eb9y85Rdbqf1hxDEiOkFEL4z4RvxOMz+sOEJEzxGRq7+//+07t+6MBvyB1LMZhwKh68/WvB7/AajNuTc1y3bJAAAAAElFTkSuQmCC"
+                },
+                "84": {
+                    "id": 84,
+                    "index": 1,
+                    "windowId": 111,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617138140108,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": false,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://fr.wikipedia.org/wiki/Chronologie_de_l%27astronomie",
+                    "title": "Chronologie de l'astronomie — Wikipédia",
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAADzUlEQVRoge1ZO27jMBAldA6egncIwHLT6QS6AY+gCwRqJlWCyICACOvGEiIXSRUidhMXEpBU7lTxAimIbLEYLWVTf/+AjYABDJgW35t5w5kxCWl5tNZwCdaG8WJBjyJzbnCTSJwb1CQS5wYzmcS5gfzfBM4NYjKJcwP4IXBuAD8E8APnHBhjwBgDzjm4rlsz83shBGite6+XUkIURY3rcW3Xe3Gd67r7BKSUIIQAxhg4jmM1Sin4vg9SStBaQ5qm4HlebQ0hBAgh4DgOeJ4HURSB1hqKooAgCIBzvreecw5BEEBRFI3vNffHdVYJlWUJQogKhPnjsiytYYyiCCiltd/4vm9dWxRFzUlBEDTKw/f9ah3n3Lq/NQfKsgTXdWsEzLDZTAhRiwDKoe3dQohGp6Bj0Hmm13slcZqmNa8yxlo3k1LWPNsUMSklUEqBMdYICi0IAiCENEazlUBZluB5XuVRQgikadorCm3y8H0fCCFVbrTtj0mLOTeIwK62CSHAGGvdFPWNUduNAnq/Sc+7CmiTYi8C6AUzCm3esEXBDD+eLH2877ouUEo7o95ZyIIgqAHinHdGgVJaJTRGQUrZ6zDASPVd20mgLMtKFmhdybd7hgshensU86RPpHoRMGWBBLo8g1EwcwELWx+H4SnVB1svAqYs0LqS0HXdWmFrO8ttkm0rcIMJICCTQJc3i6KotQu2uqCUmq3X69ckSbZxHKv7u/vv+7v775ubGzWfz7fr9fpVKTU7CAE8Avu0Fk2k8UhUSs2yLPtAwF2WZdlHE5FB7TRWWpRGW4XUej+ZGWPw/PychWH41Rc8WhiGX3meZ5MIpGlak0VbopkSQrv+df0yFPiubd43L6MJaK33ZNSUbCgfbMiurq6yqeDRzEgMJoANFpqtsGEhwkT3PG92e3s7WDZtcsKcGDVS7lba3YLDOa8l+fz3/PNQ4NGWT8vP0QSwo7TNClEUASGkkpZSanZo8GhKqdkoAlgtUUaU0qrJwxYYvb96W8ljEVi9reTofyXMsROHDqyipqSSRbI9FoFkkWxHEyiKopbMlFJrrx8//quwh7Y4jtVoAra52XGcvW7zWODRJv2xhcdlW3900QRwYsOiZuv1jyqhxwkS2j02m2bXi01iM5mFEI2z8sUeo33t6IXsFLc0y6flUVqJk92RKaVm4cPwGaDJwoe/zdxJL/nyPD94O33yu+LN++ZlKngcaM52W5/neTZGTuHDv5HSCv6UJJRSsyGJvXxaflYDzJDnFERWbyuZLJKtWbHjx1gli2S7elvJWrJanj/oRZ3MMxajmgAAAABJRU5ErkJggg=="
+                },
+                "85": {
+                    "id": 85,
+                    "index": 2,
+                    "windowId": 111,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617138141350,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://fr.wikipedia.org/wiki/Nicolas_Copernic",
+                    "title": "Nicolas Copernic — Wikipédia",
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAADzUlEQVRoge1ZO27jMBAldA6egncIwHLT6QS6AY+gCwRqJlWCyICACOvGEiIXSRUidhMXEpBU7lTxAimIbLEYLWVTf/+AjYABDJgW35t5w5kxCWl5tNZwCdaG8WJBjyJzbnCTSJwb1CQS5wYzmcS5gfzfBM4NYjKJcwP4IXBuAD8E8APnHBhjwBgDzjm4rlsz83shBGite6+XUkIURY3rcW3Xe3Gd67r7BKSUIIQAxhg4jmM1Sin4vg9SStBaQ5qm4HlebQ0hBAgh4DgOeJ4HURSB1hqKooAgCIBzvreecw5BEEBRFI3vNffHdVYJlWUJQogKhPnjsiytYYyiCCiltd/4vm9dWxRFzUlBEDTKw/f9ah3n3Lq/NQfKsgTXdWsEzLDZTAhRiwDKoe3dQohGp6Bj0Hmm13slcZqmNa8yxlo3k1LWPNsUMSklUEqBMdYICi0IAiCENEazlUBZluB5XuVRQgikadorCm3y8H0fCCFVbrTtj0mLOTeIwK62CSHAGGvdFPWNUduNAnq/Sc+7CmiTYi8C6AUzCm3esEXBDD+eLH2877ouUEo7o95ZyIIgqAHinHdGgVJaJTRGQUrZ6zDASPVd20mgLMtKFmhdybd7hgshensU86RPpHoRMGWBBLo8g1EwcwELWx+H4SnVB1svAqYs0LqS0HXdWmFrO8ttkm0rcIMJICCTQJc3i6KotQu2uqCUmq3X69ckSbZxHKv7u/vv+7v775ubGzWfz7fr9fpVKTU7CAE8Avu0Fk2k8UhUSs2yLPtAwF2WZdlHE5FB7TRWWpRGW4XUej+ZGWPw/PychWH41Rc8WhiGX3meZ5MIpGlak0VbopkSQrv+df0yFPiubd43L6MJaK33ZNSUbCgfbMiurq6yqeDRzEgMJoANFpqtsGEhwkT3PG92e3s7WDZtcsKcGDVS7lba3YLDOa8l+fz3/PNQ4NGWT8vP0QSwo7TNClEUASGkkpZSanZo8GhKqdkoAlgtUUaU0qrJwxYYvb96W8ljEVi9reTofyXMsROHDqyipqSSRbI9FoFkkWxHEyiKopbMlFJrrx8//quwh7Y4jtVoAra52XGcvW7zWODRJv2xhcdlW3900QRwYsOiZuv1jyqhxwkS2j02m2bXi01iM5mFEI2z8sUeo33t6IXsFLc0y6flUVqJk92RKaVm4cPwGaDJwoe/zdxJL/nyPD94O33yu+LN++ZlKngcaM52W5/neTZGTuHDv5HSCv6UJJRSsyGJvXxaflYDzJDnFERWbyuZLJKtWbHjx1gli2S7elvJWrJanj/oRZ3MMxajmgAAAABJRU5ErkJggg=="
+                },
+                "86": {
+                    "id": 86,
+                    "index": 3,
+                    "windowId": 111,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617138380085,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://fr.wikipedia.org/wiki/Galil%C3%A9e_(savant)",
+                    "title": "Galilée (savant) — Wikipédia",
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAADzUlEQVRoge1ZO27jMBAldA6egncIwHLT6QS6AY+gCwRqJlWCyICACOvGEiIXSRUidhMXEpBU7lTxAimIbLEYLWVTf/+AjYABDJgW35t5w5kxCWl5tNZwCdaG8WJBjyJzbnCTSJwb1CQS5wYzmcS5gfzfBM4NYjKJcwP4IXBuAD8E8APnHBhjwBgDzjm4rlsz83shBGite6+XUkIURY3rcW3Xe3Gd67r7BKSUIIQAxhg4jmM1Sin4vg9SStBaQ5qm4HlebQ0hBAgh4DgOeJ4HURSB1hqKooAgCIBzvreecw5BEEBRFI3vNffHdVYJlWUJQogKhPnjsiytYYyiCCiltd/4vm9dWxRFzUlBEDTKw/f9ah3n3Lq/NQfKsgTXdWsEzLDZTAhRiwDKoe3dQohGp6Bj0Hmm13slcZqmNa8yxlo3k1LWPNsUMSklUEqBMdYICi0IAiCENEazlUBZluB5XuVRQgikadorCm3y8H0fCCFVbrTtj0mLOTeIwK62CSHAGGvdFPWNUduNAnq/Sc+7CmiTYi8C6AUzCm3esEXBDD+eLH2877ouUEo7o95ZyIIgqAHinHdGgVJaJTRGQUrZ6zDASPVd20mgLMtKFmhdybd7hgshensU86RPpHoRMGWBBLo8g1EwcwELWx+H4SnVB1svAqYs0LqS0HXdWmFrO8ttkm0rcIMJICCTQJc3i6KotQu2uqCUmq3X69ckSbZxHKv7u/vv+7v775ubGzWfz7fr9fpVKTU7CAE8Avu0Fk2k8UhUSs2yLPtAwF2WZdlHE5FB7TRWWpRGW4XUej+ZGWPw/PychWH41Rc8WhiGX3meZ5MIpGlak0VbopkSQrv+df0yFPiubd43L6MJaK33ZNSUbCgfbMiurq6yqeDRzEgMJoANFpqtsGEhwkT3PG92e3s7WDZtcsKcGDVS7lba3YLDOa8l+fz3/PNQ4NGWT8vP0QSwo7TNClEUASGkkpZSanZo8GhKqdkoAlgtUUaU0qrJwxYYvb96W8ljEVi9reTofyXMsROHDqyipqSSRbI9FoFkkWxHEyiKopbMlFJrrx8//quwh7Y4jtVoAra52XGcvW7zWODRJv2xhcdlW3900QRwYsOiZuv1jyqhxwkS2j02m2bXi01iM5mFEI2z8sUeo33t6IXsFLc0y6flUVqJk92RKaVm4cPwGaDJwoe/zdxJL/nyPD94O33yu+LN++ZlKngcaM52W5/neTZGTuHDv5HSCv6UJJRSsyGJvXxaflYDzJDnFERWbyuZLJKtWbHjx1gli2S7elvJWrJanj/oRZ3MMxajmgAAAABJRU5ErkJggg=="
+                },
+                "87": {
+                    "id": 87,
+                    "index": 4,
+                    "windowId": 111,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617138375941,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://fr.wikipedia.org/wiki/Johannes_Kepler",
+                    "title": "Johannes Kepler — Wikipédia",
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAADzUlEQVRoge1ZO27jMBAldA6egncIwHLT6QS6AY+gCwRqJlWCyICACOvGEiIXSRUidhMXEpBU7lTxAimIbLEYLWVTf/+AjYABDJgW35t5w5kxCWl5tNZwCdaG8WJBjyJzbnCTSJwb1CQS5wYzmcS5gfzfBM4NYjKJcwP4IXBuAD8E8APnHBhjwBgDzjm4rlsz83shBGite6+XUkIURY3rcW3Xe3Gd67r7BKSUIIQAxhg4jmM1Sin4vg9SStBaQ5qm4HlebQ0hBAgh4DgOeJ4HURSB1hqKooAgCIBzvreecw5BEEBRFI3vNffHdVYJlWUJQogKhPnjsiytYYyiCCiltd/4vm9dWxRFzUlBEDTKw/f9ah3n3Lq/NQfKsgTXdWsEzLDZTAhRiwDKoe3dQohGp6Bj0Hmm13slcZqmNa8yxlo3k1LWPNsUMSklUEqBMdYICi0IAiCENEazlUBZluB5XuVRQgikadorCm3y8H0fCCFVbrTtj0mLOTeIwK62CSHAGGvdFPWNUduNAnq/Sc+7CmiTYi8C6AUzCm3esEXBDD+eLH2877ouUEo7o95ZyIIgqAHinHdGgVJaJTRGQUrZ6zDASPVd20mgLMtKFmhdybd7hgshensU86RPpHoRMGWBBLo8g1EwcwELWx+H4SnVB1svAqYs0LqS0HXdWmFrO8ttkm0rcIMJICCTQJc3i6KotQu2uqCUmq3X69ckSbZxHKv7u/vv+7v775ubGzWfz7fr9fpVKTU7CAE8Avu0Fk2k8UhUSs2yLPtAwF2WZdlHE5FB7TRWWpRGW4XUej+ZGWPw/PychWH41Rc8WhiGX3meZ5MIpGlak0VbopkSQrv+df0yFPiubd43L6MJaK33ZNSUbCgfbMiurq6yqeDRzEgMJoANFpqtsGEhwkT3PG92e3s7WDZtcsKcGDVS7lba3YLDOa8l+fz3/PNQ4NGWT8vP0QSwo7TNClEUASGkkpZSanZo8GhKqdkoAlgtUUaU0qrJwxYYvb96W8ljEVi9reTofyXMsROHDqyipqSSRbI9FoFkkWxHEyiKopbMlFJrrx8//quwh7Y4jtVoAra52XGcvW7zWODRJv2xhcdlW3900QRwYsOiZuv1jyqhxwkS2j02m2bXi01iM5mFEI2z8sUeo33t6IXsFLc0y6flUVqJk92RKaVm4cPwGaDJwoe/zdxJL/nyPD94O33yu+LN++ZlKngcaM52W5/neTZGTuHDv5HSCv6UJJRSsyGJvXxaflYDzJDnFERWbyuZLJKtWbHjx1gli2S7elvJWrJanj/oRZ3MMxajmgAAAABJRU5ErkJggg=="
+                },
+                "88": {
+                    "id": 88,
+                    "index": 5,
+                    "windowId": 111,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617138382043,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://fr.wikipedia.org/wiki/Tycho_Brahe",
+                    "title": "Tycho Brahe — Wikipédia",
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAADzUlEQVRoge1ZO27jMBAldA6egncIwHLT6QS6AY+gCwRqJlWCyICACOvGEiIXSRUidhMXEpBU7lTxAimIbLEYLWVTf/+AjYABDJgW35t5w5kxCWl5tNZwCdaG8WJBjyJzbnCTSJwb1CQS5wYzmcS5gfzfBM4NYjKJcwP4IXBuAD8E8APnHBhjwBgDzjm4rlsz83shBGite6+XUkIURY3rcW3Xe3Gd67r7BKSUIIQAxhg4jmM1Sin4vg9SStBaQ5qm4HlebQ0hBAgh4DgOeJ4HURSB1hqKooAgCIBzvreecw5BEEBRFI3vNffHdVYJlWUJQogKhPnjsiytYYyiCCiltd/4vm9dWxRFzUlBEDTKw/f9ah3n3Lq/NQfKsgTXdWsEzLDZTAhRiwDKoe3dQohGp6Bj0Hmm13slcZqmNa8yxlo3k1LWPNsUMSklUEqBMdYICi0IAiCENEazlUBZluB5XuVRQgikadorCm3y8H0fCCFVbrTtj0mLOTeIwK62CSHAGGvdFPWNUduNAnq/Sc+7CmiTYi8C6AUzCm3esEXBDD+eLH2877ouUEo7o95ZyIIgqAHinHdGgVJaJTRGQUrZ6zDASPVd20mgLMtKFmhdybd7hgshensU86RPpHoRMGWBBLo8g1EwcwELWx+H4SnVB1svAqYs0LqS0HXdWmFrO8ttkm0rcIMJICCTQJc3i6KotQu2uqCUmq3X69ckSbZxHKv7u/vv+7v775ubGzWfz7fr9fpVKTU7CAE8Avu0Fk2k8UhUSs2yLPtAwF2WZdlHE5FB7TRWWpRGW4XUej+ZGWPw/PychWH41Rc8WhiGX3meZ5MIpGlak0VbopkSQrv+df0yFPiubd43L6MJaK33ZNSUbCgfbMiurq6yqeDRzEgMJoANFpqtsGEhwkT3PG92e3s7WDZtcsKcGDVS7lba3YLDOa8l+fz3/PNQ4NGWT8vP0QSwo7TNClEUASGkkpZSanZo8GhKqdkoAlgtUUaU0qrJwxYYvb96W8ljEVi9reTofyXMsROHDqyipqSSRbI9FoFkkWxHEyiKopbMlFJrrx8//quwh7Y4jtVoAra52XGcvW7zWODRJv2xhcdlW3900QRwYsOiZuv1jyqhxwkS2j02m2bXi01iM5mFEI2z8sUeo33t6IXsFLc0y6flUVqJk92RKaVm4cPwGaDJwoe/zdxJL/nyPD94O33yu+LN++ZlKngcaM52W5/neTZGTuHDv5HSCv6UJJRSsyGJvXxaflYDzJDnFERWbyuZLJKtWbHjx1gli2S7elvJWrJanj/oRZ3MMxajmgAAAABJRU5ErkJggg=="
+                },
+                "218": {
+                    "id": 218,
+                    "index": 6,
+                    "windowId": 111,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617138384417,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://fr.wikipedia.org/wiki/H%C3%A9liocentrisme",
+                    "title": "Héliocentrisme — Wikipédia",
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAADzUlEQVRoge1ZO27jMBAldA6egncIwHLT6QS6AY+gCwRqJlWCyICACOvGEiIXSRUidhMXEpBU7lTxAimIbLEYLWVTf/+AjYABDJgW35t5w5kxCWl5tNZwCdaG8WJBjyJzbnCTSJwb1CQS5wYzmcS5gfzfBM4NYjKJcwP4IXBuAD8E8APnHBhjwBgDzjm4rlsz83shBGite6+XUkIURY3rcW3Xe3Gd67r7BKSUIIQAxhg4jmM1Sin4vg9SStBaQ5qm4HlebQ0hBAgh4DgOeJ4HURSB1hqKooAgCIBzvreecw5BEEBRFI3vNffHdVYJlWUJQogKhPnjsiytYYyiCCiltd/4vm9dWxRFzUlBEDTKw/f9ah3n3Lq/NQfKsgTXdWsEzLDZTAhRiwDKoe3dQohGp6Bj0Hmm13slcZqmNa8yxlo3k1LWPNsUMSklUEqBMdYICi0IAiCENEazlUBZluB5XuVRQgikadorCm3y8H0fCCFVbrTtj0mLOTeIwK62CSHAGGvdFPWNUduNAnq/Sc+7CmiTYi8C6AUzCm3esEXBDD+eLH2877ouUEo7o95ZyIIgqAHinHdGgVJaJTRGQUrZ6zDASPVd20mgLMtKFmhdybd7hgshensU86RPpHoRMGWBBLo8g1EwcwELWx+H4SnVB1svAqYs0LqS0HXdWmFrO8ttkm0rcIMJICCTQJc3i6KotQu2uqCUmq3X69ckSbZxHKv7u/vv+7v775ubGzWfz7fr9fpVKTU7CAE8Avu0Fk2k8UhUSs2yLPtAwF2WZdlHE5FB7TRWWpRGW4XUej+ZGWPw/PychWH41Rc8WhiGX3meZ5MIpGlak0VbopkSQrv+df0yFPiubd43L6MJaK33ZNSUbCgfbMiurq6yqeDRzEgMJoANFpqtsGEhwkT3PG92e3s7WDZtcsKcGDVS7lba3YLDOa8l+fz3/PNQ4NGWT8vP0QSwo7TNClEUASGkkpZSanZo8GhKqdkoAlgtUUaU0qrJwxYYvb96W8ljEVi9reTofyXMsROHDqyipqSSRbI9FoFkkWxHEyiKopbMlFJrrx8//quwh7Y4jtVoAra52XGcvW7zWODRJv2xhcdlW3900QRwYsOiZuv1jyqhxwkS2j02m2bXi01iM5mFEI2z8sUeo33t6IXsFLc0y6flUVqJk92RKaVm4cPwGaDJwoe/zdxJL/nyPD94O33yu+LN++ZlKngcaM52W5/neTZGTuHDv5HSCv6UJJRSsyGJvXxaflYDzJDnFERWbyuZLJKtWbHjx1gli2S7elvJWrJanj/oRZ3MMxajmgAAAABJRU5ErkJggg=="
+                },
+                "219": {
+                    "id": 219,
+                    "index": 9,
+                    "windowId": 111,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617138373772,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "openerTabId": 218,
+                    "url": "https://www.thpanorama.com/blog/ciencia/heliocentrismo-historia-quin-la-propuso-caractersticas.html",
+                    "title": "Histoire de l'héliocentrisme, qui l'a proposé, caractéristiques | Thpanorama - Deviens mieux maintenant",
+                    "favIconUrl": "data:image/png;base64,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"
+                },
+                "220": {
+                    "id": 220,
+                    "index": 10,
+                    "windowId": 111,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617138370173,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": false,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://duckduckgo.com/?q=La+revue+La+recherche+Les+plus+grandes+controverses+scientifiques&t=lm&ia=web",
+                    "title": "La revue La recherche Les plus grandes controverses scientifiques at DuckDuckGo",
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFHklEQVRYha1X70tbVxgO2M/9B/plnzMGpR9ybz+4KStlXYmU67122nT9gVRECK3DWRztilR0payaDfEhVJOImLaG1BAqARstpWVDpCW0dHWFIAsn55Lkckk4GMINZx8yU21uvFF24CFfcs7zvM/7nve+x2ZrcHFFacopzXba4ehU28V+IgnDaVn0pGXRQyRhWG0X+2mHozOnNNu5ojQ1eq7lyp0TDhPJ0UUVYZxIAjIDLujeURQWvGDxRbD4IgoLXujeUWQGXCCSgMp/HV25c8LhAxPzlpZDVBLbqCx61B4nWHQeRobCIJtgyyEUgoA+NQJ9agSFIMCWQzDIJowMBYvOQ+1xgsqih0piG29pObTvqNOyOEhdrWDhAMp5HYWwD+rVsyCSsCfUq2dRCPtQzutg4QCIqxVpWRxs2I2scvxIWhbHVLcCI5UEW41A7T5tSVwjpPs02GoERioJ1a0gLYtjWeX4kUYiH8vd6EFZ16BP3gaRBGSGLoNFg2CxEAqBCai9ZxoWok/eRlnXkLvRg7QsjtV1gre0HErL4qDqViobbvVVDynMTaKsa+CcV1F6uw7VrTQkInerD2Vd23Zi0LQmqCS2UVcrjFSyGvlHO09B7T4F7d4QShtvqiIqLg2DXjhh7cTUCIxUEtTVCiqJbTXWU1n0sHAALB6p2UzPf43i2rNdDuxEOa8jd+OKpQi2GgELB0Bl0bMrFURydKk9TpTzumnBlTYSdcmrIrQM6OVvLAuznNeh9jhBJEdXJfeK0kQVYZxF51EITdds0u4MgHOOD6kcnq8nwYqlGvI3Hygiq29Bw0FLFwphH1h0HlQRxrmiNNlySrOdSAKMDDW95yw6B8451t78Y+1CcQv00knLPmFkaKU4lWa7jXY4OjMDLhhk03RD8Y94laBYMqDlt0zJ74fW8PxVEtq9IUsXDLKJzIALtMPRaVPbxX7dOwq2HDIvnHikSnJhKIjTfdOmaTjj9mHEGwdbemhdjMsh6N5RqO1iv41IwnBhwYtCEOY5e4gqyWxkHdcnlsztL1d+q7dIEaBdOwqGz7F1346c+9jHM4NAYcELIgnDtrQselh8EfrUiKkA7ZcfLHPPywx8KwFeWIYRv4DSgh18zQ6e+A8v7NCuHd3VE1h8EWlZ9FgKUK849yAugpMfwRNfVMmyf341t/L4p8TC3ETW7/Nzv8/PH0z+ln0yejPx18Vv53YKILI4YZkCIgk1bbiKVF+F+LUdxVk7ngZ+SmyT1sOT0ZuJXSmwKkIiCfW7YKoXPGFHecmOB5O/Z63It/Fo1p+tFqHVNawUzZS5AEODETuGlcfWkX+KmOdugnY4Oi0bEZEEaCPuunXw98DFuf2Sb2Pteu+J3a047DMVQC+drCsgNnFn39FvIzDtm2joY0QkAYaaMhXwaPp+w7n/FD6f71Xt53i19nNMJAFbz2OmAg5Kvo2GBhIiCcj7fgXnHBv5twgn56Cy1P8rYK+RjEgCMkPd4JxjORVFV9wJV9yJW2sDwOzUgVPgn/G/Nh9Kf949lBJJAPnuS5TLBp6RGLriTnTFnWiLOnHnweiBi9A/4x+3HsvjH8fyUvI91jMvqwKUJQnfR84f+BrOzMx8ttd4vvthEprG1osYCEvB/fISFjeDKBoMnHOsPF3Zvwtm0e9cdZ9mWgal5HuUku9Q2tyoIPkOC/PzjdfCp7nfa+3ncRrz3LV2wiryuo40+Dxfu957IjDtm/DP+F/vjNg/4x83y/m//24NHwddVYQAAAAASUVORK5CYII="
+                },
+                "222": {
+                    "id": 222,
+                    "index": 0,
+                    "windowId": 111,
+                    "highlighted": true,
+                    "active": true,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": false,
+                    "incognito": false,
+                    "width": 1920,
+                    "height": 882,
+                    "lastAccessed": 1617139531754,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://fr.wikipedia.org/wiki/La_Vie_de_Galil%C3%A9e",
+                    "title": "La Vie de Galilée — Wikipédia",
+                    "favIconUrl": "data:image/x-icon;base64,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"
+                },
+                "224": {
+                    "id": 224,
+                    "index": 13,
+                    "windowId": 111,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617138367626,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://gallica.bnf.fr/conseils/content/nicolas-copernic",
+                    "title": "Nicolas Copernic | Gallica vous conseille",
+                    "favIconUrl": "data:image/x-icon;base64,AAABAAEAISEAAAEAIAA0EgAAFgAAACgAAAAhAAAAQgAAAAEAIAAAAAAABBEAABMLAAATCwAAAAAAAAAAAAD///8A////AP///wBwcnQQcHJ0QHBydEBwcnRAcHJ0QHBydEBwcnRAcHJ0QHBydEBwcnRAcHJ0QHBydEBwcnRAcHJ0QHBydEBwcnRAcHJ0QHBydEBwcnRAcHJ0QHBydEBwcnRAcHJ0QHBydEBwcnRAcHJ0IP///wD///8A////AP///wD///8AcHJ0EHBydKBwcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydMBwcnQw////AP///wD///8AcHJ00HBydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnTwcHJ0IP///wBwcnSAcHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0wP///wBwcnTgcHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydCBwcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/gYOF/5OUlv+TlJb/ioyN/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/6enq//r6+v/6+vr/x8fI/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP+KjI3/+vr6//r6+v/6+vr/pKWm/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP+trq//+vr6//r6+v/6+vr/gYOF/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP/P0ND/+vr6//r6+v/p6er/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP+ChIX/pqeo/7i5uv+vsLH/lJWX/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP/p6er/+vr6//r6+v/P0ND/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/eXt9/9zc3f////////////////////////////f39//BwsL/eXt9/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/3l7fP/6+vr/+vr6//r6+v+1trf/cHJ0/3BydP9wcnT/cHJ0/3BydP95e33/9/f3////////////7u7u/9zc3f/39/f/////////////////uLm6/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/5OUlv/6+vr/+vr6//r6+v+bnZ7/cHJ0/3BydP9wcnT/cHJ0/3BydP/Kysv///////////+vsLH/cHJ0/3BydP9wcnT/lJWX/9zc3f//////uLm6/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/5udnv/6+vr/+vr6//r6+v+TlJb/cHJ0/3BydP9wcnT/cHJ0/4KEhf///////////8rKy/9wcnT/cHJ0/3BydP9wcnT/cHJ0/7i5uv//////uLm6/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/7W2t//6+vr/+vr6//r6+v+Bg4X/cHJ0/3BydP9wcnT/cHJ0/6anqP///////////4uNjv9wcnT/cHJ0/3BydP9wcnT/cHJ0/7i5uv//////uLm6/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/7W2t//6+vr/+vr6//Ly8v9wcnT/cHJ0/3BydP9wcnT/cHJ0/7i5uv///////////3BydP9wcnT/cHJ0/5SVl///////////////////////uLm6/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/ioyN//Ly8v/6+vr/6enq/4qMjf9wcnT/cHJ0/3BydP9wcnT/cHJ0/7i5uv//////7u7u/3BydP9wcnT/cHJ0/5SVl///////////////////////uLm6/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/eXt8/+Hh4f/6+vr/+vr6/6Slpv9wcnT/cHJ0/3BydP9wcnT/cHJ0/7i5uv///////////3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/7W2t//6+vr/+vr6//r6+v9wcnT/cHJ0/3BydP9wcnT/cHJ0/7i5uv///////////3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/7W2t//6+vr/+vr6//r6+v+KjI3/cHJ0/3BydP9wcnT/cHJ0/52eoP///////////52eoP9wcnT/cHJ0/3BydP9wcnT/cHJ0/6anqP+4ubr/lJWX/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/5OUlv/6+vr/+vr6//r6+v+TlJb/cHJ0/3BydP9wcnT/cHJ0/3BydP/39/f//////+Xl5f9wcnT/cHJ0/3BydP9wcnT/eXt9////////////nZ6g/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/5OUlv/6+vr/+vr6//r6+v+kpab/cHJ0/3BydP9wcnT/cHJ0/3BydP+4ubr////////////T09T/i42O/3BydP+LjY7/5eXl///////39/f/eXt9/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP/6+vr/+vr6//r6+v+1trf/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/ysrL//////////////////////////////////////+mp6j/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP/h4eH/+vr6//r6+v/Y2Nn/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/6anqP/l5eX/////////////////5eXl/5SVl/9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP/Hx8j/+vr6//r6+v/y8vL/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP+kpab/+vr6//r6+v/6+vr/ioyN/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP95e3z/+vr6//r6+v/6+vr/ra6v/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/2NjZ//r6+v/6+vr/2NjZ/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydEBwcnSwcHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ08P///wBwcnRAcHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0gP///wD///8AcHJ0gHBydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnTA////AP///wD///8A////AHBydEBwcnSwcHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0/3BydP9wcnT/cHJ0wHBydGD///8A////AP///wDgAAAHgAAAAIAAAAGAAAAAgAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAIAAAAGAAAAAwAAAA4AAAAA="
+                },
+                "228": {
+                    "id": 228,
+                    "index": 11,
+                    "windowId": 111,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617138368982,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "openerTabId": 220,
+                    "url": "https://www.larecherche.fr/parution/dossiers-24",
+                    "title": "Les plus grandes controverses scientifiques | larecherche.fr",
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACwElEQVQ4jX2SQWgUZxTHh3pICVmGyjISIrYgsYtHD5beS9CbxyKU3DYsMwyzLAnrxiVFHKa7LDsObtf82OwY2Uw7FDwoDVLqJYTI4rIYgh5MC3NoCBYTkSySRAzPQ2aDtLaHP+/73sf3e+//vk9RTRfVdFEtj0R//RElYg2ZHkOmd7RXkkYFzSgzrDuc0EuoRhXVcFGN6lH+ZMbmVOY6JzM2w7qDppc4blZQTRfllG4zs7zOzUfPybQeoJllVMtFM8qcm67hPlqH5af4S6s0lrpcu7fEN9fqjOgOSbOKMpou0hZhU4RWdx3NcBiyXDSjxJjjsyHCaxFexdoWIRJhvPUbw7qNcnaiQPfg8DB4vIZmlhnI1UiaFcacBtsi9ERY2eyx/NcrdmPgyp4wmiminE3neXJwmAzba2iGw6dZj+NmmYtOk9ci7Ipg1Vt8/V2GaOMFeyKsi5CaKMSAmPpLe5UR3SZhuWhmmQtO4wgw7YdcLti8fPOWngjtd3EHqXSebgwIH6+h6TaDlkvSLB1Z2I29b4vwJo7F37uM6DbKmYlpOvGAWp1nJKwqyhSoVoWxcpO/Rdjc2gruLy5GYRju/BSGO83g5+j85A+BalVRRtMFOn0Lnadops1AziVpOlxw4I+traC1sLB/Z/6OfKiGf3s/deVGoKQmCqweHLb5YKXNuXSO03qRM5kil+yb3Pt1Mfrn5b6u/zgXKaczeTrxU+3G/+G5CA/3hEu2R6v17+p91eeaO8qI8T1LImyI8DIG/ClC/dkmF0uz/wu4Nef3lM8sm7HmXb5thIzPBozPBlwm5CsbRidLeLcX/tOCgx8pA5MVBnNlEtkSatZBzToksiUGcxUGcxVSV6tBw5//yBDn97+8eiNQjuU9Psl7KFMeSj9OfZCb8vh8phbM1P2o1vB7tYbfm7nlR18Ua8GxSY/3TlFtLbGOrm8AAAAASUVORK5CYII="
+                },
+                "229": {
+                    "id": 229,
+                    "index": 12,
+                    "windowId": 111,
+                    "highlighted": false,
+                    "active": false,
+                    "attention": false,
+                    "pinned": false,
+                    "status": "complete",
+                    "hidden": false,
+                    "discarded": true,
+                    "incognito": false,
+                    "width": 0,
+                    "height": 0,
+                    "lastAccessed": 1617138364838,
+                    "audible": false,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "isArticle": true,
+                    "isInReaderMode": false,
+                    "sharingState": {
+                        "camera": false,
+                        "microphone": false
+                    },
+                    "successorTabId": -1,
+                    "cookieStoreId": "firefox-default",
+                    "url": "https://www.larecherche.fr/parution/dossiers-27",
+                    "title": "20 scientifiques répondent à 20 questions métaphysiques | larecherche.fr",
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACwElEQVQ4jX2SQWgUZxTHh3pICVmGyjISIrYgsYtHD5beS9CbxyKU3DYsMwyzLAnrxiVFHKa7LDsObtf82OwY2Uw7FDwoDVLqJYTI4rIYgh5MC3NoCBYTkSySRAzPQ2aDtLaHP+/73sf3e+//vk9RTRfVdFEtj0R//RElYg2ZHkOmd7RXkkYFzSgzrDuc0EuoRhXVcFGN6lH+ZMbmVOY6JzM2w7qDppc4blZQTRfllG4zs7zOzUfPybQeoJllVMtFM8qcm67hPlqH5af4S6s0lrpcu7fEN9fqjOgOSbOKMpou0hZhU4RWdx3NcBiyXDSjxJjjsyHCaxFexdoWIRJhvPUbw7qNcnaiQPfg8DB4vIZmlhnI1UiaFcacBtsi9ERY2eyx/NcrdmPgyp4wmiminE3neXJwmAzba2iGw6dZj+NmmYtOk9ci7Ipg1Vt8/V2GaOMFeyKsi5CaKMSAmPpLe5UR3SZhuWhmmQtO4wgw7YdcLti8fPOWngjtd3EHqXSebgwIH6+h6TaDlkvSLB1Z2I29b4vwJo7F37uM6DbKmYlpOvGAWp1nJKwqyhSoVoWxcpO/Rdjc2gruLy5GYRju/BSGO83g5+j85A+BalVRRtMFOn0Lnadops1AziVpOlxw4I+traC1sLB/Z/6OfKiGf3s/deVGoKQmCqweHLb5YKXNuXSO03qRM5kil+yb3Pt1Mfrn5b6u/zgXKaczeTrxU+3G/+G5CA/3hEu2R6v17+p91eeaO8qI8T1LImyI8DIG/ClC/dkmF0uz/wu4Nef3lM8sm7HmXb5thIzPBozPBlwm5CsbRidLeLcX/tOCgx8pA5MVBnNlEtkSatZBzToksiUGcxUGcxVSV6tBw5//yBDn97+8eiNQjuU9Psl7KFMeSj9OfZCb8vh8phbM1P2o1vB7tYbfm7nlR18Ua8GxSY/3TlFtLbGOrm8AAAAASUVORK5CYII="
+                }
+            }
+        },
+        "windowsNumber": 3,
+        "windowsInfo": {
+            "81": {
+                "id": 81,
+                "focused": false,
+                "top": 0,
+                "left": 0,
+                "width": 960,
+                "height": 1020,
+                "incognito": false,
+                "type": "normal",
+                "state": "normal",
+                "alwaysOnTop": false,
+                "title": "L'histoire de la vulgarisation scientifique - YouTube — Mozilla Firefox"
+            },
+            "83": {
+                "id": 83,
+                "focused": false,
+                "top": 0,
+                "left": 961,
+                "width": 959,
+                "height": 1020,
+                "incognito": false,
+                "type": "normal",
+                "state": "normal",
+                "alwaysOnTop": false,
+                "title": "Evolution De L’univers | Etienne Klein — Mozilla Firefox"
+            },
+            "111": {
+                "id": 111,
+                "focused": true,
+                "top": 0,
+                "left": 0,
+                "width": 1920,
+                "height": 1020,
+                "incognito": false,
+                "type": "normal",
+                "state": "maximized",
+                "alwaysOnTop": false,
+                "title": "La Vie de Galilée — Wikipédia — Mozilla Firefox"
+            }
+        },
+        "tabsNumber": 27,
+        "name": "Histoire des sciences",
+        "date": 1617139531748,
+        "lastEditedTime": 1617139531748,
+        "tag": [],
+        "sessionStartTime": 1617132498264,
+        "id": "e0c4965e-d319-4bac-bc1f-6e831e20e65b"
+    }
+]

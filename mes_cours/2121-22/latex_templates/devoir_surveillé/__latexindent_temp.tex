@@ -1,0 +1,75 @@
+\documentclass[11pt]{exam}		%Doc : https://mirrors.ircam.fr/pub/CTAN/macros/latex/contrib/exam/examdoc.pdf
+
+% \printanswers					%Comment this line to hide the answers 
+
+\pointpoints{point}{points}
+% \boxedpoints
+\addpoints
+% \pointsinrightmargin
+
+\input{structure.tex}
+
+
+%----------------------------------------------------------------------------------------
+%	REQUIRED
+%----------------------------------------------------------------------------------------
+\newcommand{\Titre}{Titre du DS} % 
+\newcommand{\ConsignesGenerales}{Noter nom et prénom en haut à gauche de la page. Répondre aux questions sur les pointillés. Ne pas se décourager :)}
+\usepackage{lipsum}
+
+
+\title{\Titre}
+\begin{document}
+
+\section{\Titre} % peut faire une partie d'un gros examen
+
+
+
+\begin{center}
+	\begin{tcolorbox}[title=Consignes,
+		colback=red!5!white,
+		colframe=red!75!black,
+		colbacktitle=yellow!30!red!50!white,
+		coltitle=red!25!black,
+		fonttitle=\bfseries,
+		subtitle style={boxrule=0.4pt,
+		colback=yellow!50!red!25!white} ]
+		\ConsignesGenerales
+		% \tcbsubtitle{Second subtitle}
+		% Further text.
+		\end{tcolorbox}
+\end{center}
+
+%----------------------------------------------------------------------------------------
+%	EDIT QUESTIONS HERE
+%----------------------------------------------------------------------------------------
+
+
+\begin{questions}
+	\question
+	Why is there air?
+
+	\begin{parts}
+		\part[1\half]
+		Describe the effect on the balloon industry.
+	\answerbox{3}{La pluie tombe}
+		\part[1]
+		Describe the effect on the aircraft industry.
+	\end{parts}
+
+	\question[15]
+	How much wood would a woodchuck chuck if a woodchuck could chuck
+	wood?
+	
+	\question[1] Compute $\displaystyle\int_0^1 x^2 \, dx$.
+	
+\end{questions}
+
+\vfill
+\begin{center}
+\setlength{\doublerulesep}{0.25in}
+\multirowgradetable{1}[questions]
+\end{center}
+
+
+\end{document}

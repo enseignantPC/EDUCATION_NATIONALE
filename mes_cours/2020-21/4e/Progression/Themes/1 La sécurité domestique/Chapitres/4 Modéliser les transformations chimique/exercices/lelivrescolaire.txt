@@ -1,0 +1,957 @@
+chap8
+Exercice 1 : Je sais
+1
+La matière est constituée :
+
+des quatre éléments.
+
+d’argile.
+
+d’éléments géométriques (triangles, carrés, etc.).
+
+d’atomes et de molécules.
+Voir les réponses
+Voir les réponses
+
+Exercice 2 : Je sais
+1
+Les molécules :
+
+existent sous la forme d’éléments géométriques (triangles, carrés, etc.).
+
+sont constituées d’atomes.
+
+se regroupent en atomes.
+
+sont les plus petits constituants de la matière.
+Voir les réponses
+Voir les réponses
+
+Exercice 3 : Je sais
+1
+Lors d’une transformation chimique :
+
+le nombre d’atomes varie.
+
+de nouveaux atomes se créent.
+
+il y a toujours une seule molécule de chaque type.
+
+les atomes se réorganisent pour former de nouvelles molécules.
+Voir les réponses
+Voir les réponses
+
+Exercice 4 : Je sais
+1
+Les atomes sont modélisés par :
+
+des étoiles.
+
+des cubes.
+
+des ronds.
+
+des sphères.
+Voir les réponses
+Voir les réponses
+
+Exercice 5 : Je sais
+1
+Complète la grille de mots-croisés. Pour écrire sur ce schéma, veuillez cliquer sur l’image et utiliser notre outil de dessin.
+
+Mots-croisés.
+
+Vertical :
+
+1. Elle est un assemblage d’atomes.
+2. Elle sert à décrire la transformation chimique.
+
+Horizontal :
+
+3. Constituant microscopique et indivisible de la
+matière.
+4. Elle fait apparaitre la composition d’une molécule.
+Je sais faire
+Voir les réponses
+
+Exercice 6 : Je sais faire
+1
+La molécule de méthane CH4 est composée :
+
+de quatre atomes de carbone et d’un atome d’hydrogène.
+
+d’un atome de carbone et de quatre atomes d’hydrogène.
+
+d’un atome de carbone et d’un atome d’hydrogène.
+
+de quatre atomes de carbone et de quatre atomes d’hydrogène.
+Voir les réponses
+Voir les réponses
+
+Exercice 7 : Je sais faire
+1
+La molécule de propane C4H20 est composée :
+
+de dix atomes de carbone et de quatre d’hydrogène.
+
+de quatre atomes de carbone et de dix d’hydrogène.
+
+de dix atomes de carbone et de dix atomes d’hydrogène.
+
+d’un atome de carbone et d’un atome d’hydrogène.
+Voir les réponses
+Voir les réponses
+
+Exercice 8 : Je sais faire
+1
+L’équation équilibrée de la combustion du méthane est :
+
+CH4 + 2 O2 → CO2 + 2 H2O
+
+CH4 + 2 O2 → CO2 + H2O
+
+2 CH4 + O2 → CO2 + H2O
+Voir les réponses
+Voir les réponses
+
+Exercice 9 : Je sais faire
+1
+L’équation équilibrée de la combustion du propane est :
+
+C3H8 + 5 O2 → 3 CO2 + 4 H2O
+
+C3H8 + 2 O2 → 3 CO2 + 2 H2O
+
+C3H8 + 2 O2 → CO2 + 2 H2O
+Voir les réponses
+Exercice corrigé
+Voir les réponses
+
+Exercice 10 : Combustion du propane.
+La combustion compléte du propane C3H8 produit du dioxyde de carbone et de l’eau.
+
+1
+Donne le nom des atomes qui composent la molécule de propane et précise leur nombre.
+
+
+
+2
+Écris en toutes lettres le bilan de la réaction.
+
+
+
+3
+En remplaçant les noms des réactifs et des produits par leur formule chimique, écris l’équation non équilibrée de la combustion du propane.
+
+
+
+4
+Ajuste les coefficients de l’équation de réaction afin d’équilibrer celle-ci.
+
+
+
+Voir les réponses
+
+Doc. 1
+Propane.
+<stamp theme='pc-green1'>Doc. 1</stamp> Propane.
+
+Étapes de la méthode
+
+    Pour interpréter une formule chimique :
+    Écrire le bilan en toutes lettres :
+    Réactifs → Produits
+    Réactif  1 +  réactif 2 → produit 1 +  produit 2
+    Remplacer les noms par les formules chimiques.
+    Ajuster les coefficients en examinant la conservation des atomes, un type d’atome après l’autre.
+    ▪ Commencer par ajuster le nombre de molécules de dioxyde de carbone dans les produits : il y en a autant que d’atomes de carbone présents dans la molécule du combustible.
+    ▪ Ajuster ensuite le nombre de molécules d’eau dans les produits : il y en a deux fois moins que d’atomes d’hydrogène dans les réactifs.
+    ▪ Ajuster enfin le nombre de molécules de dioxygène dans les réactifs : il y a en a deux fois moins que d’atomes d’oxygène dans les produits, une fois pris en compte les coefficients déjà écrits.
+    Si le nombre de molécules de dioxygène obtenu n’est pas un nombre entier, il faut reprendre la méthode en partant de deux molécules de combustible.
+
+Corrigé :
+
+    La molécule de propane est composée de 3 atomes de carbone et de 8 atomes d’hydrogène.
+    La réaction de combustion du propane est donnée par le bilan suivant :
+    Propane + dioxygène → dioxyde de carbone + eau
+    En remplaçant les noms des réactifs et des produits par leurs formules, on obtient :
+    C3H8 + O2 → CO2 + H2O
+    En ajustant l’équation de réaction, on obtient :
+    C3H8 + 5 O2 → 3 CO2 + 4 H2O
+
+Voir les réponses
+
+Exercice 11 : Combustion du pentane.
+La combustion du pentane C5H12 dégage du dioxyde de carbone et de l’eau.
+
+1
+Donne le nom et le nombre d’atomes qui composent la molécule de pentane.
+
+
+
+2
+Rédige en toutes lettres le bilan de la réaction.
+
+
+
+3
+En remplaçant les noms des réactifs et des produits par leur formule, rédige l’équation non équilibrée de la combustion du pentane.
+
+
+
+4
+Ajuste les coefficients de l’équation de réaction de combustion du pentane.
+
+Voir les réponses
+
+Doc. 2
+Pentane.
+<stamp theme='pc-green1'>Doc. 2</stamp> Pentane.
+
+Je m'entraine
+Voir les réponses
+
+Exercice 12 : Oxygène et dioxygène.
+On dit couramment qu’on respire de l’oxygène. Cependant, les scientifiques parlent de dioxygène.
+
+1
+Oxygène et dioxygène désignent-ils la même chose ?
+
+
+
+2
+Lequel est un atome ?
+
+
+
+3
+Lequel est une molécule ?
+
+
+
+4
+Dessine le modèle de l’oxygène.
+
+
+
+5
+Dessine le modèle du dioxygène.
+
+
+
+Voir les réponses
+Voir les réponses
+
+Exercice 13 : Combustion du carbone.
+La combustion du carbone produit du dioxyde de carbone.
+
+1
+Écris le bilan de la réaction.
+
+
+
+2
+Remplace le nom des réactifs et des produits par leur modèle. Que constates-tu au niveau du nombre d’atomes ?
+
+
+
+3
+Écris l’équation de réaction.
+
+
+
+Voir les réponses
+Voir les réponses
+
+Exercice 14 : Ajuster une équation de réaction à partir des dessins des molécules.
+Soit la réaction dessinée ci-dessous.
+
+<stamp theme='pc-green1'>Doc. 1</stamp> Équation de réaction à ajuster.
+1
+Comment s’appellent les espèces chimiques à gauche de la flèche ?
+
+
+
+2
+Comment s’appellent les espèces chimiques à droite de la flèche ?
+
+
+
+3
+Donne le bilan de la réaction en toutes lettres.
+
+
+
+4
+Remplace les noms des molécules par leur formule chimique.
+
+
+
+5
+Cette équation de réaction est-elle équilibrée ?
+
+
+
+6
+Recopie la réaction dessinée ci-dessus et ajoute les molécules manquantes afin d’ajuster cette réaction.
+
+
+
+7
+Donne l’équation de réaction équilibrée.
+
+Voir les réponses
+Voir les réponses
+
+Exercice 15 : Équations de réaction.
+1
+Ajuste les équations des réactions suivantes :
+
+a. CH4 +  O2 → CO2 +  H2O
+b. C7H16 +  O2 →  CO2 +  H2O
+c. C6H12O6 + O2 → CO2 + H2O
+
+Voir les réponses
+Voir les réponses
+
+Exercice 16 : La glycine.
+La glycine est un acide aminé entrant dans la composition de l’ADN. Elle joue un rôle important dans le corps humain.
+
+<stamp theme='pc-green1'>Doc. 2</stamp> Glycine.
+1
+Donne la composition de la glycine en précisant le nombre de chaque type d’atome.
+
+
+
+2
+Quelle est la formule chimique de la glycine ?
+
+
+
+Voir les réponses
+Voir les réponses
+
+Exercice 17 : L’air.
+L’air est composé d’environ 80 % de diazote et 20 % de dioxygène.
+
+<stamp theme='pc-green1'>Doc. 3</stamp> L'air.
+1
+Quelle est la formule du diazote ?
+
+
+
+2
+Quelle est la composition de la molécule de diazote ?
+
+
+
+3
+Dessine le modèle de la molécule de diazote.
+
+
+
+4
+Quelle est la formule du dioxygène ?
+
+
+
+5
+Quelle est la composition de la molécule de dioxygène ?
+
+
+
+6
+Dessine le modèle de la molécule de dioxygène.
+
+
+
+7
+Combien de molécules de diazote faudrait-il dessiner dans la bouteille ci-dessus pour modéliser l’air ?
+
+Voir les réponses
+Voir les réponses
+
+Exercice 18 : À chaque modèle sa formule.
+1
+À partir de ces dessins de modèles, donne la formule des molécules suivantes.
+<stamp theme='pc-green1'>Doc. 4</stamp> Modèle et formule.
+
+
+
+Voir les réponses
+Voir les réponses
+
+Exercice 19 : Composition des molécules.
+Donne la composition des molécules suivantes :
+
+1
+l’éthylène C2H4
+
+
+
+2
+le monoxyde d’azote NO
+
+
+
+3
+l’ozone O3
+
+
+
+4
+l’eau oxygénée H2O2
+
+
+
+Voir les réponses
+Voir les réponses
+
+Exercice 20 : Atomes et molécules.
+Soit les formules chimiques et symboles suivants : CO2 - Fe - H2O - H - CuSO4 - He.
+
+1
+Lesquel(le)s désignent des atomes ?
+
+
+
+2
+Lesquel(le)s désignent des molécules ?
+
+
+
+3
+Comment as-tu fait pour les différencier ?
+
+
+
+Voir les réponses
+Une notion, trois exercices
+Voir les réponses
+
+Exercice 21 : La corrosion du fer. ◉◉◉
+Au contact du dioxygène O2 et en présence d’eau H2O, le fer Fe se corrode en rouille Fe2O3. L’eau est indispensable pour ce processus, mais lors de cette transformation la quantité totale d’eau reste la même. On propose une équation pour modéliser cette réaction : 4 Fe + 4 O2 → 2 Fe2O6
+
+1
+Explique pourquoi l’eau n’est ni un réactif, ni un produit dans cette transformation.
+
+
+
+2
+Compte le nombre d’atomes de fer dans les réactifs de l’équation.
+
+
+
+3
+Compte le nombre d’atomes de fer dans les produits de l’équation puis fais de même pour les atomes d’oxygène.
+
+
+
+4
+Indique, à l’aide des réponses précédentes, si l’équation de réaction est équilibrée. Si ce n’est pas le cas, propose une correction de l’équation.
+
+Voir les réponses
+
+Doc. 1
+Clous.
+<stamp theme='pc-green1'>Doc. 1</stamp> Clous.
+
+Voir les réponses
+
+Exercice 21 : La combustion du gaz naturel. ◉◉◉
+Le méthane est le composé principal du gaz naturel délivré dans les habitations. La réaction de combustion du méthane CH4 avec le dioxygène O2 produit du dioxyde de carbone CO2 et de l’eau H2O. On propose une équation de réaction pour modéliser cette transformation chimique : CH4 + O2 → CO2 + 2 H2O
+
+1
+Compte le nombre d’atomes de carbone, d’oxygène et d’hydrogène de chaque côté de l’équation de réaction.
+
+
+
+2
+D’après ta réponse à la question précédente, l’équation est-elle équilibrée ? Si ce n’est pas le cas, propose une correction.
+
+
+
+Voir les réponses
+Voir les réponses
+
+Exercice 21 : L’alcool à bruler. ◉◉◉
+L’alcool à bruler est constitué d’éthanol dont la formule est C2H6O. La combustion de l’éthanol dans l’air consomme de l’éthanol et du dioxygène O2 et forme du dioxyde de carbone CO2 et de l’eau H2O.
+
+1
+Écris et équilibre l’équation de réaction de la combustion de l’éthanol.
+
+
+
+Voir les réponses
+
+Doc. 2
+Alcool à bruler.
+<stamp theme='pc-green1'>Doc. 2</stamp> Alcool à bruler.
+
+J'approfondis
+Voir les réponses
+
+Exercice 22 : L'aspirine.
+L’aspirine contient de l’acide acétylsalicylique dont le dessin figure ci-contre. Cette substance peut être obtenue à partir d’une espèce chimique présente dans l’écorce du saule. Ses infusions servaient autrefois à calmer les douleurs. Désormais, l’acide acétylsalicylique est fabriqué en laboratoire.
+
+<stamp theme='pc-green1'>Doc. 1</stamp> L'aspirine.
+1
+Comment se nomme la molécule qui permet à l'aspirine de calmer les douleurs ?
+
+
+
+2
+Est-elle d’origine naturelle ou 100 % artificielle, c’est-à-dire qui n’existe pas dans la nature ?
+
+
+
+3
+En observant la molécule, donne sa composition.
+
+
+
+4
+Donne la formule chimique de l’acide acétylsalicylique.
+
+
+
+Voir les réponses
+Voir les réponses
+
+Exercice 23 : La vitamine C.
+L’acide ascorbique ou vitamine C est présent dans les fruits ainsi que dans quelques légumes. Il a pour formule C6H8O6. Dans les jus, il se dégrade malheureusement lors de la pasteurisation (chauffage rapide et élevé) de la boisson pour former du dioxyde de carbone CO2, de l’eau H2O et du furfural C5H4O2.
+
+1
+Donne la composition atomique de l’acide ascorbique.
+
+
+
+2
+Écris le bilan de la réaction de dégradation de l’acide ascorbique.
+
+
+
+3
+Écris l’équation de réaction équilibrée en ajustant le cœfficient de la molécule d’eau.
+
+
+
+Voir les réponses
+Voir les réponses
+
+Exercice 24 : Combustion du sucre.
+À l’intérieur des muscles, le glucose ci-contre réagit avec le dioxygène fourni par les globules rouges. La réaction qui a lieu libère de l'énergie. Il se forme alors du dioxyde de carbone et de l’eau.
+
+<stamp theme='pc-green1'>Doc. 2</stamp> Sucre.
+1
+Donne la composition de la molécule de glucose.
+
+
+
+2
+Quelle est sa formule ?
+
+
+
+3
+Écris le bilan de la réaction.
+
+
+
+4
+Écris l’équation de réaction.
+
+
+
+Voir les réponses
+Voir les réponses
+
+Exercice 25 : La synthèse du sucre.
+Le sucre le plus utilisé en cuisine est le saccharose. Il est fabriqué à partir de fructose et de glucose, deux molécules différentes ayant la même formule chimique: C6H12O6. Il se forme alors du saccharose C12H22O11 et de l’eau H2O.
+
+1
+Écris le bilan de la réaction.
+
+
+
+2
+Quel est le nombre d’atomes de carbone, d’hydrogène et d’oxygène du côté des produits sachant qu’il ne se forme qu’une molécule de saccharose et une molécule d’eau ?
+
+
+
+3
+Sachant que le nombre d’atomes se conserve lors de la transformation chimique, retrouve la formule du fructose.
+
+
+
+4
+Écris l’équation de la transformation.
+
+
+
+Voir les réponses
+Voir les réponses
+
+Exercice 26 : Les additifs alimentaires.
+E162 : La bétanine C24H27N2O13 est un colorant alimentaire de couleur rouge. Il est extrait de la betterave. E200 : L’acide sorbique C6H8O2 est un conservateur présent dans les denrées alimentaires à base de fruits et de légumes, mais aussi de mayonnaise. Il était auparavant extrait des baies du sorbier. E330 : L’acide citrique C6H8O7 est un acidifiant présent dans les aliments en étant que correcteur d’acidité. Il est naturellement présent dans les légumes et les fruits, surtout les agrumes.
+
+1
+Donne la composition de chacune de ces molécules.
+
+
+
+Voir les réponses
+Voir les réponses
+
+Exercice 27 : Réaction entre l’acide chlorhydrique et la craie.
+La craie est une roche calcaire composée de carbonate de calcium CaCO3. Lorsqu’on verse de l’acide chlorhydrique HCl dessus, il se forme de l’eau, un gaz et un sel appelé chlorure de calcium CaCl2. Le gaz formé trouble l’eau de chaux.
+
+1
+Quel gaz a pu troubler l’eau de chaux ?
+
+
+
+2
+Quels sont les réactifs de cette réaction ? Quels sont les produits ?
+
+
+
+3
+Écris le bilan de la réaction.
+
+
+
+4
+Écris l’équation de réaction.
+
+
+
+Voir les réponses
+Voir les réponses
+
+Exercice 28 : Feu d’artifice.
+Lors des feux d’artifice, on brule la poudre d’aluminium afin d’obtenir des étincelles blanches très brillantes. Il se forme alors de l’oxyde d’aluminium de formule Al2O3.
+
+1
+Quels sont les réactifs ?
+
+
+
+2
+Quel est le produit ?
+
+
+
+3
+Écris le bilan de la réaction.
+
+
+
+4
+Écris l’équation de réaction.
+
+
+
+Voir les réponses
+Voir les réponses
+
+Exercice 29 : Le magnésium.
+Le magnésium est très utilisé pour les feux d’artifice et on le retrouve dans la composition de la poudre qui servait autrefois à faire les flash pour les photographies. Lors de cette réaction, le magnésium Mg brule dans le dioxygène pour former de l’oxyde de magnésium MgO.
+
+<stamp theme='pc-green1'>Doc. 3</stamp> Magnésium.
+1
+Quels sont les réactifs ?
+
+
+
+2
+Quel est le produit ?
+
+
+
+3
+Écris le bilan de la réaction.
+
+
+
+4
+Écris l’équation de réaction.
+
+Voir les réponses
+Voir les réponses
+
+Exercice 30 : Modéliser une transformation chimique.
+Voici le schéma avant une réaction de combustion.
+
+<stamp theme='pc-green1'>Doc. 4</stamp> Transformation chimique.
+1
+Quel est le combustible ?
+
+
+
+2
+Écris l’équation de la réaction.
+
+
+
+3
+Réalise le schéma de la situation après la réaction de combustion.
+
+
+
+Voir les réponses
+Voir les réponses
+
+Exercice 31 : Le fer brule aussi !
+Lors d’un incendie, source importante de chaleur, un clou en fer (symbole Fe) peut également réaliser une vive combustion avec le dioxygène contenu dans l’air. Il se forme alors de l’oxyde de fer (Fe2O3).
+
+1
+Indique quels sont le(s) réactif(s) et le(s) produit(s) de la réaction.
+
+
+
+2
+Donne la formule chimique et la composition atomique de chacun d’eux.
+
+
+
+3
+Quelle espèce chimique joue le rôle de combustible ?
+
+
+
+4
+Écris l’équation bilan de la transformation chimique qui s’est réalisée.
+
+
+
+5
+La combustion d’un clou de 12 g nécessite environ 3,6 L de dioxygène. Détermine la masse de dioxygène nécessaire à cette transformation, sachant que 1 L de dioxygène pèse environ 1,4 g.
+
+
+
+6
+Peux-tu prévoir la masse de l’oxyde de fer obtenu ? Si oui, explique comment et calcule la masse finale de cet oxyde.
+
+
+
+7
+Parfois, l'oxyde de fer obtenu a pour formule FeO. Écris la nouvelle équation bilan.
+
+
+
+Voir les réponses
+Voir les réponses
+
+Exercice 32 : La photosynthèse.
+Comme tous les êtres vivants, les végétaux réalisent des réactions chimiques complexes pour se développer ; la plus célèbre est la photosynthèse. Les plantes utilisent l’énergie lumineuse du Soleil pour transformer le dioxyde de carbone contenu dans l’air et l’eau puisée dans le sol. Elles synthétisent ainsi du glucose (C6H12O6) et du dioxygène durant la journée.
+
+1
+Indique quels sont les réactifs et les produits de la réaction.
+
+
+
+2
+Explique pourquoi la forêt amazonienne est surnommée le « poumon vert » de la planète.
+
+
+
+3
+Donne la formule chimique et la composition atomique des produits de la photosynthèse.
+
+
+
+4
+Écris et équilibre l’équation de réaction de la transformation chimique qui s’est réalisée.
+
+
+
+5
+La photosynthèse est-elle possible la nuit ?
+
+
+
+6
+Les plantes respirent nuit et jour. Que fabriquent les plantes la nuit ?
+
+Voir les réponses
+Voir les réponses
+
+Exercice 33 : La formation de l’eau par combustion.
+Les premiers dirigeables volaient grâce au gaz dihydrogène. L’inconvénient principal de ce gaz est qu’il est extrêmement inflammable. En présence de dioxygène, il forme de l’eau en libérant énormément d’énergie.
+
+Formation de l'eau par combustion.
+1
+Quel est le bilan de la réaction ?
+
+
+
+2
+Écris l’équation de réaction.
+
+
+
+3
+Ajuste l’équation de manière à montrer la conservation du nombre d’atomes.
+
+
+
+4
+D’où provient le nom hydrogène ?
+
+Voir les réponses
+Je résous un problème
+Voir les réponses
+
+Je résous un problème
+1
+Donne l’équation de réaction équilibrée de la combustion incomplète du méthane.
+
+
+
+Voir les réponses
+
+Doc. 1
+La combustion incomplète du méthane génère du monoxyde de carbone, du dioxyde de carbone et de l’eau.
+<stamp theme='pc-green1'>Doc. 1</stamp> La combustion incomplète du méthane génère du monoxyde de carbone, du dioxyde de carbone et de l’eau.
+
+Le monoxyde de carbone est un gaz inodore et incolore produit lors des combustions incomplètes, quand l’apport en dioxygène n’est pas suffisant. Il est toxique car il prend la place du dioxygène sur les globules rouges du sang. Il peut entrainer une insuffisance respiratoire voire la mort.
+
+Exercices supplémentaires
+Voir les réponses
+
+Exercice 34 : Il faut trouver l'équilibre...
+Voici une liste d’équation bilan de transformation chimique :a) C + O2 → COb) CH4 + H2O → CO2 + H2c) H2 + O2 → H2Od) CO + O2 → CO2e) NH3 + O2 → NO + H20f) N2 + H2 → NH3
+
+1
+Explique selon quel principe on obtient une équation bilan équilibrée.
+
+
+
+2
+Équilibre chacune des réactions chimiques.
+
+a)  C + O2 → CO
+b) CH4 + H2O → CO2 + H2
+c) H2 + O2 → H2O
+d)  CO + O2 → CO2
+e) NH3 + O2 → NO + H20
+f) N2 + H2 → NH3
+
+Voir les réponses
+Voir les réponses
+
+Exercice 35 : Une réaction pour déboucher les éviers.
+Afin de déboucher les éviers, on verse du bicarbonate de soude et du vinaigre dans l’évier. Le bicarbonate de soude NaHCO3 réagit avec l’acide acétique du vinaigre CH3COOH pour former de l’acétate de sodium CH3COONa, de l’eau et beaucoup de gaz : le dioxyde de carbone, qui fait mousser la réaction.
+
+1
+Quels sont les réactifs ?
+
+
+
+2
+Quels sont les produits ?
+
+
+
+3
+Quelle est la formule du dioxyde de carbone ?
+
+
+
+4
+Quelle est la formule de l’eau ?
+
+
+
+5
+Écris le bilan en toutes lettres de cette réaction.
+
+
+
+6
+Écris l’équation bilan de cette réaction.
+
+
+
+Voir les réponses
+Voir les réponses
+
+Exercice 36 : L'airbag.
+Un airbag est un coussin gonflable de sécurité utilisé dans les automobiles pour protéger les passagers lors d'une collision. Lors de l’impact, le sac se gonfle. En effet, un détonateur provoque la décomposition explosive d’azoture de sodium NaN3 en sodium Na et azote gazeux N2.
+
+1
+Quel est le réactif ?
+
+
+
+2
+Quels sont les produits formés ?
+
+
+
+3
+Quel est le nom du gaz qui remplit l’airbag une fois gonflé ?
+
+
+
+4
+Écris le bilan de la réaction.
+
+
+
+5
+Écris l’équation bilan de la réaction.
+
+
+
+Voir les réponses
+Voir les réponses
+
+Exercice 37 : Synthèse d'un arôme de banane.
+Lors de la synthèse de l’arôme de banane, on fait réagir de l’acide acétique C2H4O2 avec de l’alcool isoamylique C5H12O. Il se forme alors de l’acétate d’isoamyle C7H14O2 qui dégage de l’eau H2O et l’arôme de banane.
+
+1
+Quels sont les réactifs ? Donne leur composition atomique.
+
+
+
+2
+Quels sont les produits ? Donne leur composition atomique.
+
+
+
+3
+Quel est le bilan de la réaction ?
+
+
+
+4
+Équilibre l’équation bilan de la réaction en remplaçant les noms des réactifs et des produits par leur formule.
+
+
+
+5
+Le nombre d’atomes a-t-il varié durant la transformation chimique ?
+
+
+
+Voir les réponses
+Parcours de compétences
+Voir les réponses
+
+Parcours de compétences
+Vers 440 av. J.-C., le savant grec Leucippe émet l’idée que la matière est constituée d’atomes. Vers 350 av. J.-C., Aristote affirme que la matière est une combinaison de quatre éléments. Jusqu’au XVIe siècle, les alchimistes en Europe s’efforcent de transformer le plomb en or. En 1808, l’Anglais Dalton relance la théorie atomique. L’Italien Amadeo Avogadro comprend en 1811 le lien entre atome, molécule et transformation chimique.
+
+1
+Pourquoi l’humanité ne comprend-elle les transformations de la matière que depuis 200 ans ?
+
+Voir les réponses
+Niveau 1 - Je place les évènements scientifiques sur une échelle de temps.
+Coup de pouce : Place les grandes étapes de l’histoire de la chimie sur une frise chronologique.
+Niveau 2 - J’associe les savoirs scientifiques à un lieu et un contexte historique.
+Coup de pouce : Ajoute à la frise les lieux des découvertes.
+Niveau 3 - J’ai conscience de l’influence de l’évolution d’un savoir scientifique sur la société.
+Coup de pouce : Cherche des exemples de changements rendus possibles pour la compréhension des transformations chimiques.
+Niveau 4 - J’ai un regard critique sur l’évolution d’un savoir scientifique dans le contexte historique, géographique, économique et culturel.
+Coup de pouce : Quelles ont été les conséquences de la théorie des éléments d’Aristote sur la compréhension des transformations chimiques ? 

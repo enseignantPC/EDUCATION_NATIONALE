@@ -1,0 +1,4 @@
+materiel :
+bougie et de quoi l'étouffer.
+bouteille dioxygène
+/gr bocal, couvercle, couvercle_fil de fer, fusain, briquet

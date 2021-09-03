@@ -1,0 +1,46 @@
+1 molecule eau : 10e-9
+nanomètre
+
+2 covid 19 : 10e-8
+10 nanomètre
+
+
+3 cellule animale:10e-6
+micromètre
+
+4 épaisseur d'un cheveux:10e-4
+0.1 millimètre
+
+5 fourmi: 1 cm : 10e-2
+centimètre
+
+6 souris : 10e-1m
+5 décimètre
+
+7 humain: 10^0
+1à2m
+
+8 tour eiffel 324m : 10e2
+324 mètre
+
+9 La lune: rayon 350km
+
+10 terre: 10^6
+de rayon 6 353km
+
+11 soleil 6.957 x 10e8
+700 000 km
+
+12 systeme solaire: 4,503 × 10e12 m
+
+13 la distance soleil-proxixma du centaure: 
+4,22 al
+
+14 La Voie lactée: 10^20
+diamètre 100 000 al
+
+15 amas de galaxies: 10^23
+minimum 6 millions d'années lumière
+
+16 univers observable: 10e26
+

@@ -1,0 +1,14 @@
+.*lock*
+ressource/
+**.mkv
+remote/
+**.mkv
+**.mp4
+
+# latex
+**.aux
+**.fdb_latexmk
+**.fls
+**.log
+**.xdv
+**.gz

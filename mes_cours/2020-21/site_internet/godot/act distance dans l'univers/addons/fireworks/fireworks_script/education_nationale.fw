@@ -1,0 +1,68 @@
+# see instructions at the right side
+# let's start simple
+fountain 0.2 color:1 size:1.0
+fountain 0.8 color:1 size:1.0
+wait 1000
+rocket 0.5 arandom:0
+wait 2000
+
+# flares
+flare 0.2 lifetime:7
+flare 0.4 lifetime:7
+flare 0.6 lifetime:7
+flare 0.8 lifetime:7
+
+# rocket zig zag
+rocket 0.2
+wait 300
+rocket 0.4
+wait 300
+rocket 0.6
+wait 300
+rocket 0.8
+wait 300
+rocket 0.6
+wait 300
+rocket 0.4
+wait 300
+rocket 0.2
+wait 300
+rocket 0.4
+wait 300
+rocket 0.6
+wait 300
+rocket 0.8
+
+wait 4000
+
+# rocket zig zag
+rocket 0.2
+wait 300
+rocket 0.4
+wait 300
+rocket 0.6
+wait 300
+rocket 0.8
+wait 300
+rocket 0.6
+wait 300
+rocket 0.4
+wait 300
+rocket 0.2
+wait 300
+rocket 0.4
+wait 300
+rocket 0.6
+wait 300
+rocket 0.8
+
+# big bang
+rocket 0.5 effect:cluster
+wait 3000
+rocket 0.5 effect:glitter
+wait 100
+rocket 0.75 effect:glitter
+wait 100
+rocket 0.25 effect:glitter
+
+
