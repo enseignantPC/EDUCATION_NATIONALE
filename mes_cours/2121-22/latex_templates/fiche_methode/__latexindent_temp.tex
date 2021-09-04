@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Cleese Assignment (For Students)
-% LaTeX Template
-% Version 2.0 (27/5/2018)
+% Cleese Assignment
+% Structure Specification File
+% Version 1.0 (27/5/2018)
 %
 % This template originates from:
 % http://www.LaTeXTemplates.com
@@ -18,9 +18,77 @@
 %	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
 %----------------------------------------------------------------------------------------
 
-\documentclass[10pt]{article}
+\usepackage{lastpage} % Required to determine the last page number for the footer
 
-\input{structure.tex} % Include the file specifying the document structure and custom commands
+\usepackage{graphicx} % Required to insert images
+
+\setlength\parindent{0pt} % Removes all indentation from paragraphs
+
+\usepackage[svgnames]{xcolor} % Enabling colors by their 'svgnames'
+\usepackage[most]{tcolorbox} % Required for boxes that split across pages
+
+\usepackage{booktabs} % Required for better horizontal rules in tables
+
+\usepackage{listings} % Required for insertion of code
+
+\usepackage{etoolbox} % Required for if statements
+
+\usepackage{multido} % required for dotted lines
+
+\usepackage[french]{babel} % English language hyphenation
+
+\usepackage{svg}
+
+\usepackage{wrapfig}
+
+%----------------------------------------------------------------------------------------
+%	MARGINS
+%----------------------------------------------------------------------------------------
+
+\usepackage{geometry} % Required for adjusting page dimensions and margins
+
+\geometry{
+	paper=a4paper, % Change to letterpaper for US letter
+	top=2cm, % Top margin
+	bottom=2cm, % Bottom margin
+	left = 1.5cm, % Left margin
+	right= 1.5cm, % Right margin
+	headheight=14pt, % Header height
+	footskip=1.4cm, % Space from the bottom margin to the baseline of the footer
+	headsep=1.2cm, % Space from the top margin to the baseline of the header
+	%showframe, % Uncomment to show how the type block is set on the page
+}
+
+%----------------------------------------------------------------------------------------
+%	FONT
+%----------------------------------------------------------------------------------------
+\usepackage{fontspec}
+\usepackage{unicode-math}
+\usepackage[utf8]{inputenc} % Required for inputting international characters
+\usepackage[T1]{fontenc} % Output font encoding for international characters
+
+\setmainfont[Ligatures=TeX]{Caladea}
+%----------------------------------------------------------------------------------------
+%	HEADERS AND FOOTERS
+%----------------------------------------------------------------------------------------
+
+
+
+
+\tcbset{
+	colback=blue!10!white,
+	colframe=orange!75!red!75!black,
+	% equal height group=AT,
+	before=,
+	after=\hfill,
+	fonttitle=\bfseries,
+	subtitle style={
+		boxrule=0.4pt,
+		colback=orange!75!red!75!black!90!orange,
+		attach title to upper={\ --- \ }
+		},
+	}
+
 
 
 \newtcolorbox{titlebox}[2][]{
@@ -28,7 +96,9 @@
     enhanced,
     attach boxed title to top center={yshift=-2mm},
     boxrule=1mm,
-title={\Large #2},#1}
+	title code app={\path[tcb fill title]
+	(title) circle (5mm); },
+	title={\Huge \textbf{#2}},#1}
 
 
 
@@ -43,82 +113,7 @@ title={\Large #2},#1}
 
 
 
-    \tcbset{
-        colback=blue!10!white,
-        colframe=orange!75!red!75!black,
-        equal height group=AT,
-        before=,
-        after=\hfill,
-        fonttitle=\bfseries,
-        subtitle style={
-            boxrule=0.4pt,
-            colback=yellow!50!red!45!white,
-            },
-        }
-    
+\usepackage{fancyhdr} % Required for customising headers and footers
 
-%----------------------------------------------------------------------------------------
-%	VARIABLES
-%----------------------------------------------------------------------------------------
-
-\newcommand{\titreActivite}{Fiche méthode : Apprendre à apprendre} % titre de l'activité
-\newcommand{\introduction}{Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse semper massa ac sem egestas, eget venenatis leo dapibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed vestibulum quam ex, id auctor leo feugiat ut. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc nunc odio, tempor sit amet lorem non, consectetur dignissim justo. Donec ligula risus, finibus nec scelerisque ut, mattis mollis arcu. Donec eu neque nisl. Nulla facilisi.}
-
-
-
-%----------------------------------------------------------------------------------------
-
-\begin{document}
-
-
-\lhead{\tcbincludegraphics[width=3cm]{electricien_fou.jpeg}}
-\chead{\Large Fiche méthode}
-
-\vspace*{6mm}
-\begin{titlebox}{Hello there}
-    % \tcbincludegraphics[width=3cm]{electricien_fou.jpeg}
-    
-    This is my own box with a mandatory title
-    and options.
-
-\end{titlebox}
-
-
-
-\begin{mybox}[Title]{}
-    This is a \textbf{mybox}.
-\end{mybox}
-
-
-% \includesvg[width=0.6\columnwidth](myfig.svg)
-
-\introduction
-
-
-
-
-
-
-
-
-\begin{tcolorbox}
-    This is a \textbf{tcolorbox}.
-    \tcbsubtitle{My subtitle}
-    Further text.
-    \tcbsubtitle{Second subtitle}
-    Further text.
-    \tcblower
-    further text.
-\end{tcolorbox}
-
-
-
-content 
-
-
-
-
-
-
-
-\end{document}
+% \lhead{\tcbincludegraphics[width=3cm,colback=white]{electricien_fou.jpeg}}
+\renewcommand{\headrulewidth}{0pt}
