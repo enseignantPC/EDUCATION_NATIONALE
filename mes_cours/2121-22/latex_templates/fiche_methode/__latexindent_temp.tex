@@ -1,0 +1,124 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Cleese Assignment (For Students)
+% LaTeX Template
+% Version 2.0 (27/5/2018)
+%
+% This template originates from:
+% http://www.LaTeXTemplates.com
+%
+% Author:
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[10pt]{article}
+
+\input{structure.tex} % Include the file specifying the document structure and custom commands
+
+
+\newtcolorbox{titlebox}[2][]{
+    colbacktitle=red!85!black,
+    enhanced,
+    attach boxed title to top center={yshift=-2mm},
+    boxrule=1mm,
+title={\Large #2},#1}
+
+
+
+\newtcolorbox{mybox}[1][]{
+    colbacktitle=red!10!white,
+    colback=blue!10!white,
+    coltitle=red!70!black,
+    adjusted title={#1},
+    fonttitle=\bfseries,
+    attach title to upper={\ --- \ }
+    }
+
+
+
+    \tcbset{
+        colback=blue!10!white,
+        colframe=orange!75!red!75!black,
+        equal height group=AT,
+        before=,
+        after=\hfill,
+        fonttitle=\bfseries,
+        subtitle style={
+            boxrule=0.4pt,
+            colback=yellow!50!red!45!white,
+            },
+        }
+    
+
+%----------------------------------------------------------------------------------------
+%	VARIABLES
+%----------------------------------------------------------------------------------------
+
+\newcommand{\titreActivite}{Fiche méthode : Apprendre à apprendre} % titre de l'activité
+\newcommand{\introduction}{Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse semper massa ac sem egestas, eget venenatis leo dapibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed vestibulum quam ex, id auctor leo feugiat ut. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc nunc odio, tempor sit amet lorem non, consectetur dignissim justo. Donec ligula risus, finibus nec scelerisque ut, mattis mollis arcu. Donec eu neque nisl. Nulla facilisi.}
+
+
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+
+\lhead{\tcbincludegraphics[width=3cm]{electricien_fou.jpeg}}
+\chead{\Large Fiche méthode}
+
+\vspace*{6mm}
+\begin{titlebox}{Hello there}
+    % \tcbincludegraphics[width=3cm]{electricien_fou.jpeg}
+    
+    This is my own box with a mandatory title
+    and options.
+
+\end{titlebox}
+
+
+
+\begin{mybox}[Title]{}
+    This is a \textbf{mybox}.
+\end{mybox}
+
+
+% \includesvg[width=0.6\columnwidth](myfig.svg)
+
+\introduction
+
+
+
+
+
+
+
+
+\begin{tcolorbox}
+    This is a \textbf{tcolorbox}.
+    \tcbsubtitle{My subtitle}
+    Further text.
+    \tcbsubtitle{Second subtitle}
+    Further text.
+    \tcblower
+    further text.
+\end{tcolorbox}
+
+
+
+content 
+
+
+
+
+
+
+
+\end{document}
