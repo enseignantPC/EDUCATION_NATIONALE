@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{Aujourd'hui le monde est incompréhensible}{4}{0}{1}
+\beamer@sectionintoc {2}{Ce sera à vous de rétablir ce qui nous amené là}{5}{0}{2}
+\beamer@sectionintoc {3}{Le chemin vers la connaissance sera long}{6}{0}{3}
+\beamer@subsectionintoc {3}{1}{L'important c'est de trouver son chemin à soi}{7}{0}{3}
+\beamer@sectionintoc {4}{We need you}{8}{0}{4}
+\beamer@subsectionintoc {4}{1}{Règles de vie de classe}{11}{0}{4}
+\beamer@subsectionintoc {4}{2}{Apprenons à nous connaître}{12}{0}{4}
+\beamer@subsectionintoc {4}{3}{La physique chimie, c'est quoi?}{13}{0}{4}
