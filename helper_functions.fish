@@ -43,9 +43,9 @@ end
 function ENbuild
 	set currdir (pwd)
 	echo "currdir is $currdir"
-	for k in **/{act, presentation}*.tex
+	for k in **/{act, presentation, cours}*.tex
        cd $k/../
-	   latexbuild {act, presentation}*.tex
+	   latexbuild {act, presentation, cours}*.tex
 	   mv build/*.pdf ../
 	   cd $currdir
 	end
