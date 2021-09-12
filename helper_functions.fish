@@ -1,4 +1,5 @@
-echo "loaded function for national education"
+echo "loaded function for national education at /home/astrale/Cours/EDUCATION_NATIONALE/helper_functions.fish"
+echo 
 function ENodt2pdf -d "for each odt, build the pdf next to it"
 	unoconv -vf pdf **.odt
 end
@@ -39,6 +40,15 @@ function ENcryfs -d "open private dir"
  
 end
 
-
+function ENbuild
+	set currdir (pwd)
+	echo "currdir is $currdir"
+	for k in **/{act, presentation}*.tex
+       cd $k/../
+	   latexbuild {act, presentation}*.tex
+	   mv build/*.pdf ../
+	   cd $currdir
+	end
+end
 
 
