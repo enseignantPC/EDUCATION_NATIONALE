@@ -47,6 +47,9 @@ function ENbuild
        cd $k/../
 	   latexbuild {act, presentation, cours}*.tex
 	   mv build/*.pdf ../
+	#    for p in ../*.pdf
+	#    		xdg-open $p
+	# 	end
 	   cd $currdir
 	end
 end
