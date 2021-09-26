@@ -52,6 +52,7 @@ function ENbuild
 	# 	end
 	   cd $currdir
 	end
+	rm **build/
 end
 
 
