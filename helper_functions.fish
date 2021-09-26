@@ -45,14 +45,16 @@ function ENbuild
 	echo "currdir is $currdir"
 	for k in **/{act, presentation, cours, fiche_methode}*.tex
        cd $k/../
-	   latexbuild {act, presentation, cours, fiche_methode}*.tex
-	   mv build/*.pdf ../
+	    for n in {act, presentation, cours, fiche_methode}*.tex 
+		latexbuild $n &!
+	   	mv build/*.pdf ../
+		rm **build/
+		end
 	#    for p in ../*.pdf
 	#    		xdg-open $p
 	# 	end
 	   cd $currdir
 	end
-	rm **build/
 end
 
 
