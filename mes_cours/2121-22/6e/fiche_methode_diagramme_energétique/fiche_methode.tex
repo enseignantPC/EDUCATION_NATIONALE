@@ -33,16 +33,23 @@
 \newcommand{\titre}{Fiche méthode : Diagrammes énergétiques} % titre de l'activité
 \newcommand{\introduction}{
     Tout changement dans le monde qui nous entoure peut être compris 
-    par le prisme de l'énergie.
+    à travers la notion d'énergie.
 
     Lors d'une \emph{conversion énergétique}, l'énergie peut passer 
     d'une forme à une autre.
     Par exemple, la lumière du soleil qui 
     rayonne sur nous est de l'énergie \emph{lumineuse}, lorsque
     cette lumière réchauffe notre peau, 
-    l'énergie est sous forme \emph{thermique}.
+    l'énergie est sous forme \emph{thermique}: Il y a eu \textbf{conversion d'énergie.}
+    
+    \vspace{9pt}
+    Pour comprendre le monde en terme d'énergie, il faut maîtriser deux techniques:
+    \begin{itemize}
+        \item le \textbf{diagramme de conversion d'énergie} d'un objet.
+        \item le \textbf{diagramme d'énergie} d'une situation (qui contient plusieurs objets).
+    \end{itemize}
 
-    Il y a eu \textbf{conversion d'énergie.}
+    \vspace{-5pt}
     }
 
 %----------------------------------------------------------------------------------------
@@ -55,34 +62,43 @@
 \begin{titlebox}{\titre}
     \tcbsubtitle{introduction:}    
     % for wrapping an icon left or right ----------------------------
-    \begin{wrapfigure}[]{L}{3.5cm}
-        \vspace*{-0.7cm}
-        \tcbincludegraphics[width=3cm,colback=white]{icon.jpeg}
-        \vspace{-30pt}
-    \end{wrapfigure}%
-    \textit{\introduction}
-    \vspace{7pt}
+        \begin{wrapfigure}[]{L}{3.5cm}
+            \vspace*{-0.7cm}
+            \tcbincludegraphics[width=3cm,colback=white]{icon.jpeg}
+            \vspace{-25pt}
+        \end{wrapfigure}%
+        \textit{\introduction}
+        \vspace{7pt}
 
-\tcbsubtitle{Diagramme de conversion d'énergie}
-Pour comprendre le monde en terme d'énergie, on peut réaliser 
-un \textbf{diagramme de conversion d'énergie} pour chaque objet qui nous entoure.
+    \tcbsubtitle{Diagramme de conversion d'énergie}
 
-Le \textbf{diagramme de conversion d'énergie} d'un objet indique :
-\begin{itemize}
-    \item Quel type d'énergie est nécessaire pour utiliser l'objet.
-    \item Quel type d'énergie l'objet va émettre quand il est utilisé.
-\end{itemize}
+        Le \textbf{diagramme de conversion d'énergie} d'un objet indique :
+        \begin{itemize}
+            \item Quel type d'énergie est nécessaire pour utiliser l'objet.
+            \item Quel type d'énergie l'objet va émettre quand il est utilisé.
+        \end{itemize}
 
-\vspace{4pt}
-\underline{Exemple} : un sèche cheveux utilise de \textit{l'énergie électrique}
-pour projeter de l'air chaud en mouvement. l'air en mouvement correspond 
-à de \textit{l'énergie mécanique}, la chaleur de l'air correspond à de \textit{l'énergie thermique}.
-Diagramme de conversion: 
+        \vspace{4pt}
+        \underline{Exemple} : un sèche cheveux utilise de \textit{l'énergie électrique}
+        pour projeter de l'air chaud en mouvement. l'air en mouvement correspond 
+        à de \textit{l'énergie mécanique}, la chaleur de l'air correspond à de \textit{l'énergie thermique}.
             \begin{center}
-                \tcbincludegraphics[width=3cm,colback=white]{icon.jpeg}
+                \tcbincludegraphics[width=15cm,title=diagramme de conversion d'un séche cheveux,colback=white]{diagramme_seche_cheveux.png}
             \end{center}
 
+    \tcbsubtitle{Diagramme d'énergie}
+        Un diagramme d'énergie à le même but qu'un diagramme de conversion 
+        mais pour une situation plus complexe, par exemple : 
+        Un adolescent mange le midi, puis pédale sur un vélo de maison pour faire de l'électricité.
+            \begin{center}
+                \tcbincludegraphics[
+                    title=diagramme d'énergie de la situation:,
+                    colback=white,
+                    ]
+                    {diagramme_collegien.png}
+            \end{center}
 
 
     \end{titlebox} 
 \end{document}
+
