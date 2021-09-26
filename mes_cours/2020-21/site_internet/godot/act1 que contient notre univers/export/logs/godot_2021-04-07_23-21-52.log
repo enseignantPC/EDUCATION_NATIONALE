@@ -1,0 +1,7 @@
+Godot Engine v3.2.3.stable.official - https://godotengine.org
+Godot Engine v3.2.3.stable.official - https://godotengine.org
+Godot Engine v3.2.3.stable.official - https://godotengine.org
+OpenGL ES 3.0 Renderer: GeForce GT 630M/PCIe/SSE2
+**ERROR**: Directional shadow framebuffer status invalid
+   At: drivers/gles3/rasterizer_scene_gles3.cpp:5120:initialize() - Directional shadow framebuffer status invalid
+ 
