@@ -20,6 +20,13 @@
 
 \usepackage{lastpage} % Required to determine the last page number for the footer
 
+\usepackage{hyperref}
+\hypersetup{%
+  colorlinks=false,% hyperlinks will be black
+  linkbordercolor=red,% hyperlink borders will be red
+  pdfborderstyle={/S/U/W 1}% border style will be underline of width 1pt
+}
+
 \usepackage{graphicx} % Required to insert images
 
 \setlength\parindent{0pt} % Removes all indentation from paragraphs
@@ -129,7 +136,7 @@
 \titleformat
 {\subsection} % Section type being modified
 [block] % Shape type, can be: hang, block, display, runin, leftmargin, rightmargin, drop, wrap, frame
-{\itshape} % Format of the whole section
+{\itshape \large} % Format of the whole section
 {(\alph{subsection})} % Format of the section label
 {4pt} % Space between the title and label
 {} % Code before the label
@@ -190,6 +197,7 @@
 		\vspace{15pt}
 		\multido{}{#1}{\noindent\makebox[\linewidth]{\dotfill}
 		\endgraf\vspace{12pt}}% ... dotted lines ...
+		\vspace{-13pt}
 	\end{tcolorbox}
 }
 

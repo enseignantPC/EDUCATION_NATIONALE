@@ -46,15 +46,17 @@ function ENbuild
 	for k in **/{act, presentation, cours, fiche_methode}*.tex
        cd $k/../
 	    for n in {act, presentation, cours, fiche_methode}*.tex 
-		latexbuild $n &!
-	   	mv build/*.pdf ../
-		rm **build/
+			latexbuild $n && mv build/*.pdf ../ &
 		end
 	#    for p in ../*.pdf
 	#    		xdg-open $p
 	# 	end
 	   cd $currdir
 	end
+	echo "dont forget to ENclean"
 end
 
 
+function ENclean
+	rm **build/
+end
