@@ -60,3 +60,12 @@ end
 function ENclean
 	rm **build/
 end
+
+
+function ENwork --wraps=echo --description 'alias work=echo'
+  cd ~/Cours/EDUCATION_NATIONALE/mes_cours/2121-22/ ;
+  dolphin ~/Cours/EDUCATION_NATIONALE/mes_cours/2121-22/ ~/Cours/EDUCATION_NATIONALE/mes_cours/2121-22/templates/ ~/Cours/EDUCATION_NATIONALE/mes_cours/2121-22/prep ~/Cours/EDUCATION_NATIONALE/mes_cours/2121-22/not_online_ressource &;
+  xdg-open /home/astrale/Cours/EDUCATION_NATIONALE/mes_cours/2121-22/not_online_ressource/Emploi_du_temps_des_enseignants_2021_2022.pdf ;
+#   xdg-open /home/astrale/Cours/EDUCATION_NATIONALE/mes_cours/2121-22/not_online_ressource/build/todo.pdf
+  code .
+end

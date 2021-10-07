@@ -20,31 +20,18 @@
 
 
 
-\documentclass[10pt]{article}
+\documentclass[24pt]{article}
+\input{/home/astrale/Cours/EDUCATION_NATIONALE/mes_cours/2121-22/templates/cours/cours.sty} % Include the file specifying the document structure and custom commands
 
-\input{structure.tex} % Include the file specifying the document structure and custom commands
-\usepackage{ifthen}
+% \input{structure.tex} % Include the file specifying the document structure and custom commands
 
-
-\geometry{
-	paper=a4paper, % Change to letterpaper for US letter
-	top=   2cm, % Top margin
-	bottom=2cm, % Bottom margin
-	left = 2cm, % Left margin
-	right= 2cm, % Right margin
-	headheight=14pt, % Header height
-	footskip=1.4cm, % Space from the bottom margin to the baseline of the footer
-	headsep=1.2cm, % Space from the top margin to the baseline of the header
-	%showframe, % Uncomment to show how the type block is set on the page
-}
     
 
 %----------------------------------------------------------------------------------------
 %	VARIABLES
 %----------------------------------------------------------------------------------------
-\newcommand{\titre}{Activité 3} % titre de l'activité
-\newcommand{\sep}{-2.5pt} % titre de l'activité
-\newcommand{\DoItNTimes}{5} % titre de l'activité
+
+\newcommand{\titre}{Chapitre 1 : Être au courant} % titre de l'activité
 
 %----------------------------------------------------------------------------------------
 
@@ -53,15 +40,35 @@
 \thispagestyle{fancy}
 \cfoot{}
 
-% \multido{}{3}{\noindent\makebox[\linewidth]{\dotfill}\\}
-
-\newcounter{int}
-\setcounter{int}{1}
-\loop
-
-\begin{mybox}{\textbf{\titre}}    
+\begin{titlebox}{\titre}
     \setlength\parindent{4pt} % Removes all indentation from paragraphs
     \setlength\parskip{5pt} 
+
+    \tcbsubtitle{Activité 1}
+    La lampe et la pile possèdent deux bornes (ou deux pôles) : ce sont des \textbf{\color{DarkRed} {dipôles}}. Pour que la lampe brille, ses deux
+    bornes doivent être connectées aux deux bornes de la pile, soit directement, soit en utilisant des fils: la pile, les fils et
+    la lampe forment une boucle. 
+    
+    En physique, on appelle le montage ainsi réalisé un \textbf{\color{DarkRed} {circuit électrique fermé}}.
+
+    \begin{itemize}
+        \item La pile est appelée \textbf{\color{DarkRed} {générateur}}.
+        \item La lampe est appelée \textbf{\color{DarkRed} {récepteur}}.
+        \item Les fils sont appelés \textbf{\color{DarkRed} {connecteurs}}.
+    \end{itemize}
+
+    Un circuit électrique est généralement composé d’au moins un
+    générateur, un récepteur et un interrupteur relié les uns
+    aux autres par des connecteurs.
+    
+    \vspace{50pt}
+    \tcbsubtitle{Activité 2}    
+
+    Les matériaux qui nous entourent (bois, métaux etc) sont soit \textbf{\color{DarkRed} {conducteur}} soit \textbf{\color{DarkRed} {isolant}}.
+    Cela signifie qu'ils conduisent l'électricité ou qu'ils ne la conduisent pas.
+
+    \vspace{50pt}
+    \tcbsubtitle{Activité 3}    
 
     Pour représenter les composants électriques dans un circuit, 
     les physiciens utilisent les \textbf{\color{DarkRed} {symboles normalisés}}. (voir activité 3)
@@ -77,12 +84,8 @@
 
         \end{itemize}    
     \end{mybox}
-\end{mybox}
 
-\vspace{\sep}
-
-\addtocounter{int}{1}
-\ifnum\value{int}<\DoItNTimes\repeat
+\end{titlebox}
 
 
 \end{document}
