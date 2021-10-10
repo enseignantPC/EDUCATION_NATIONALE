@@ -1,0 +1,59 @@
+\documentclass{article}
+\usepackage[table,svgnames,x11names]{xcolor}
+\usepackage{geometry}
+\usepackage{luacode}
+
+\geometry{
+	paper=a4paper, % Change to letterpaper for US letter
+	top=   1.5cm, % Top margin
+	bottom=1.5cm, % Bottom margin
+	left= 1cm, % Left margin
+	right=1cm, % Right margin
+	headheight=14pt, % Header height
+	footskip=1.4cm, % Space from the bottom margin to the baseline of the footer
+	headsep=1.2cm, % Space from the top margin to the baseline of the header
+	%showframe, % Uncomment to show how the type block is set on the page
+}
+
+
+
+\begin{document}
+% \directlua{date = "11 oct 2021"}
+% \directlua{is_semaine_A = false}
+% \directlua{dofile("edt.lua")}
+% \directlua{tex.print(week.lundi[1].nb_eleve)}
+% \directlua{tex.print(x.lundi[1].nombres_eleve)}
+Some
+
+Some
+
+\begin{luacode*}
+    -- dofile("edt.lua")
+	tex.sprint([[Some Some Some]])
+\end{luacode*}
+
+
+			
+% \begin{center}
+% \begin{tabular}{|ll| p{13cm}|}
+% \hline
+% \multicolumn{2}{|l|}{\cellcolor{Gray0}Tested By} & {SQA Team}\\
+% \hline
+% \multicolumn{2}{|l|}{\cellcolor{Gray0}Test Type} & {Acceptance Test}\\    
+% \hline
+% \multicolumn{2}{|l|}{\cellcolor{Gray0}Test Case Number} & {TC-1.1 Create a client successfully}\\    
+% \hline
+%     \multicolumn{2}{|l|}{\cellcolor{Gray0}Test Case Description} & {This test case is used to check if a visitor can create a client with the system}\\    
+% \hline
+%     \multicolumn{3}{|c|}{\cellcolor{Gray0}Item(s) to be tested}\\
+% \hline
+% 1.\hspace{1cm} & \multicolumn{2}{|l|}{\fcolorbox{white}{DeepSkyBlue1}{SRS 3.1.1.1}}\\    
+% \hline
+% \end{tabular}
+% \end{center}
+
+
+
+
+
+\end{document} 

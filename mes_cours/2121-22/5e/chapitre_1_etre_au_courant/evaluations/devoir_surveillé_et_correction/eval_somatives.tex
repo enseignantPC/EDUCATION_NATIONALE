@@ -1,0 +1,147 @@
+\documentclass[11pt]{exam}		%Doc : https://mirrors.ircam.fr/pub/CTAN/macros/latex/contrib/exam/examdoc.pdf
+
+% \printanswers					%Comment this line to hide the answers 
+
+\pointpoints{point}{points}
+\addpoints
+
+\input{structure.tex}
+\usepackage{blindtext, subfig}
+\usepackage{dblfloatfix} % fix for bottom-placement of figure
+\usepackage{wrapfig}
+
+%----------------------------------------------------------------------------------------
+%	REQUIRED
+%----------------------------------------------------------------------------------------
+\newcommand{\Titre}{Électricité} % 
+\newcommand{\ConsignesGenerales}{
+	
+	\begin{itemize}
+		\item Noter nom et prénom et classe en haut à gauche de la page.
+		\item Répondre aux questions sur les pointillés.
+		\item Répondre aux questions par des phrases.
+		% \item Ne pas se décourager :)
+		\vspace{-5pt}
+	\end{itemize}}
+
+\title{\Titre}
+\begin{document}
+\thispagestyle{headandfoot}
+
+\section{\Titre} % peut faire une partie d'un gros examen
+
+\headrule
+\footrule
+\setlength{\columnsep}{0.25cm}
+\setlength{\columnseprule}{1pt}
+
+
+
+\begin{center}
+	\begin{tcolorbox}[
+		title=Consignes,
+		sidebyside,
+		colback=red!5!white,
+		colframe=red!75!black,
+		colbacktitle=yellow!30!red!50!white,
+		coltitle=red!25!black,
+		fonttitle=\bfseries,
+		subtitle style={boxrule=0.4pt,
+		colback=yellow!50!red!25!white} ]
+		\ConsignesGenerales
+
+		\tcblower
+
+		% \tcbincludegraphics[width=0.2\columnwidth]{logo.png}
+		\tcbincludegraphics[height=3.5cm, size=tight, colframe=red, boxrule=1pt, arc=10pt, auto outer arc, clip upper]{logo.png}
+		
+		% \tcbsubtitle{Second subtitle}
+		% Further text.
+		\end{tcolorbox}
+\end{center}
+
+%----------------------------------------------------------------------------------------
+%	EDIT QUESTIONS HERE
+%----------------------------------------------------------------------------------------
+{\huge Partie cours}
+
+\begin{questions}
+	\question[2] 
+	\textbf{Écrire le nom} de deux matériaux conducteurs.
+	\answerbox{1}{Le fer et l'aluminium sont conducteurs.}
+	
+	\question[2] 
+	\textbf{Écrire le nom} de deux matériaux isolants.
+	\answerbox{1}{Le bois et le verre sont isolants.}
+	
+	\question[2] 
+	\textbf{Écrire le nom} de quatre dipôle.
+	\answerbox{1}{La pile, la lampe, la diode et le moteur sont des dipôles.}
+	
+	\question[2] 
+	\textbf{Expliquer} ce qui fait qu'un matériau est conducteur ou isolant.
+	\answerbox{2}{Un matériaux est conducteur si il laisse passer l'électricité.}
+	
+	\question[4] 
+	\textbf{compléter} le tableau suivant avec les symboles normalisés 
+	qui correspondent au dipôles.
+    \vspace{20pt}
+	% \setlength{\arrayrulewidth}{0.5mm}
+	% \setlength{	abcolsep}{18pt}
+	%\renewcommand{\arraystretch}{1.5}
+	\begin{center}
+		% \hspace{-70pt}
+	\begin{tabular}{|c|p{4cm}|c|p{4cm}|}
+		\hline
+		Dipôles & symboles normalisé & Dipôles & symboles normalisé \\
+		\hline
+		générateur & \vspace{25pt} & pile  & \\
+		\hline
+		lampe & \vspace{25pt} & moteur  & \\
+		\hline
+		interrupteur ouvert & \vspace{25pt} & diode  & \\
+		\hline
+		DEL (diode electro luminescente) & \vspace{25pt} & resistance  & \\
+		\hline
+		\end{tabular}
+	\end{center}
+	
+	\vspace{10cm}
+
+	{\huge Partie application}
+	\question[8] 
+	En dessous de chaque circuit, \textbf{dessiner} son \underline{schéma normalisé} à la règle et au crayon à papier.
+	\begin{figure*}[hb]
+		\centering		
+		\subfloat[][]{
+		\includegraphics[width=0.35\columnwidth]{circuit1.png}
+		}
+		\hspace{5cm}
+		\subfloat[][]{
+		\includegraphics[width=0.35\columnwidth]{circuit2.png}
+		}
+	% \end{figure*}
+	\vspace{6cm}
+	% \begin{figure*}[hb]
+		\centering		
+		\subfloat[][]{
+		\includegraphics[width=0.35\columnwidth]{circuit3.png}
+		}
+		\hspace{5cm}
+		\subfloat[][]{
+		\includegraphics[width=0.35\columnwidth]{circuit4.png}
+		}
+	\end{figure*}
+
+
+\end{questions}
+
+\vfill
+\begin{center}
+\setlength{\doublerulesep}{0.25in}
+\multirowgradetable{1}[questions]
+\vspace{-25pt}
+\end{center}
+
+
+\end{document}

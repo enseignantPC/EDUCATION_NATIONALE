@@ -40,6 +40,11 @@ function ENcryfs -d "open private dir"
  
 end
 
+function ENsvg_to_png
+	inkscape --without-gui --export-type=png  **.svg
+end
+
+
 function ENbuild
 	set currdir (pwd)
 	echo "currdir is $currdir"
