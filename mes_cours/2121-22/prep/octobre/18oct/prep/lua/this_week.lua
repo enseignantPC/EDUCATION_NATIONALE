@@ -44,7 +44,7 @@ return {
         "", -- for today
         "", -- next_time
         "", --punition
-        "", -- remarque
+        "corriger les eval1", -- remarque
         "", -- creneau retenue
         "14h55", -- horaire
         "corrigé act3Q3cd + finir act3 + cours + act4" -- prgramme_du_jour
@@ -128,7 +128,7 @@ return {
         "", -- for today
         "", -- next_time
         "", --punition
-        "", -- remarque
+        "Corriger et rendre les copies ;)", -- remarque
         "", -- creneau retenue
         "10h15", -- horaire
         "voir si report DS sinon corriger Q1 act5 + tps sup pour Qc-d + chap2act1" -- prgramme_du_jour
