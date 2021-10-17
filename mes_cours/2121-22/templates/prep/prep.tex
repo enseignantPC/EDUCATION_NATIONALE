@@ -2,11 +2,12 @@
 \usepackage[table,svgnames,x11names]{xcolor}
 \usepackage{geometry}
 \usepackage{luacode}
+\usepackage{longtable}
 
 \geometry{
 	paper=a4paper, % Change to letterpaper for US letter
-	top=   1.5cm, % Top margin
-	bottom=1.5cm, % Bottom margin
+	top=   1cm, % Top margin
+	bottom=1cm, % Bottom margin
 	left= 1cm, % Left margin
 	right=1cm, % Right margin
 	headheight=14pt, % Header height
@@ -18,18 +19,14 @@
 
 
 \begin{document}
-% \directlua{date = "11 oct 2021"}
-% \directlua{is_semaine_A = false}
-% \directlua{dofile("edt.lua")}
-% \directlua{tex.print(week.lundi[1].nb_eleve)}
-% \directlua{tex.print(x.lundi[1].nombres_eleve)}
-Some
+\directlua{date = "18 oct 2021"}
+\directlua{is_semaine_A = false}
 
-Some
+
 
 \begin{luacode*}
-    -- dofile("edt.lua")
-	tex.sprint([[Some Some Some]])
+    dofile("lua/edt.lua")
+	-- my_tex.print(week:display())
 \end{luacode*}
 
 
