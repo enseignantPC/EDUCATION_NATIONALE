@@ -54,12 +54,12 @@ return {
         24,
         "corrigé ex1,2 act3q4 ok + commencé recopier cours", -- last time
         "eval act3", -- for today
-        "", -- next_time
+        "eval chap1", -- next_time
         "", --punition
         "", -- remarque
         "", -- creneau retenue
         "9h15", -- horaire
-        "recopier le cours act3 + act4 + cpsorcier?" -- prgramme_du_jour
+        "recopier le cours act3 + act4 + exo3 et 4" -- prgramme_du_jour
     ),
     _6H = Seance:new(
         "6H",
@@ -81,7 +81,7 @@ return {
         "eval chap1", -- next_time
         "à ramasser R1x2 : Mohammed, Souleymane", --punition
         "", -- remarque
-        "", -- creneau retenue
+        "sA :Lun15h -- sB Mar16h", -- creneau retenue
         "11h25", -- horaire
         "rammaser punition + reporter eval chap1 ap vacances + act5 + chap2act1" -- prgramme_du_jour
     ),
@@ -93,7 +93,7 @@ return {
         "", -- next_time
         "à ramasser R1R2 : Nassim et Mamadou", --punition
         "act4 fini, act5 no experimental", -- remarque
-        "", -- creneau retenue
+        "sB Mer9h Ven9h", -- creneau retenue
         "14h55", -- horaire
         "ramasser punition + voir si il faut reporter eval chap1 + si oui act4-5 + chap2act1 sinon eval " -- prgramme_du_jour
     ),
@@ -103,11 +103,11 @@ return {
         "CorrigéQ1Q2act4", -- last time
         "act5 (à distrib) + chap2act1 (à impr)", -- for today
         "", -- next_time
-        "", --punition
-        "la dernière fois, cours compliqué, retenue à programmer : Lune Fatoumata Andrès Amara", -- remarque
-        "", -- creneau retenue
+        "hdr à programmer : Lune Fatoumata Andrès Amara", --punition
+        "la dernière fois, cours compliqué,", -- remarque
+        "Lun8h -- sB Mer11h", -- creneau retenue
         "10h15", -- horaire
-        "prgrm retenue, reporter l'éval +act4Q3-end + act5 end" -- prgramme_du_jour
+        "prgrm retenue, reporter l'éval +act4Q3-end + act5 end + chap2act1(Àimpr)" -- prgramme_du_jour
     ),
     _5G = Seance:new(
         "5G",
@@ -117,9 +117,9 @@ return {
         "", -- next_time
         "", --punition
         "programmer retenue : dolynda, marie, aboubacar", -- remarque
-        "", -- creneau retenue
+        "Lun8h -- sB Ven14h", -- creneau retenue
         "12h25", -- horaire
-        "programmer retenue + verifier accès pronote ok (sinon recopier cours act2) + act3 vid2 + cours + act4" -- prgramme_du_jour
+        "prgrm hdr + verifier accès pronote ok (sinon recopier cours act2) + act3 vid2 + cours + act4-5" -- prgramme_du_jour
     ),
     _5H = Seance:new(
         "5H",
@@ -129,7 +129,7 @@ return {
         "", -- next_time
         "", --punition
         "Corriger et rendre les copies ;)", -- remarque
-        "", -- creneau retenue
+        "sA Mar16h -- Ven14h", -- creneau retenue
         "10h15", -- horaire
         "voir si report DS sinon corriger Q1 act5 + tps sup pour Qc-d + chap2act1" -- prgramme_du_jour
     )

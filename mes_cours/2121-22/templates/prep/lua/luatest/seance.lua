@@ -1,5 +1,5 @@
 dofile("/home/astrale/Coding/latex/libs/preamble.lua")
-Classe = dofile("../../class_classe.lua")
+Classe = dofile("../classes/class_seance.lua")
 
 
 local function test_new_without_args_fails()
@@ -7,12 +7,11 @@ local function test_new_without_args_fails()
 end    
 
 local function test_new_with_args_no_fail()
-    local _6E = Classe:new("6e",24)
-    -- prelude.print_kv(_6E)
+    local _6E = Classe:new("6e",24,"","","","","","","","")
 end
 
 local function test_dbg_function_aint_nil()
-    local _6E = Classe:new("6e",24)
+    local _6E = Classe:new("6e",24,"","","","","","","","")
     if (_6E.dbg == nil)
     then
         error("dbg is nil")
@@ -20,12 +19,12 @@ local function test_dbg_function_aint_nil()
 end
 
 local function test_dbg()
-    local _6E = Classe:new("6e",24)
+    local _6E = Classe:new("6e",24,"","","","","","","","")
     _6E:dbg()
 end
 
 local function test_bad_field()
-    local _6E = Classe:new("6e",24)
+    local _6E = Classe:new("6e",24,"","","","","","","","")
     if (_6E.new)
     then
     end

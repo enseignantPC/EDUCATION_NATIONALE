@@ -10,7 +10,8 @@ return {
         "", --punition
         "", -- remarque
         "", -- creneau retenue
-        "15h55" -- horaire
+        "15h55", -- horaire
+        "" -- prgramme_du_jour
     ),
     _6B = Seance:new(
         "6B",
@@ -21,7 +22,8 @@ return {
         "", --punition
         "", -- remarque
         "", -- creneau retenue
-        "11h25"-- horaire
+        "11h25", -- horaire
+        "" -- prgramme_du_jour
     ),
     _6D = Seance:new(
         "6D",
@@ -32,7 +34,8 @@ return {
         "", --punition
         "", -- remarque
         "", -- creneau retenue
-        "14h55"-- horaire
+        "14h55", -- horaire
+        "" -- prgramme_du_jour
     ),
     _6E = Seance:new(
         "6E",
@@ -43,7 +46,8 @@ return {
         "", --punition
         "", -- remarque
         "", -- creneau retenue
-        "14h55"-- horaire
+        "14h55", -- horaire
+        "" -- prgramme_du_jour
     ),
     _6G = Seance:new(
         "6G",
@@ -54,7 +58,8 @@ return {
         "", --punition
         "", -- remarque
         "", -- creneau retenue
-        "9h15"-- horaire
+        "9h15", -- horaire
+        "" -- prgramme_du_jour
     ),
     _6H = Seance:new(
         "6H",
@@ -65,7 +70,8 @@ return {
         "", --punition
         "", -- remarque
         "", -- creneau retenue
-        "12h25"-- horaire
+        "12h25", -- horaire
+        "" -- prgramme_du_jour
     ),
     _5C = Seance:new(
         "5C",
@@ -75,8 +81,9 @@ return {
         "", -- next_time
         "", --punition
         "", -- remarque
-        "", -- creneau retenue
-        "11h25"-- horaire
+        "sA :Lun15h -- sB Mar16h", -- creneau retenue
+        "11h25", -- horaire
+        "" -- prgramme_du_jour
     ),
     _5D = Seance:new(
         "5D",
@@ -86,8 +93,9 @@ return {
         "", -- next_time
         "", --punition
         "", -- remarque
-        "", -- creneau retenue
-        "14h55"-- horaire
+        "sB Mer9h Ven9h", -- creneau retenue
+        "14h55", -- horaire
+        "" -- prgramme_du_jour
     ),
     _5F = Seance:new(
         "5F",
@@ -96,9 +104,10 @@ return {
         "", -- for today
         "", -- next_time
         "", --punition
-        "", -- remarque
-        "", -- creneau retenue
-        "10h15"-- horaire
+        ",", -- remarque
+        "Lun8h -- sB Mer11h", -- creneau retenue
+        "10h15", -- horaire
+        "" -- prgramme_du_jour
     ),
     _5G = Seance:new(
         "5G",
@@ -108,8 +117,9 @@ return {
         "", -- next_time
         "", --punition
         "", -- remarque
-        "", -- creneau retenue
-        "12h25"-- horaire
+        "Lun8h -- sB Ven14h", -- creneau retenue
+        "12h25", -- horaire
+        "" -- prgramme_du_jour
     ),
     _5H = Seance:new(
         "5H",
@@ -119,7 +129,8 @@ return {
         "", -- next_time
         "", --punition
         "", -- remarque
-        "", -- creneau retenue
-        "10h15" -- horaire
+        "sA Mar16h -- Ven14h", -- creneau retenue
+        "10h15", -- horaire
+        "" -- prgramme_du_jour
     )
 }

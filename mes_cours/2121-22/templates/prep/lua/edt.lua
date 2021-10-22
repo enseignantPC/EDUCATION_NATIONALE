@@ -11,12 +11,13 @@ Week = dofile("lua/classes/class_week.lua")
 local classes = dofile("lua/this_week.lua")
 
 
-week = Week:new(classes,is_semaine_A)
-
+local week = Week:from_classe_list(classes,date,is_semaine_A)
+-- prelude.print_kv(week)
+-- my_tex.print(week:display_as_multiple_tables(date))
 
 my_tex.try(
     function ()
-        my_tex.print(week:display_as_table(date))
+        my_tex.print(week:display_as_multiple_tables(date))
     end,
     false
 )

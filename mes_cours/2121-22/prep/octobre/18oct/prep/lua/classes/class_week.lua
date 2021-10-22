@@ -106,7 +106,7 @@ function Week:display_as_table(date)
     local res = ""
     res = res .. [[
 \begin{center}
-\begin{longtable}{|ll| p{16cm}|}
+\begin{longtable}{|ll| p{14cm}|}
 \hline
 \multicolumn{1}{|c|}{\cellcolor{Gray0!50!black}]] .. semaine_label ..  [[} &
 \multicolumn{2}{|c|}{\cellcolor{Gray0!70!black}\Large\textbf{Semaine du ]] .. date .. [[}}\\

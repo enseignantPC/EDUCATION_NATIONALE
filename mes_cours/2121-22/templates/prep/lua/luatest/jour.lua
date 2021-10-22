@@ -1,5 +1,5 @@
 dofile("/home/astrale/Coding/latex/libs/preamble.lua")
-Jour = dofile("/home/astrale/Cours/EDUCATION_NATIONALE/mes_cours/2121-22/templates/prep/class_jour.lua")
+Jour = dofile("../classes/class_jour.lua")
 
 
 local function test_init()

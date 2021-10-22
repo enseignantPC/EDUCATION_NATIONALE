@@ -19,19 +19,21 @@ function Seance:new(
         punition,
         remarque,
         creneau_retenue,
-        horaire
+        horaire,
+        programme_du_jour
         )
     local res = {
         classe_name = classe_name or error("missing name field in init of class Seance"),
         nb_eleve = nb_eleve or error("missing number field in init of class Seance"),
         horaire=horaire or error("missing horaire field in init of class Seance"),
+        programme_du_jour=programme_du_jour or error("missing programme_du_jour field in init of class Seance"),
         done_last_time = done_last_time or "",
         due_for_today = due_for_today or "",
         due_for_next_time_potentially = due_for_next_time_potentially or "",
         punition = punition or "",
         remarque = remarque or "",
         creneau_retenue = creneau_retenue or "",
-        first_time_this_week = true
+        first_time_this_week = true,
     }
     setmetatable(res,{
         __index = Seance,
@@ -51,6 +53,7 @@ function Seance:dbg()
 end
 
 function Seance:display()
+    error("Seance:display() is broken now")
     res = ""
     res = res .. tostring(self.nb_eleve) .. "Élèves" .. "\n\n" 
     res = res .. "à avoir fait: " .. self.due_for_today .. "\n\n" 
@@ -67,50 +70,57 @@ function Seance:display()
 end
 
 function Seance:display_as_table()
-    if self.first_time_this_week
+    local res
+    if (self.first_time_this_week)
     then
-        local due_for_today_table = ""
-        if self.due_for_today ~= ""
-        then
-            due_for_today_table = [[
-                \multicolumn{3}{|l|}{à avoir fait:]].. self.due_for_today .. [[}\\    
-                \hline  
-                ]]
-        end
-        
-        local res = [[
-        \hline
-        \multicolumn{2}{|l|}{]].. self.nb_eleve .. [[Élèves} & {La dernière fois nous avons: ]].. self.done_last_time .. [[}\\    
-        \hline
-        ]] .. due_for_today_table ..   [[
-        \multicolumn{2}{|l|}{\cellcolor{Gray0}Classe: ]].. self.classe_name .. [[} & \multicolumn{1}{|r|}{]].. self.horaire .. [[}\\    
-        \hline
-        Créneau retenue: & \multicolumn{2}{|l|} { Punitions: ]].. self.punition .. [[} \\
-        \hline
-        \multicolumn{1}{|l|}{]].. self.creneau_retenue .. [[} & \multicolumn{2}{|l|} { Remarque: ]].. self.remarque .. [[} \\    
-        \hline
-        \multicolumn{3}{|l|}{Pour la prochaine fois? ]].. self.due_for_next_time_potentially .. [[}\\    
-        \hline
-        \hline]]
-        return res
+        res =  self:_table_first_time_this_week()
     else
-        local res = [[
-            \hline
-            \multicolumn{2}{|l|}{]].. self.nb_eleve .. [[Élèves} & {La dernière fois, voir ce que nous avons fait cette semaine.}\\    
-            \hline
-            ]] .. [[
-                \multicolumn{2}{|l|}{\cellcolor{Red!20}Groupe: ]].. self.classe_name .. [[} & \multicolumn{1}{|r|}{]].. self.horaire .. [[}\\
-                \hline
-                Créneau retenue: & \multicolumn{2}{|l|} { Punitions: ]].. self.punition .. [[} \\
-                \hline
-                \multicolumn{1}{|l|}{]].. self.creneau_retenue .. [[} & \multicolumn{2}{|l|} { Remarque: ]].. self.remarque .. [[} \\    
-                \hline
-                \multicolumn{3}{|l|}{Pour la prochaine fois? ]].. self.due_for_next_time_potentially .. [[}\\    
-                \hline
-                \hline]]
-        return res
+        res = self:_table_not_first_time_this_week()
     end
+    return res
 end
+
+function Seance:_table_first_time_this_week()
+    local due_for_today_table = [[
+\multicolumn{3}{|l|}{\textbf{à avoir fait:} ]].. self.due_for_today .. [[}\\    
+\hline  
+]]
+    return [[
+\multicolumn{2}{|l|}{\cellcolor{Gray0}\textbf{Classe}: ]].. self.classe_name .. [[} & \multicolumn{1}{|r|}{]].. self.horaire .. [[}\\    
+\hline]] .. [[
+\hline
+\multicolumn{2}{|l|}{]].. self.nb_eleve .. [[Élèves} & {\textbf{La dernière fois on a:} ]].. self.done_last_time .. [[}\\    
+\hline
+    ]] .. due_for_today_table .. [[
+\textbf{Créneau retenue: }: & \multicolumn{2}{|l|} { \textbf{Punitions:} ]].. self.punition .. [[} \\
+\hline
+\multicolumn{1}{|l|}{]].. self.creneau_retenue .. [[} & \multicolumn{2}{|l|} { \textbf{Remarque:} ]].. self.remarque .. [[} \\    
+\hline
+\multicolumn{3}{|l|}{\textbf{Pour la prochaine fois?} ]].. self.due_for_next_time_potentially .. [[}\\    
+\hline
+\multicolumn{3}{|l|}{\textbf{Ajd nous allons :} ]].. self.programme_du_jour .. [[}\\    
+\hline
+\hline]]
+end
+
+function Seance:_table_not_first_time_this_week()
+    return [[
+\multicolumn{2}{|l|}{\cellcolor{Gray0}\textbf{Groupe}: ]].. self.classe_name .. [[} & \multicolumn{1}{|r|}{]].. self.horaire .. [[}\\    
+\hline]] .. [[
+\hline
+\multicolumn{2}{|l|}{]].. self.nb_eleve .. [[Élèves} & {La dernière fois, voir ce que nous avons fait cette semaine.}\\    
+\hline
+]] .. [[
+\textbf{Créneau retenue: }& \multicolumn{2}{|l|} { \textbf{Punitions:} ]].. self.punition .. [[} \\
+\hline
+\multicolumn{1}{|l|}{]].. self.creneau_retenue .. [[} & \multicolumn{2}{|l|} { \textbf{Remarque:} ]].. self.remarque .. [[} \\    
+\hline
+\multicolumn{3}{|l|}{\textbf{Pour la prochaine fois?} ]].. self.due_for_next_time_potentially .. [[}\\    
+\hline
+\multicolumn{3}{|l|}{\textbf{Ajd nous allons :} ]].. self.programme_du_jour .. [[}\\    
+\hline]]
+end
+
 
 function Seance:copy_with_horaire(horaire)
     local t = prelude.copy(self)
@@ -125,6 +135,27 @@ function Seance:groupe_with_horaire(horaire)
     return t
 end
 
+
+
+function Seance:display_as_own_table()
+    local res = [[
+%\begin{center}
+\begin{tabular}{|ll| p{16cm}|}
+\hline
+]]
+    if (self.first_time_this_week)
+    -- if (true)
+    then
+        res = res .. self:_table_first_time_this_week()
+    else
+        res = res .. self:_table_not_first_time_this_week()
+    end
+    res = res .. [[
+\end{tabular}
+%\end{center}
+]]
+    return res
+end
 
 
 
