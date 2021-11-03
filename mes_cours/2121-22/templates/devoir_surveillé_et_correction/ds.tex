@@ -1,6 +1,6 @@
 \documentclass[11pt]{exam}		%Doc : https://mirrors.ircam.fr/pub/CTAN/macros/latex/contrib/exam/examdoc.pdf
 
-\printanswers					%Comment this line to hide the answers 
+% \printanswers					%Comment this line to hide the answers 
 
 \pointpoints{point}{points}
 \addpoints
@@ -11,20 +11,37 @@
 %----------------------------------------------------------------------------------------
 %	REQUIRED
 %----------------------------------------------------------------------------------------
-\newcommand{\Titre}{Titre du DS} % 
-\newcommand{\ConsignesGenerales}{Noter nom et prénom en haut à gauche de la page. Répondre aux questions sur les pointillés. Ne pas se décourager :)}
-\usepackage{lipsum}
-
+\newcommand{\Titre}{Template} % 
+\newcommand{\ConsignesGenerales}{
+	
+	\begin{itemize}
+		\item Noter nom et prénom et classe en haut à gauche de la page.
+		\item Répondre aux questions sur les pointillés.
+		\item Répondre aux questions par des phrases.
+		\item Essayer de répondre à toutes les questions.
+		\item Ne pas perdre trop de temps si on ne sait pas/comprends 
+		pas et passer à la suite pour avoir un maximum de points! 
+		% \item Ne pas se décourager :)
+		\vspace{-5pt}
+	\end{itemize}}
 
 \title{\Titre}
 \begin{document}
+\thispagestyle{headandfoot}
 
 \section{\Titre} % peut faire une partie d'un gros examen
+
+\headrule
+\footrule
+\setlength{\columnsep}{0.25cm}
+\setlength{\columnseprule}{1pt}
 
 
 
 \begin{center}
-	\begin{tcolorbox}[title=Consignes,
+	\begin{tcolorbox}[
+		title=Consignes,
+		sidebyside,
 		colback=red!5!white,
 		colframe=red!75!black,
 		colbacktitle=yellow!30!red!50!white,
@@ -33,6 +50,12 @@
 		subtitle style={boxrule=0.4pt,
 		colback=yellow!50!red!25!white} ]
 		\ConsignesGenerales
+
+		\tcblower
+
+		% \tcbincludegraphics[width=0.2\columnwidth]{logo.png}
+		\tcbincludegraphics[height=3.5cm, size=tight, colframe=red, boxrule=1pt, arc=10pt, auto outer arc, clip upper]{logo.png}
+		
 		% \tcbsubtitle{Second subtitle}
 		% Further text.
 		\end{tcolorbox}
@@ -41,32 +64,24 @@
 %----------------------------------------------------------------------------------------
 %	EDIT QUESTIONS HERE
 %----------------------------------------------------------------------------------------
-
+{\huge Partie cours}
 
 \begin{questions}
-	\question
-	Why is there air?
+	\question[2] 
+	\textbf{Question générale} sur un cours de PC.
+	\answerbox{1}{Correction 1.}
 
-	\begin{parts}
-		\part[1\half]
-		Describe the effect on the balloon industry.
-	\answerbox{3}{La pluie tombe}
-		\part[1]
-		Describe the effect on the aircraft industry.
-	\end{parts}
+{\huge Partie application}
+\question[8] 
+En dessous de chaque circuit, \textbf{dessiner} son \underline{schéma normalisé} à la règle et au crayon à papier.
 
-	\question[15]
-	How much wood would a woodchuck chuck if a woodchuck could chuck
-	wood?
-	
-	\question[1] Compute $\displaystyle\int_0^1 x^2 \, dx$.
-	
 \end{questions}
 
 \vfill
 \begin{center}
 \setlength{\doublerulesep}{0.25in}
 \multirowgradetable{1}[questions]
+\vspace{-25pt}
 \end{center}
 
 
