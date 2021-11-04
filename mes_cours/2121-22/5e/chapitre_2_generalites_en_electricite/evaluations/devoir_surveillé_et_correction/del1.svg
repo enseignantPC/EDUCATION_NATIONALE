@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="20.332951mm"
-   height="11.197215mm"
-   viewBox="0 0 20.332953 11.197215"
+   width="119.4681mm"
+   height="65.790077mm"
+   viewBox="0 0 119.46811 65.790076"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -23,20 +23,20 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="8.979798"
-     inkscape:cx="47.384139"
-     inkscape:cy="34.187851"
-     inkscape:window-width="1266"
+     inkscape:zoom="1.5974269"
+     inkscape:cx="21.284229"
+     inkscape:cy="60.722653"
+     inkscape:window-width="1920"
      inkscape:window-height="986"
-     inkscape:window-x="654"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="g15089">
     <inkscape:grid
        type="xygrid"
        id="grid858"
-       originx="-35.374164"
-       originy="-68.666397" />
+       originx="14.193311"
+       originy="-41.369967" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -73,7 +73,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-35.374143,-68.666408)">
+     transform="translate(14.193333,-41.369979)">
     <g
        id="g19660"
        transform="matrix(-0.07237735,0,0,0.07237735,84.693886,-181.16842)">
@@ -82,7 +82,7 @@
          transform="translate(-3833.2853,3126.8416)">
         <g
            id="g4130-5-8-2-3-8"
-           transform="matrix(0.68416487,0,0,0.68416487,4119.7855,176.28402)"
+           transform="matrix(4.0198611,0,0,4.0198611,2879.1467,-925.91067)"
            style="stroke-linecap:butt">
           <path
              inkscape:connector-curvature="0"
@@ -133,7 +133,7 @@
         </g>
         <g
            id="g17352-2-0"
-           transform="translate(3065.7917,-120)">
+           transform="matrix(5.8755741,0,0,5.8755741,-3313.6716,-2666.7493)">
           <circle
              r="25"
              cy="132.36218"
@@ -156,7 +156,7 @@
         </g>
         <g
            id="g5263-3-0"
-           transform="matrix(0.68416487,0,0,0.68416487,4084.2256,143.39682)"
+           transform="matrix(4.0198611,0,0,4.0198611,2670.2121,-1119.1419)"
            style="stroke-linecap:butt">
           <path
              inkscape:connector-curvature="0"
@@ -204,16 +204,16 @@
         </g>
         <text
            xml:space="preserve"
-           style="font-size:21.2171px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:3.18258"
-           x="-4515.8604"
-           y="479.40121"
+           style="font-size:124.663px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:18.6994"
+           x="-5206.3149"
+           y="855.0769"
            id="text7527"
            transform="scale(-1,1)"><tspan
              sodipodi:role="line"
              id="tspan7525"
-             style="stroke-width:3.18258"
-             x="-4515.8604"
-             y="479.40121">sens de la DEL : ................</tspan></text>
+             style="stroke-width:18.6994"
+             x="-5206.3149"
+             y="855.0769">sens de la DEL : ................</tspan></text>
       </g>
     </g>
   </g>

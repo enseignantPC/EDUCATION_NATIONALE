@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="13.850736mm"
-   height="9.0484753mm"
-   viewBox="0 0 13.850737 9.0484751"
+   width="92.583054mm"
+   height="60.483105mm"
+   viewBox="0 0 92.583062 60.483104"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="del_lamp_inverted.svg"
+   sodipodi:docname="sens2.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,20 +23,20 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="8.979798"
-     inkscape:cx="37.473003"
-     inkscape:cy="18.151856"
-     inkscape:window-width="1266"
+     inkscape:zoom="1.061528"
+     inkscape:cx="61.23249"
+     inkscape:cy="24.492996"
+     inkscape:window-width="1920"
      inkscape:window-height="986"
-     inkscape:window-x="654"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g4130-5-8-2-3-8">
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g19660">
     <inkscape:grid
        type="xygrid"
        id="grid858"
-       originx="-36.389341"
-       originy="-68.666397" />
+       originx="2.9768402"
+       originy="-42.949084" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -73,13 +73,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-36.389325,-68.666408)">
+     transform="translate(2.9768589,-42.949096)">
     <g
        id="g19660"
        transform="matrix(0.07237735,0,0,0.07237735,1.9355,-181.16842)">
       <g
          id="g15089"
-         transform="translate(-3833.2853,3126.8416)">
+         transform="matrix(6.684342,0,0,6.684342,-28872.812,924.13288)">
         <g
            id="g4130-5-8-2-3-8"
            transform="matrix(0.68416487,0,0,0.68416487,4119.7855,176.28402)"

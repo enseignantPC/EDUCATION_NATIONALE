@@ -23,6 +23,11 @@
 \usepackage{multido} % required for answerbox
 \usepackage[most]{tcolorbox} % Required for boxes that split across pages
 
+\usepackage{atbegshi}
+\usepackage{etoolbox}
+\usepackage{transparent}
+\usepackage{eso-pic}
+
 %----------------------------------------------------------------------------------------
 %	MARGINS
 %----------------------------------------------------------------------------------------
@@ -59,14 +64,19 @@
 
 %Format Header and footer
 \pagestyle{headandfoot}
-\header{\footnotesize Physique Chimie}{\Large\textbf{Chapitre 1}}{Nom : \ldots\ldots\ldots\ldots\ldots\ldots \\ Prénom : \ldots\ldots\ldots\ldots\ldots\ldots}
+\header{Physique Chimie}{\Large\textbf{Chapitre 1}}{
+	\footnotesize  
+	Classe : \ldots\ldots\ldots\ldots\ldots\ldots
+	\\ Nom et prénom: \ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots 
+}
 \headrule
 \footrule
 \setlength{\columnsep}{0.25cm}
 \setlength{\columnseprule}{1pt}
-\footer{}{Page \thepage sur \pageref{LastPage}}{}
+\footer{}{ Page \thepage \hphantom s sur \pageref{LastPage} }{}
 % \extrafootheight{-2cm}
 
+\pagestyle{plain}
 % Change section command behaviour
 \usepackage{titlesec}
 % \titleformat{\section}[frame]{\Huge\bfseries\filright}{}{2mm}{\centering Devoir surveillé: }
@@ -121,8 +131,32 @@
 	\fi
 }
 
-
-
 \renewcommand*\half{.5}
 
 % \qformat{\textbf{\large Question \thequestion\hfill}  (\thepoints)}
+
+
+\AtBeginShipout{
+\ifnumodd{\thepage}{
+
+\AddToShipoutPictureBG*{
+    % \includegraphics[]{example-grid-100x100bp}}
+    % \transparent{0.4}
+    \includegraphics[]{bg1.png}
+    }
+}{
+
+\AddToShipoutPictureBG*{
+    % \includegraphics[]{example-grid-100x100bp}}
+    % \transparent{0.4}
+    \includegraphics[]{bg2.png}
+    }
+}
+
+}
+
+\AddToShipoutPictureBG*{
+    % \includegraphics[]{example-grid-100x100bp}}
+    % \transparent{0.4}
+    \includegraphics[]{bg1.png}
+    }

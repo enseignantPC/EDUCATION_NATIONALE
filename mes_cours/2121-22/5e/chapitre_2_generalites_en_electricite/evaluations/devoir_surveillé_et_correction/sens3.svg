@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="13.126963mm"
-   height="9.0484753mm"
-   viewBox="0 0 13.126964 9.0484751"
+   width="69.400841mm"
+   height="47.83831mm"
+   viewBox="0 0 69.400848 47.838308"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="lamp_lamp_inverted.svg"
+   sodipodi:docname="sens3.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,20 +23,20 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="8.979798"
-     inkscape:cx="45.825084"
-     inkscape:cy="14.031496"
-     inkscape:window-width="1266"
+     inkscape:zoom="1.3032571"
+     inkscape:cx="104.35393"
+     inkscape:cy="53.711582"
+     inkscape:window-width="1920"
      inkscape:window-height="986"
-     inkscape:window-x="654"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g4130-5-8-2-7">
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g19933">
     <inkscape:grid
        type="xygrid"
        id="grid858"
-       originx="-38.458469"
-       originy="-68.56898" />
+       originx="-10.321538"
+       originy="-49.174058" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
@@ -44,13 +44,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-38.458458,-68.568987)">
+     transform="translate(-10.321522,-49.17407)">
     <g
        id="g19933"
        transform="matrix(0.07237735,0,0,0.07237735,-106.24672,8.857993)">
       <g
          style="stroke-linecap:butt"
-         transform="matrix(0.68416487,0,0,0.68416487,1809.7855,676.28402)"
+         transform="matrix(3.6171063,0,0,3.6171063,608.53614,-229.19595)"
          id="g4130-5-8-2-7">
         <path
            sodipodi:nodetypes="cccc"
@@ -102,7 +102,7 @@
         </g>
       </g>
       <g
-         transform="translate(750.79173,380)"
+         transform="matrix(5.2868924,0,0,5.2868924,-4990.2501,-1795.6177)"
          id="g17352-7">
         <circle
            r="25"
@@ -127,11 +127,11 @@
       <path
          inkscape:connector-curvature="0"
          id="path2822-2-5-5-0-5"
-         d="M 2110.4877,932.36218 H 2070"
-         style="fill:none;stroke:#000000;stroke-width:1.36833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 2198.3163,1124.6617 H 1984.2621"
+         style="fill:none;stroke:#000000;stroke-width:7.23422;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:nodetypes="cc" />
       <g
-         transform="translate(774.99998,380)"
+         transform="matrix(5.2868924,0,0,5.2868924,-4862.2637,-1795.6177)"
          id="g17357-0">
         <g
            transform="matrix(0.68416487,0,0,0.68416487,1151.3254,499.43369)"

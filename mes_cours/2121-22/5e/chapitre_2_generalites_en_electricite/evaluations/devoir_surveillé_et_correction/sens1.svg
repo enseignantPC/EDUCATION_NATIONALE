@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="13.850736mm"
-   height="9.0484753mm"
-   viewBox="0 0 13.850737 9.0484751"
+   width="151.21062mm"
+   height="98.783592mm"
+   viewBox="0 0 151.21063 98.783592"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="del_lamp.svg"
+   sodipodi:docname="sens1.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,20 +23,20 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="8.979798"
-     inkscape:cx="38.697975"
-     inkscape:cy="28.731159"
-     inkscape:window-width="986"
+     inkscape:zoom="0.67328537"
+     inkscape:cx="152.98119"
+     inkscape:cy="191.59781"
+     inkscape:window-width="1920"
      inkscape:window-height="986"
-     inkscape:window-x="934"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
        id="grid858"
-       originx="-36.389341"
-       originy="-68.666397" />
+       originx="32.290601"
+       originy="-23.798794" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -73,10 +73,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-36.389325,-68.666408)">
+     transform="translate(32.290617,-23.798805)">
     <g
        id="g19660"
-       transform="matrix(0.07237735,0,0,0.07237735,1.9355,-181.16842)">
+       transform="matrix(0.79015465,0,0,0.79015465,-408.42832,-2703.6864)">
       <g
          id="g15089"
          transform="translate(-3833.2853,3126.8416)">
