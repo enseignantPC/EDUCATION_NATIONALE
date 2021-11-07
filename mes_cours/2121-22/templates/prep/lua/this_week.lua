@@ -81,7 +81,7 @@ return {
         "", -- next_time
         "", --punition
         "", -- remarque
-        "sA :Lun15h -- sB Mar16h", -- creneau retenue
+        "sA :Lun15-17h -- sB Lun16h Mer8h", -- creneau retenue
         "11h25", -- horaire
         "" -- prgramme_du_jour
     ),
@@ -93,7 +93,7 @@ return {
         "", -- next_time
         "", --punition
         "", -- remarque
-        "sB Mer9h Ven9h", -- creneau retenue
+        "sA Ven15h sB Mer8-10h", -- creneau retenue
         "14h55", -- horaire
         "" -- prgramme_du_jour
     ),
@@ -105,7 +105,7 @@ return {
         "", -- next_time
         "", --punition
         ",", -- remarque
-        "Lun8h -- sB Mer11h", -- creneau retenue
+        "sA Jeu -- sB Vscol Jeu8h", -- creneau retenue
         "10h15", -- horaire
         "" -- prgramme_du_jour
     ),
@@ -117,7 +117,7 @@ return {
         "", -- next_time
         "", --punition
         "", -- remarque
-        "Lun8h -- sB Ven14h", -- creneau retenue
+        "Lun8h(vdc) Ven16h", -- creneau retenue
         "12h25", -- horaire
         "" -- prgramme_du_jour
     ),
@@ -129,7 +129,7 @@ return {
         "", -- next_time
         "", --punition
         "", -- remarque
-        "sA Mar16h -- Ven14h", -- creneau retenue
+        "sA Mar16h --sA et sB Ven14h", -- creneau retenue
         "10h15", -- horaire
         "" -- prgramme_du_jour
     )
