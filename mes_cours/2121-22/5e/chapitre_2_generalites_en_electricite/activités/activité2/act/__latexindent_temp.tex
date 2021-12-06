@@ -20,6 +20,7 @@
 
 \documentclass[10pt]{article}
 \input{activite.sty} % Include the file specifying the document structure and custom commands
+\usepackage{subfig, dblfloatfix} % fix for bottom-placement of figure
 
 
 \newtcolorbox{mybox}[1][]{
@@ -56,10 +57,8 @@
 		\item Comprendre l'effet du sens du courant sur le fonctionnement de certains dipôles.
 		\item Comprendre le fonctionnement des diodes.
 	\end{itemize}
-} % titre de l'activité
-\newcommand{\contexte}{
-	Laeticia raconte ...
 }
+
 \newcommand{\resumeContexte}{
 	Le sens du courant a-t-il un effet sur certains dipôles ?
 	} % titre de l'activité
@@ -86,7 +85,7 @@
 
 \vspace{4pt}
 
-\underline{\textbf{Contexte}} :  \textit{\contexte}
+% \underline{\textbf{Contexte}} :  \textit{\contexte}
 
 % \begin{center}
 % 	\includegraphics[width=0.55\columnwidth]{activité.jpg} % Example image
@@ -123,12 +122,27 @@ interrupteur.
 \begin{question}
 	
 	\questiontext{
-	 \textbf{Compléter} le schéma suivant pour 
+	 \textbf{Compléter} les schémas suivants pour 
 	 indiquer le sens du courant.
 	}
 	\end{question}
+	
+	\begin{center}
+		\begin{minipage}[c]{0.45\textwidth}
+			\centering
+			\includegraphics[width=3.5cm]{lamp_lamp_inverted.png}
+		\end{minipage}
+		\hspace{0pt}
+		\begin{minipage}[c]{0.45\textwidth}
+			\centering
+			\includegraphics[width=3.5cm]{lamp_lamp.png}
+		\end{minipage}
+	\end{center}
 
-	include graphique here
+
+
+
+
 
 %----------------------------------------------------------------------------------------
 %	QUESTION 2
@@ -139,23 +153,41 @@ interrupteur.
 		Effet sur la lampe.
 	}
 	\end{question}
-	\subquestion{
-		\textbf{Indiquer} le sens du courant sur chacun
-	des schémas ci dessous.
-	}
-	\subquestion{
-		\textbf{Réaliser} les circuits
-		}	
-		
-	\subquestion{
-		\textbf{Indiquer} l'état de la lampe 
-		sur les pointillés.
+
+
+	\begin{minipage}[c]{0.55\textwidth}
+		\subquestion{
+			\textbf{Indiquer} le sens du courant sur chacun
+		des schémas ci dessous.
 		}
-	\error{include graphique here}
-	\subquestion{
-		\textbf{Conclure sur la question} .
-		}
-		\answerbox{3}
+
+		\subquestion{
+			\textbf{Réaliser} les circuits}	
+			
+		\subquestion{
+			\textbf{Indiquer} l'état de la lampe 
+			sur les pointillés.
+			}
+		\subquestion{
+			\textbf{Écrire} une phrase de conclusion.
+			}
+	\end{minipage}
+	\hspace{10pt}
+	\begin{minipage}[c]{0.45\textwidth}
+		\begin{minipage}[t]{0.45\textwidth}
+			\includegraphics[width=4cm]{example-image}
+		\end{minipage}
+		\hspace{ 20pt}
+		\begin{minipage}[t]{0.45\textwidth}
+			\includegraphics[width=4cm]{example-image}
+		\end{minipage}	
+	\end{minipage}
+
+	\vspace{10pt}
+
+	\answerbox{3}
+
+	
 
 	%----------------------------------------------------------------------------------------
 	%	QUESTION 3
@@ -166,48 +198,68 @@ interrupteur.
 		Effet sur le moteur.		
 		}
 		\end{question}
-		\subquestion{
-			\textbf{Indiquer} le sens du courant sur chacun
-		des schémas ci dessous.
-		}
-		\subquestion{
-			\textbf{Réaliser} les circuits.
-			}	
-			
-		\subquestion{
-			\textbf{Indiquer} le sens de rotation du moteur sur les pointillés.
+
+		\begin{minipage}[c]{0.65\textwidth}
+			\subquestion{
+				\textbf{Indiquer} le sens du courant sur chacun
+			des schémas à droite.
 			}
-	include graphique here
-		\subquestion{
-			\textbf{Conclure sur la question} .
-			}
-			\answerbox{3}
+			\subquestion{
+				\textbf{Réaliser} les circuits.
+				}	
+				
+			\subquestion{
+				\textbf{Indiquer} le sens de rotation du moteur sur les pointillés.
+				}
+	
+			\subquestion{
+				\textbf{Écrire} une phrase de conclusion.
+				}
+		\end{minipage}
+		\hspace{0pt}
+		\begin{minipage}[c]{0.25\textwidth}
+			\begin{center}
+				\includegraphics[width=4cm]{example-image}
+			\end{center}
+		\end{minipage}
+
+		\vspace{10pt}
+		\answerbox{3}
 
 	%----------------------------------------------------------------------------------------
 	%	QUESTION 4
 	%----------------------------------------------------------------------------------------
-	\clearpage
+	
 	\begin{question}
 		\questiontext{
 		Effet sur la DEL.		
 		}
 		\end{question}
-		\subquestion{
-			\textbf{Indiquer} le sens du courant sur chacun
-		des schémas ci dessous.
-		}
-		\subquestion{
-			\textbf{Réaliser} les circuits.
-			}	
-			
-		\subquestion{
-			\textbf{Indiquer} l'état de la DEL sur les pointillés.
-			}
-	include graphique here
-		\subquestion{
-			\textbf{Conclure sur la question} .
-			}
-			\answerbox{3}
+
+		\begin{minipage}[c]{0.65\textwidth}
+					\subquestion{
+					\textbf{Indiquer} le sens du courant sur chacun
+				des schémas ci dessous.}
+				\subquestion{
+					\textbf{Réaliser} les circuits.
+					}	
+					
+				\subquestion{
+					\textbf{Indiquer} l'état de la DEL sur les pointillés.
+					}
+				\subquestion{
+					\textbf{Écrire} une phrase de conclusion.
+					}
+		\end{minipage}
+		\hspace{10pt}
+		\begin{minipage}[c]{0.25\textwidth}
+			\begin{center}
+				\includegraphics[width=4cm]{example-image}
+			\end{center}
+		\end{minipage}
+
+		\vspace{10pt}
+		\answerbox{3}
 
 
 

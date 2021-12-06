@@ -1,0 +1,167 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Cleese Assignment (For Students)
+% LaTeX Template
+% Version 2.0 (27/5/2018)
+%
+% This template originates from:
+% http://www.LaTeXTemplates.com
+%
+% Author:
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+
+
+\documentclass[10pt]{article}
+
+\input{fiche_methode.sty} % Include the file specifying the document structure and custom commands
+\usepackage{tikz}
+\usepackage{svg}
+
+%----------------------------------------------------------------------------------------
+%	VARIABLES
+%----------------------------------------------------------------------------------------
+
+\newcommand{\titre}{Fiche méthode : Tracer des graphiques} % titre de l'activité
+\newcommand{\introduction}{
+    Lorsque les scientifiques font des expériences, ils.elles
+    remplissent généralement des 
+    \textbf{\color{DarkRed} {tableaux de donnée}}.
+    
+    Par exemple, une physicienne peut faire chauffer de l'eau et noter 
+    régulièrement la température de l'eau. Il y aura alors deux données importantes : 
+    La \textbf{\color{DarkRed} {température}} et 
+    \textbf{\color{DarkRed} {l'intervalle de temps qui est passé}}.
+
+    Pour \textbf{\color{DarkRed} {visualiser des données}}, on va utiliser un 
+    \textbf{\color{DarkRed} {graphique}} (ou courbe). Il s'agit d'un des outils 
+    les plus puissants des scientifiques et maîtriser sa puissance 
+    prendra des années.
+}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+\tikzstyle{every picture}+=[remember picture]
+\tikzstyle{na} = [shape=rectangle,inner sep=0pt,text depth=0pt]
+
+\thispagestyle{fancy}
+\cfoot{}
+
+
+\begin{titlebox}{\titre}
+    \tcbsubtitle{introduction:}    
+    % for wrapping an icon left or right ----------------------------
+    % \vspace{10pt}
+
+    % \begin{wrapfigure}[]{L}{3.5cm}
+    %     \vspace*{-0.6cm}
+    %     \tcbincludegraphics[width=3cm,colback=white]{icon.png}
+    % \end{wrapfigure}%
+    
+    \hspace{0pt}
+    \begin{minipage}[c]{0.15\textwidth}
+        \tcbincludegraphics[width=\columnwidth]{icon.png}
+    \end{minipage}
+    \hspace{20pt}
+    \begin{minipage}[c]{0.8\textwidth}
+        \textit{\introduction}
+    \end{minipage}
+    \hspace{-20pt}
+    % ---------------------------------------------------------------
+    
+    \tcbsubtitle{1. Je trace les axes.} 
+
+    \underline{Exemple d'énoncé:}
+
+    \begin{center}
+        \textit{« Trace la courbe qui représente l'évolution de la \tikz\node[na](word1){température}; en fonction du \tikz\node[na](word2){temps};. »}
+    \end{center}
+    
+    \begin{minipage}[t]{0.5\textwidth}
+        \centering Dans ce cas là, \tikz\node[na](word3){l'axe des ordonnées}; (vertical) représente la température.
+    \end{minipage}
+    \hspace{5pt}
+    \begin{minipage}[c]{0.5\textwidth}
+        \centering \tikz\node[na](word4){L'axe des abscisses}; (horizontal) représente le temps.
+    \end{minipage}
+      
+    \begin{tikzpicture}[overlay]
+        \path[<->,red,thick](word3) edge [out=20, in=-20] (word1);
+        \path[<->,red,thick](word4) edge [out=20, in=-20] (word2);
+    \end{tikzpicture}
+
+    \vspace{5pt}
+
+    \begin{minipage}[l]{0.45\textwidth}
+        \centering
+        Je trace deux axes perpendiculaires, sur lesquels j’indique :
+    \begin{itemize}
+        \item En abscisse (horizontalement) le nom de la variable connue (ici le temps) et son unité (ici la seconde).
+        \item En ordonnée (verticalement) le nom de la variable mesurée (ici la température) et son unité (ici le degré Celsius : °C)
+        \item Je gradue les axes en indiquant quelques valeurs :
+        par exemple 0, 5, 10 en abscisse et 0, 10, 20, 30 en ordonnée.
+    \end{itemize}
+    \end{minipage}
+    \hspace{20pt}
+    \begin{minipage}[c]{0.45\textwidth}
+        \centering
+        \tcbincludegraphics[width=0.9\columnwidth]{clipped.png}
+        \hspace{-10pt}
+    \end{minipage}
+    
+    \tcbsubtitle{2. Je choisis l'échelle.} 
+    Je choisis une échelle et je l’indique clairement sur mon graphique. Par exemple :
+    \begin{itemize}
+        \item 1 cm représente 5°C se note : \framebox{1cm \leftrightarrow 5°C}
+        \item 1 cm représente 10 secondes se note : \framebox{1cm \leftrightarrow 10 sec}
+    \end{itemize}
+
+    On peut aussi choisir \framebox{1 carreau \leftrightarrow 5°C}
+    \tcbsubtitle{3. Je trace les points.} 
+    Les points sont représentées par des croix ( + ) placées à l’intersection de la ligne verticale passant par l’abscisse et de la ligne
+    horizontale passant par l’ordonnée.
+
+    % for wrapping an icon left or right ----------------------------
+        % \begin{wrapfigure}[]{R}{2.8cm}
+        %     \vspace*{-0.75cm}
+        %     \tcbincludegraphics[width=3cm,colback=white]{icon.jpeg}
+        % \vspace{-30pt}
+        % \end{wrapfigure}%
+        % % ---------------------------------------------------------------
+        % \phantom{0pt}
+        % \vspace{4cm}
+    % \linebreak[4]
+    % \tcblower
+    \tcbsubtitle{4. Je dessines la courbe.} 
+    Elle doit être régulière et doit passer le plus près possible des croix mais on ne relie pas tous les points par des segments.
+
+    \tcbsubtitle{5. J'écris le titre du graphique} 
+    \begin{center}        
+    \begin{minipage}[c]{0.25\textwidth}
+        Pour terminer, on donne un titre au graphique 
+        (ici, « Evolution de la température en fonction du temps »
+        convient).
+
+        Après avoir suivi toutes les étapes, un graphique peut
+        ressembler à ça:
+    \end{minipage}
+    \hspace{10pt}
+    \begin{minipage}[c]{0.7\textwidth}
+        \centering
+        \tcbincludegraphics[width=0.9\columnwidth]{fg.png}
+    \end{minipage}
+    \end{center}
+    
+\end{titlebox}
+
+
+\end{document}
