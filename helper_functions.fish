@@ -46,6 +46,10 @@ end
 
 
 function ENbuild
+	concurrent_latex-builder $argv
+end
+
+function ENoldbuild
 	set currdir (pwd)
 	echo "currdir is $currdir"
 	for k in **/{act, presentation, cours, fiche_methode}*.tex
@@ -60,7 +64,6 @@ function ENbuild
 	end
 	echo "dont forget to ENclean"
 end
-
 
 function ENclean
 	rm **build/
