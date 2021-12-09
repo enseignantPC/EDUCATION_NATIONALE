@@ -25,6 +25,7 @@
 \input{fiche_methode.sty} % Include the file specifying the document structure and custom commands
 \usepackage{tikz}
 \usepackage{svg}
+\usepackage{awesomebox}
 
 %----------------------------------------------------------------------------------------
 %	VARIABLES
@@ -101,7 +102,7 @@
 
     \vspace{5pt}
 
-    \begin{minipage}[l]{0.45\textwidth}
+    \begin{minipage}[c]{0.5\textwidth}
         \centering
         Je trace deux axes perpendiculaires, sur lesquels j’indique :
     \begin{itemize}
@@ -110,14 +111,39 @@
         \item Je gradue les axes en indiquant quelques valeurs :
         par exemple 0, 5, 10 en abscisse et 0, 10, 20, 30 en ordonnée.
     \end{itemize}
+    \vspace{-7pt}
+    \notebox{
+            On est pas obligé de commencer par 0°C en ordonnée!
+            La température ambiante de l'eau étant d'environ 25°C
+            On pourra commencer par 20°C.
+         }
     \end{minipage}
     \hspace{20pt}
-    \begin{minipage}[c]{0.45\textwidth}
-        \centering
-        \tcbincludegraphics[width=0.9\columnwidth]{clipped.png}
-        \hspace{-10pt}
+    \begin{minipage}[c]{0.5\textwidth}
+        % \centering
+        % \tcbincludegraphics[width=0.9\columnwidth]{clipped.png}
+        % \hspace{-10pt}
+        \begin{center}        
+                \begin{tikzpicture}[scale=0.5]
+                    % \draw[color=gray] (-1,-1) grid (10,10);
+                    \draw[very thin,color=gray,step=1] (0,0) grid (10,10);
+                    \draw[->,very thick] (0,0) -- (0,10) node[below right] {Température en °C};
+                    \draw[->,very thick] (0,0) -- (10,0);
+                    \node[above right] at (7,0) {Temps en secondes};
+                    \foreach \x in {0,...,9} {
+                        % \let\xx=\x/2+1
+                        \draw[thick] (\x,0) -- (\x,-0.2) node[below left] {
+                            \tiny \directlua{tex.sprint((\x*10))}
+                            };
+                            \draw[thick] (0,\x) -- (-0.2,\x) node[left]{
+                                \tiny \directlua{tex.sprint((\x*5))}
+                            };
+                    }
+                \end{tikzpicture}
+        \end{center}
     \end{minipage}
-    
+    \vspace{0pt}
+        
     \tcbsubtitle{2. Je choisis l'échelle.} 
     Je choisis une échelle et je l’indique clairement sur mon graphique. Par exemple :
     \begin{itemize}
