@@ -1,0 +1,198 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Cleese Assignment (For Students)
+% LaTeX Template
+% Version 2.0 (27/5/2018)
+%
+% This template originates from:
+% http://www.LaTeXTemplates.com
+%
+% Author:
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[10pt]{article}
+% \input{structure.tex} % Include the file specifying the document structure and custom commands
+\input{/home/astrale/Cours/EDUCATION_NATIONALE/mes_cours/2121-22/templates/activité/act/activite.sty} % Include the file specifying the document structure and custom commands
+
+
+%----------------------------------------------------------------------------------------
+%	ASSIGNMENT INFORMATION
+%----------------------------------------------------------------------------------------
+
+% Required
+\newcommand{\assignmentQuestionName}{Question} % The word to be used as a prefix to question numbers; example alternatives: Problem, Exercise
+\newcommand{\assignmentClass}{Physique Chimie} % Course/class
+\newcommand{\assignmentTitle}{Activité n°2} % Assignment title or name
+\newcommand{\assignmentAuthorName}{Chapitre 3} %
+
+%----------------------------------------------------------------------------------------
+%	VARIABLES
+%----------------------------------------------------------------------------------------
+
+\newcommand{\titreActivite}{
+	\huge Activité 2: Différence entre 
+	circuits en série et circuits en dérivation.} % titre de l'activité
+\newcommand{\objectif}{ 	
+	\begin{itemize}
+		\item Connaître l'influence du nombre de dipôle, 
+		l'ordre des dipôles et d'une panne de dipôle sur 
+		un circuit en série ou en dérivation.
+	\end{itemize}
+} % titre de l'activité
+\newcommand{\contexte}{ 
+	Jeremy Reese
+	}
+\newcommand{\resumeContexte}{
+
+	} 
+
+
+
+
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+\date{}
+\title{\titreActivite}
+\maketitle % Print the title page
+
+\underline{\textbf{Objectif}} :  \vspace{2pt}
+\objectif
+
+\vspace{8pt}
+
+\underline{\textbf{Contexte}} :  \textit{\contexte}
+
+\begin{center}
+	\includegraphics[width=0.2\columnwidth]{example-image} % Example image
+\end{center}
+
+\textbf{\resumeContexte}
+\vspace{-12pt}
+%% ----------------------------------
+
+\assignmentSection{Votre mission travail}
+
+%----------------------------------------------------------------------------------------
+%	QUESTION 
+%----------------------------------------------------------------------------------------
+
+\begin{question}
+	\questiontext{
+		Pour chacune des tables suivantes:
+	}
+	\end{question}
+	
+	\subquestion{\textbf{Réaliser} les circuits représentés.}
+	\subquestion{\textbf{Compléter} les phrases de conclusion sur les pointillés.}
+%	\answerbox{}
+% \setlength{\arrayrulewidth}{0.5mm}
+% \setlength{\tabcolsep}{18pt}
+
+\renewcommand{\arraystretch}{1.5}
+% \begin{center}
+	\centering
+	\begin{tabular}{cc} \toprule
+		\multicolumn{2}{c}{Influence du nombre de recepteur} \\ \midrule
+		% \cmidrule{1-2}
+		Circuit en série & Circuit en dérivation\\ \midrule
+		\includegraphics[width=0.2\columnwidth]{example-image} 
+								& \includegraphics[width=0.2\columnwidth]{example-image} \\
+		% 
+		\parbox[t]{0.47\textwidth}{
+		Plus le nombre de récepteurs
+					est important, plus
+					\answerbox{1}
+					} 			& \parbox[t]{0.47\textwidth}{
+								Plus le nombre de récepteurs
+								est important, plus
+								\answerbox{1} }
+													\\ %\bottomrule
+	\end{tabular}
+	\begin{tabular}{cc} \toprule
+		\multicolumn{2}{c}{Influence de l'ordre des dipôles} \\ \midrule
+		% \cmidrule{1-2}
+		Circuit en série & Circuit en dérivation\\ \midrule
+		\includegraphics[width=0.2\columnwidth]{example-image} 
+								& \includegraphics[width=0.2\columnwidth]{example-image} \\
+		% 
+		\parbox[t]{0.47\textwidth}{
+			Quand on change l'ordre des dipôle,
+			on observe
+			\answerbox{1}}
+								& \parbox[t]{0.47\textwidth}{
+									Quand on change l'ordre des dipôle,
+									on observe \answerbox{1}
+									} \\
+	\end{tabular}
+% \end{center}
+
+% \begin{center}
+	\begin{tabular}{cc} \toprule
+		\multicolumn{2}{c}{Influence d'une lampe dévissée ou grillé.} \\ \midrule
+		% \cmidrule{1-2}
+		Circuit en série & Circuit en dérivation\\ \midrule
+		\includegraphics[width=0.2\columnwidth]{example-image} 
+								& \includegraphics[width=0.2\columnwidth]{example-image} \\
+		% 
+		\parbox[t]{0.47\textwidth}{
+			Si une lampe est dévissée ou grillée, le circuit \vspace{10pt}\answerbox{2}}
+								& \parbox[t]{0.47\textwidth}{
+									Si une lampe est dévissée ou grillée, le circuit \vspace{10pt}\answerbox{2}
+									} \\
+	\end{tabular}
+% \end{center}
+
+
+% \begin{center}
+	\begin{tabular}{cc} \toprule
+		\multicolumn{2}{c}{Influence d'un court circuit} \\ \midrule
+		% \cmidrule{1-2}
+		Circuit en série & Circuit en dérivation\\ \midrule
+		\includegraphics[width=0.2\columnwidth]{example-image} 
+								& \includegraphics[width=0.2\columnwidth]{example-image} \\
+		% 
+		\parbox[t]{0.47\textwidth}{
+			\begin{itemize}
+				\item Si la lampe OU le moteur est court circuité alors
+			\end{itemize}
+			\answerbox{2}
+			\begin{itemize}
+				\item Si la pile est court circuité alors 
+			\end{itemize}
+			\answerbox{1}
+			\begin{itemize}
+				\item On peut dire si le circuit est dangereux (ou pas) car
+			\end{itemize}
+			\answerbox{2}
+			}
+								& \parbox[t]{0.47\textwidth}{
+									\begin{itemize}
+										\item Si la lampe OU le moteur est court circuitée alors
+									\end{itemize}
+									\answerbox{2}
+									\begin{itemize}
+										\item Si la pile est court circuitée alors 
+									\end{itemize}
+									\answerbox{1}
+									\begin{itemize}
+										\item On peut dire si le circuit est dangereux (ou pas) car
+									\end{itemize}
+									\answerbox{2}
+									} \\
+	\end{tabular}
+% \end{center}
+
+\end{document}
