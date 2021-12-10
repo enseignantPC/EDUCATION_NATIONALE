@@ -1,0 +1,131 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Cleese Assignment (For Students)
+% LaTeX Template
+% Version 2.0 (27/5/2018)
+%
+% This template originates from:
+% http://www.LaTeXTemplates.com
+%
+% Author:
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[10pt]{article}
+\input{activite.sty} % Include the file specifying the document structure and custom commands
+% \usepackage{activite}
+%----------------------------------------------------------------------------------------
+%	ASSIGNMENT INFORMATION
+%----------------------------------------------------------------------------------------
+
+% Required
+\newcommand{\assignmentQuestionName}{Question} % The word to be used as a prefix to question numbers; example alternatives: Problem, Exercise
+\newcommand{\assignmentClass}{Physique Chimie} % Course/class
+\newcommand{\assignmentTitle}{Activité n°3} % Assignment title or name
+\newcommand{\assignmentAuthorName}{Chapitre 3} %
+
+%----------------------------------------------------------------------------------------
+%	VARIABLES
+%----------------------------------------------------------------------------------------
+
+\newcommand{\titreActivite}{Activité 3: Élaborer un circuit électrique.} % titre de l'activité
+\newcommand{\objectif}{ 	
+	
+	\begin{itemize}
+		\item Élaborer et réaliser un circuit électrique répondant à un cahier des charges simple.
+	\end{itemize}
+} % titre de l'activité
+\newcommand{\contexte}{
+	L’enseignant.e de physique chimie veut réaliser un circuit permettant 
+	d’informer les élèves de la procédure à suivre en cas de retard.
+	\begin{itemize}
+		\item 	Il souhaite installer un feu tricolore sur la porte de sa salle:
+		\begin{itemize}
+			\item vert : l’élève peut rentrer sans frapper.
+			\item orange: l’élève doit frapper à la porte puis s’excuser 
+			de son retard mais il peut encore assister au cours.
+			\item rouge : l’élève doit descendre à la vie scolaire.
+		\end{itemize}
+		\item Il veut aussi des lampes témoins sur son bureau, 
+		pour connaître quel lampe est allumée à l'extérieure.
+		\item Chaque paire de lampes doit fonctionner indépendamment et chaque lampe témoin ne doit s’allumer que si la lampe
+		correspondante dehors brille.		
+	\end{itemize}
+	}
+\newcommand{\resumeContexte}{
+	Saura-tu aider l'eneignant.e de physique chimie 
+	à \emph{enfin avoir la paix, bon sang?!}
+} % titre de l'activité
+
+
+
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+\date{}
+\title{\titreActivite}
+\maketitle % Print the title page
+
+%----------------------------------------------------------------------------------------
+%	QUESTION 1
+%----------------------------------------------------------------------------------------
+
+\underline{\textbf{Objectif}} :  \vspace{2pt}
+\objectif
+
+\vspace{4pt}
+
+\underline{\textbf{Contexte}} :  \textit{\contexte}
+
+\begin{center}
+	\includegraphics[width=0.25\columnwidth]{activite.jpg} % Example image
+\end{center}
+
+\textbf{\resumeContexte}
+\vspace{-12pt}
+%% ----------------------------------
+
+\assignmentSection{Votre mission travail}
+%----------------------------------------------------------------------------------------
+%	QUESTION 
+%----------------------------------------------------------------------------------------
+
+\begin{question}
+	\questiontext{
+		En groupe de 3 ou 4 : \textbf{Réaliser} sur le cahier ou au dos de l'activité
+		le schéma du circuit électrique qui permet de 
+		satisfaire l'enseignant.e.	
+	}
+	\end{question}
+	\subquestion{\textbf{Faire valider.}}
+	\subquestion{\textbf{Réaliser le circuit.}}
+	\subquestion{\textbf{Faire valider.}}
+
+
+%----------------------------------------------------------------------------------------
+%	QUESTION 
+%----------------------------------------------------------------------------------------
+
+\begin{question}
+	\questiontext{
+		L'enseigant.e est très content.e de son nouveau circuit. 
+		Mais il.elle a une nouvelle commande : cette fois-ci
+		
+		\includegraphics[width=0.2\columnwidth]{example-image}
+	}
+	\end{question}
+%	\answerbox{}
+
+
+\end{document}
