@@ -1,0 +1,117 @@
+\documentclass[11pt]{exam}		%Doc : https://mirrors.ircam.fr/pub/CTAN/macros/latex/contrib/exam/examdoc.pdf
+
+% \printanswers					%Comment this line to hide the answers 
+
+\pointpoints{point}{points}
+\addpoints
+
+\input{ds.sty}
+
+
+%----------------------------------------------------------------------------------------
+%	REQUIRED
+%----------------------------------------------------------------------------------------
+\newcommand{\Titre}{La matière} % 
+\newcommand{\ConsignesGenerales}{
+	
+	\begin{itemize}
+		\item Noter nom et prénom et classe en haut à gauche de la page.
+		\item Répondre aux questions sur les pointillés.
+		\item Répondre aux questions par des phrases.
+		\item Essayer de répondre à toutes les questions.
+		\item Ne pas perdre trop de temps si on ne sait pas/comprends 
+		pas et passer à la suite pour avoir un maximum de points! 
+		% \item Ne pas se décourager :)
+		\vspace{-5pt}
+	\end{itemize}}
+
+\title{\Titre}
+\begin{document}
+\thispagestyle{headandfoot}
+
+\section{\Titre} % peut faire une partie d'un gros examen
+
+\headrule
+\footrule
+\setlength{\columnsep}{0.25cm}
+\setlength{\columnseprule}{1pt}
+
+
+
+% \begin{center}
+% 	\begin{tcolorbox}[
+% 		title=Consignes,
+% 		sidebyside,
+% 		colback=red!5!white,
+% 		colframe=red!75!black,
+% 		colbacktitle=yellow!30!red!50!white,
+% 		coltitle=red!25!black,
+% 		fonttitle=\bfseries,
+% 		subtitle style={boxrule=0.4pt,
+% 		colback=yellow!50!red!25!white} ]
+% 		\ConsignesGenerales
+
+% 		\tcblower
+
+% 		% \tcbincludegraphics[width=0.2\columnwidth]{logo.png}
+% 		\tcbincludegraphics[height=3.5cm, size=tight, colframe=red, boxrule=1pt, arc=10pt, auto outer arc, clip upper]{logo.png}
+		
+% 		% \tcbsubtitle{Second subtitle}
+% 		% Further text.
+% 		\end{tcolorbox}
+% \end{center}
+
+%----------------------------------------------------------------------------------------
+%	EDIT QUESTIONS HERE
+%----------------------------------------------------------------------------------------
+% {\huge Partie cours}
+
+\begin{questions}
+\question[1\half] 
+Quels sont les trois états de la matière?
+\answerbox{2}{La matière peut être à l'état solide, liquide ou gazeux.}
+
+\question[1] 
+Dans quel(s) état(s) la matière peut-elle être saisie?
+\answerbox{2}{.}
+
+\question[1] 
+Dans quel(s) état(s) l'eau est-elle visible?
+\answerbox{2}{.}
+
+\question[1\half] 
+Quelle est la différence entre de la matière inerte et de la matière vivante?
+\answerbox{2}{.}
+
+\question[1\half] 
+Quelle est la différence entre de la matière artificielle et de la matière naturelle?
+\answerbox{2}{.}
+
+\question[1\half] 
+Quelle est la différence entre de la matière isolante et de la matière conductrice?
+\answerbox{2}{.}
+
+
+\question[2] 
+D'où viennent les différents types de matière dans l'univers?
+\answerbox{2}{.}
+
+
+% {\huge Partie application}
+% \question[8] 
+% En dessous de chaque circuit, \textbf{dessiner} son \underline{schéma normalisé} à la règle et au crayon à papier.
+
+\end{questions}
+
+% \newpage
+% \hphantom{0pt}
+
+\vfill
+\begin{center}
+\setlength{\doublerulesep}{0.25in}
+\multirowgradetable{1}[questions]
+\vspace{-25pt}
+\end{center}
+
+
+\end{document}
