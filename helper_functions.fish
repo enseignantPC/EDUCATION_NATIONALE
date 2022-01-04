@@ -46,7 +46,7 @@ end
 
 
 function ENbuild
-	concurrent_latex-builder $argv
+	concurrent_latex-builder $argv && unoconv -e=pdf **.odt
 end
 
 function ENoldbuild
