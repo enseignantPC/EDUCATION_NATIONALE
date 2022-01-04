@@ -3,6 +3,7 @@ ressource/
 **.mkv
 remote/
 **.mp4
+**.webm
 
 # latex
 **build/
