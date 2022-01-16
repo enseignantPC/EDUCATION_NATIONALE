@@ -115,9 +115,9 @@ function Seance:_table_not_first_time_this_week()
 \hline
 \multicolumn{1}{|l|}{]].. self.creneau_retenue .. [[} & \multicolumn{2}{|l|} { \textbf{Remarque:} ]].. self.remarque .. [[} \\    
 \hline
-\multicolumn{3}{|l|}{\textbf{Pour la prochaine fois?} ]].. self.due_for_next_time_potentially .. [[}\\    
+\multicolumn{3}{|l|}{\textbf{Pour la prochaine fois?} ...}\\
 \hline
-\multicolumn{3}{|l|}{\textbf{Ajd nous allons :} ]].. self.programme_du_jour .. [[}\\    
+\multicolumn{3}{|l|}{\textbf{Ajd nous allons :} ... + }\\
 \hline]]
 end
 

@@ -3,7 +3,7 @@ Seance = Seance or error("Seance dependacy not satified for this_week.lua script
 return {
     _6A = Seance:new(
         "6A",
-        13,
+        14,
         "", -- last time
         "", -- for today
         "", -- next_time
@@ -15,7 +15,7 @@ return {
     ),
     _6B = Seance:new(
         "6B",
-        24,
+        23,
         "", -- last time
         "", -- for today
         "", -- next_time
@@ -51,7 +51,7 @@ return {
     ),
     _6G = Seance:new(
         "6G",
-        24,
+        22,
         "", -- last time
         "", -- for today
         "", -- next_time
@@ -111,7 +111,7 @@ return {
     ),
     _5G = Seance:new(
         "5G",
-        24,
+        22,
         "", -- last time
         "", -- for today
         "", -- next_time
@@ -123,7 +123,7 @@ return {
     ),
     _5H = Seance:new(
         "5H",
-        21,
+        22,
         "", -- last time
         "", -- for today
         "", -- next_time
